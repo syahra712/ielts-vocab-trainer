@@ -5,6 +5,8 @@ import { useParams } from 'next/navigation';
 import { useAuth } from '@/components/auth/AuthProvider';
 import { useStudySession } from '@/hooks/useStudySession';
 import { FlashcardMode } from '@/components/study/FlashcardMode';
+import { FillGapMode } from '@/components/study/FillGapMode';
+import { SpeedQuizMode } from '@/components/study/SpeedQuizMode';
 import { SessionProgress } from '@/components/study/SessionProgress';
 import { SessionComplete } from '@/components/study/SessionComplete';
 import { getAllWords, getAllCardStates } from '@/lib/firebase/firestore';
@@ -53,17 +55,19 @@ export default function StudyModePage() {
     );
   }
 
-  return <StudySession words={words} cardStates={cardStates} mode={mode} />;
+  return <StudySession words={words} cardStates={cardStates} mode={mode} allWords={words} />;
 }
 
 function StudySession({
   words,
   cardStates,
   mode,
+  allWords,
 }: {
   words: Word[];
   cardStates: Map<string, CardState>;
   mode: StudyMode;
+  allWords: Word[];
 }) {
   const session = useStudySession(words, cardStates, mode);
 
@@ -112,15 +116,32 @@ function StudySession({
       )}
 
       {mode === 'fill-gap' && (
-        <div className="rounded-xl border border-gray-200 bg-white p-8 text-center dark:border-gray-800 dark:bg-gray-900">
-          <p className="text-gray-500">Fill-the-gap mode coming soon.</p>
-        </div>
+        <FillGapMode
+          key={session.current.word.slug}
+          word={session.current.word}
+          onAnswer={(params) =>
+            session.submitAnswer({
+              correct: params.correct,
+              responseTimeMs: params.responseTimeMs,
+            })
+          }
+        />
       )}
 
       {mode === 'speed' && (
-        <div className="rounded-xl border border-gray-200 bg-white p-8 text-center dark:border-gray-800 dark:bg-gray-900">
-          <p className="text-gray-500">Speed quiz mode coming soon.</p>
-        </div>
+        <SpeedQuizMode
+          key={session.current.word.slug}
+          word={session.current.word}
+          allWords={allWords}
+          onAnswer={(params) =>
+            session.submitAnswer({
+              correct: params.correct,
+              responseTimeMs: params.responseTimeMs,
+              timedOut: params.timedOut,
+              timeRemainingPct: params.timeRemainingPct,
+            })
+          }
+        />
       )}
     </div>
   );
