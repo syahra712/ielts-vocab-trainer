@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "id": "buying-time",
+      "label": "Buying Time",
+      "color": "#3d5a80",
+      "description": "Natural fillers while you think — never stay silent",
+      "phrases": [
+        { "phrase": "That's an interesting question...", "when": "Part 2/3 — when you need a moment to organise your thoughts", "band": 6 },
+        { "phrase": "Let me think about that for a moment.", "when": "Part 3 — shows you're giving a thoughtful answer", "band": 6 },
+        { "phrase": "That's not something I've really considered before, but...", "when": "Part 3 — for unexpected questions", "band": 7 },
+        { "phrase": "Off the top of my head, I'd say...", "when": "Part 1/3 — casual and natural", "band": 7 },
+        { "phrase": "Well, if I had to choose, I'd probably say...", "when": "When asked to pick between options", "band": 7 },
+        { "phrase": "I suppose the first thing that comes to mind is...", "when": "Part 1 — natural conversation opener", "band": 7 }
+      ]
+    },
+    {
+      "id": "opinions",
+      "label": "Giving Opinions",
+      "color": "#9a6b20",
+      "description": "Express your views with confidence and variety",
+      "phrases": [
+        { "phrase": "From my perspective...", "when": "Part 3 — slightly more sophisticated than 'I think'", "band": 7 },
+        { "phrase": "I'm inclined to think that...", "when": "Part 3 — shows nuanced thinking", "band": 7 },
+        { "phrase": "Personally, I believe...", "when": "Any part — clear and direct", "band": 6 },
+        { "phrase": "The way I see it...", "when": "Part 3 — conversational and confident", "band": 7 },
+        { "phrase": "I'd argue that...", "when": "Part 3 — for stronger opinions", "band": 7 },
+        { "phrase": "I have mixed feelings about this, but on the whole...", "when": "Part 3 — when genuinely torn", "band": 8 },
+        { "phrase": "It's my firm belief that...", "when": "Part 3 — for strong convictions", "band": 7 },
+        { "phrase": "I tend to think that...", "when": "Part 1/3 — softer opinion", "band": 7 }
+      ]
+    },
+    {
+      "id": "extending",
+      "label": "Extending Answers",
+      "color": "#2d6a4f",
+      "description": "Add depth instead of giving one-line answers",
+      "phrases": [
+        { "phrase": "What I mean by that is...", "when": "After making a point that needs clarification", "band": 7 },
+        { "phrase": "To elaborate on that...", "when": "When you want to add more detail", "band": 7 },
+        { "phrase": "The reason I say that is...", "when": "After giving an opinion — adds justification", "band": 7 },
+        { "phrase": "And on top of that...", "when": "Adding another supporting point", "band": 6 },
+        { "phrase": "I should also mention that...", "when": "Adding an important detail you almost forgot", "band": 7 },
+        { "phrase": "Another thing worth mentioning is...", "when": "Extending naturally to fill time", "band": 7 },
+        { "phrase": "Actually, now that I think about it...", "when": "Adding a new angle mid-answer — sounds natural", "band": 7 }
+      ]
+    },
+    {
+      "id": "comparing",
+      "label": "Comparing & Contrasting",
+      "color": "#a33030",
+      "description": "Show range by comparing ideas, times, or places",
+      "phrases": [
+        { "phrase": "On the one hand... but on the other hand...", "when": "Part 3 — discussing two sides", "band": 6 },
+        { "phrase": "Compared to [X], [Y] is...", "when": "Direct comparison between two things", "band": 6 },
+        { "phrase": "Unlike in the past, nowadays...", "when": "Comparing past and present — very common IELTS frame", "band": 7 },
+        { "phrase": "While some people prefer X, others tend to...", "when": "Part 3 — acknowledging different views", "band": 7 },
+        { "phrase": "There's quite a contrast between...", "when": "Highlighting differences", "band": 7 },
+        { "phrase": "In the same way that...", "when": "Drawing parallels between two situations", "band": 7 }
+      ]
+    },
+    {
+      "id": "speculating",
+      "label": "Speculating & Predicting",
+      "color": "#8b5e83",
+      "description": "Talk about possibilities and the future — Band 7+ skill",
+      "phrases": [
+        { "phrase": "I suppose it could be because...", "when": "When guessing at reasons", "band": 7 },
+        { "phrase": "It's possible that in the future...", "when": "Part 3 — making predictions", "band": 7 },
+        { "phrase": "I imagine that...", "when": "Gentle speculation", "band": 7 },
+        { "phrase": "If I had to guess, I'd say...", "when": "When you're not certain", "band": 7 },
+        { "phrase": "It's hard to say for certain, but I think...", "when": "Acknowledging uncertainty — sounds mature", "band": 7 },
+        { "phrase": "In all likelihood...", "when": "Part 3 — confident prediction", "band": 8 },
+        { "phrase": "It wouldn't surprise me if...", "when": "Making a prediction you feel strongly about", "band": 7 },
+        { "phrase": "I'd be surprised if... didn't...", "when": "Negative prediction with emphasis", "band": 8 }
+      ]
+    },
+    {
+      "id": "examples",
+      "label": "Giving Examples",
+      "color": "#2d6a4f",
+      "description": "Support your points with specific cases",
+      "phrases": [
+        { "phrase": "For example, in my own experience...", "when": "Part 1/2 — personal anecdote", "band": 6 },
+        { "phrase": "Take [X] for instance...", "when": "Part 3 — pointing to a specific case", "band": 7 },
+        { "phrase": "A good example of this would be...", "when": "Part 3 — introducing a well-chosen example", "band": 7 },
+        { "phrase": "To give you an idea...", "when": "Before describing a specific scenario", "band": 7 },
+        { "phrase": "I can think of a situation where...", "when": "Transitioning to a personal story", "band": 7 },
+        { "phrase": "This reminds me of a time when...", "when": "Part 2 — natural storytelling transition", "band": 7 }
+      ]
+    },
+    {
+      "id": "concluding",
+      "label": "Wrapping Up",
+      "color": "#3d5a80",
+      "description": "End your answers cleanly",
+      "phrases": [
+        { "phrase": "So overall, I'd say...", "when": "End of a Part 2 answer", "band": 6 },
+        { "phrase": "To sum up...", "when": "Part 2 — signalling you're wrapping up", "band": 6 },
+        { "phrase": "All in all...", "when": "End of longer answers", "band": 7 },
+        { "phrase": "So, to answer your question...", "when": "Part 3 — bringing it back to the original question", "band": 7 },
+        { "phrase": "At the end of the day...", "when": "Casual but effective conclusion", "band": 6 },
+        { "phrase": "When all is said and done...", "when": "Part 3 — slightly more formal conclusion", "band": 7 }
+      ]
+    },
+    {
+      "id": "idioms",
+      "label": "Natural Idioms & Expressions",
+      "color": "#9a6b20",
+      "description": "Use sparingly — 2-3 per test max. Must sound natural, not forced",
+      "phrases": [
+        { "phrase": "It's a double-edged sword", "when": "Something with both good and bad sides", "band": 7 },
+        { "phrase": "It goes without saying that...", "when": "Stating something obvious but important", "band": 7 },
+        { "phrase": "The pros outweigh the cons", "when": "When advantages are greater", "band": 7 },
+        { "phrase": "It's a catch-22 situation", "when": "A dilemma with no good option", "band": 8 },
+        { "phrase": "That really opened my eyes to...", "when": "Describing a learning experience", "band": 7 },
+        { "phrase": "It's easier said than done", "when": "When something sounds simple but isn't", "band": 7 },
+        { "phrase": "Time flies when...", "when": "Describing something enjoyable", "band": 6 },
+        { "phrase": "It was a blessing in disguise", "when": "Something bad that turned out well", "band": 7 },
+        { "phrase": "To be honest / Frankly speaking", "when": "Before an honest opinion", "band": 6 },
+        { "phrase": "That's just the tip of the iceberg", "when": "When a problem is much bigger than it appears", "band": 7 }
+      ]
+    }
+  ]
+}

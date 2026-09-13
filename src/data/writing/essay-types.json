@@ -1,0 +1,182 @@
+[
+  {
+    "id": "opinion",
+    "label": "Opinion (Agree/Disagree)",
+    "color": "#3d5a80",
+    "question_pattern": "To what extent do you agree or disagree?",
+    "structure": [
+      {
+        "paragraph": "Introduction",
+        "sentences": 2,
+        "template": "Paraphrase the question + State your clear position",
+        "example": "It is often argued that [paraphrase topic]. I strongly agree/disagree with this view because [reason 1] and [reason 2].",
+        "tips": ["Never copy the question word-for-word — paraphrase it", "State your opinion clearly in the last sentence", "Don't list all your reasons — just hint at your direction"]
+      },
+      {
+        "paragraph": "Body 1 — Main argument",
+        "sentences": 5,
+        "template": "Topic sentence + Explain + Example + Result + Link back",
+        "example": "The primary reason I support this view is that [main argument]. This is because [explanation]. For example, [specific example]. As a result, [consequence]. This clearly demonstrates that [link to thesis].",
+        "tips": ["Start with your strongest argument", "The example should be specific, not vague", "Every sentence should serve the topic sentence"]
+      },
+      {
+        "paragraph": "Body 2 — Supporting argument",
+        "sentences": 5,
+        "template": "Topic sentence + Explain + Example + Result + Link back",
+        "example": "Furthermore, [second argument]. [Explanation of why]. A case in point is [example]. Consequently, [outcome]. This further reinforces the view that [link to thesis].",
+        "tips": ["Use a different connector than Body 1", "This paragraph can address a counterargument and refute it", "Keep the same structure for coherence"]
+      },
+      {
+        "paragraph": "Conclusion",
+        "sentences": 2,
+        "template": "Restate position + Final thought",
+        "example": "In conclusion, I firmly believe that [restate thesis]. [Final thought — recommendation, prediction, or broader implication].",
+        "tips": ["Never introduce new ideas in the conclusion", "Don't start with 'To conclude, I conclude that...'", "A strong conclusion echoes but doesn't copy your introduction"]
+      }
+    ]
+  },
+  {
+    "id": "discussion",
+    "label": "Discussion (Both Views)",
+    "color": "#9a6b20",
+    "question_pattern": "Discuss both views and give your own opinion.",
+    "structure": [
+      {
+        "paragraph": "Introduction",
+        "sentences": 3,
+        "template": "Background + View A + View B + Your position (optional here)",
+        "example": "[Topic] is a subject of considerable debate. While some people believe that [View A], others argue that [View B]. This essay will discuss both perspectives before presenting my own view.",
+        "tips": ["You can state your opinion here or save it for the conclusion", "Make sure you mention BOTH sides in the intro", "Don't use 'some people think... other people think...' — paraphrase more naturally"]
+      },
+      {
+        "paragraph": "Body 1 — View A",
+        "sentences": 5,
+        "template": "Present View A + Explain + Example + Consequence",
+        "example": "On the one hand, proponents of [View A] argue that [explanation]. This is primarily because [reason]. For instance, [example]. As a consequence, [result].",
+        "tips": ["Present this view fairly even if you disagree", "Use reporting language: 'proponents argue', 'advocates claim'", "Don't reveal your opinion yet"]
+      },
+      {
+        "paragraph": "Body 2 — View B + Your opinion",
+        "sentences": 5,
+        "template": "Present View B + Explain + Example + State your preference",
+        "example": "On the other hand, others contend that [View B]. [Explanation]. To illustrate, [example]. In my opinion, this perspective is more compelling because [reason].",
+        "tips": ["This is where you align with one side", "Your opinion should feel like a natural extension of the discussion", "Don't sit on the fence — examiners want a clear position"]
+      },
+      {
+        "paragraph": "Conclusion",
+        "sentences": 2,
+        "template": "Summarise + Restate your position",
+        "example": "In conclusion, while both viewpoints have merit, I believe that [your position] because [key reason]. [Final thought].",
+        "tips": ["Acknowledge both sides briefly", "Your final position should be unmistakable"]
+      }
+    ]
+  },
+  {
+    "id": "problem-solution",
+    "label": "Problem & Solution",
+    "color": "#a33030",
+    "question_pattern": "What are the problems and what solutions can be suggested?",
+    "structure": [
+      {
+        "paragraph": "Introduction",
+        "sentences": 2,
+        "template": "Paraphrase the problem + State you will discuss problems and solutions",
+        "example": "[Topic] has become a growing concern in many parts of the world. This essay will examine the key problems associated with this issue and propose viable solutions.",
+        "tips": ["Don't list the problems in the intro — just introduce the topic", "Keep it concise — 2 sentences max"]
+      },
+      {
+        "paragraph": "Body 1 — Problems",
+        "sentences": 5,
+        "template": "Problem 1 + Explain + Evidence + Problem 2 + Explain",
+        "example": "One of the most significant problems is [Problem 1]. This is largely due to [cause]. For example, [evidence]. Another pressing issue is [Problem 2], which has led to [consequence].",
+        "tips": ["Cover 2 problems — don't list 5 superficially", "Explain WHY each is a problem, not just what it is", "Use cause-effect connectors"]
+      },
+      {
+        "paragraph": "Body 2 — Solutions",
+        "sentences": 5,
+        "template": "Solution 1 (matching Problem 1) + How it works + Solution 2 + Expected outcome",
+        "example": "To address the first issue, [Solution 1]. This would work by [mechanism]. Furthermore, [Solution 2] could tackle [Problem 2]. If implemented effectively, these measures would [positive outcome].",
+        "tips": ["Match each solution to a specific problem from Body 1", "Explain HOW the solution works — don't just name it", "Use conditional language: 'if... then...', 'this would...'"]
+      },
+      {
+        "paragraph": "Conclusion",
+        "sentences": 2,
+        "template": "Restate the problem + Summarise solutions + Final thought",
+        "example": "In conclusion, while [problem] poses serious challenges, [solutions] offer a path forward. It is essential that [who] takes action to [what].",
+        "tips": ["End on a forward-looking note", "A recommendation works well here"]
+      }
+    ]
+  },
+  {
+    "id": "advantages-disadvantages",
+    "label": "Advantages & Disadvantages",
+    "color": "#2d6a4f",
+    "question_pattern": "What are the advantages and disadvantages of this? / Do the advantages outweigh the disadvantages?",
+    "structure": [
+      {
+        "paragraph": "Introduction",
+        "sentences": 2,
+        "template": "Paraphrase topic + State there are both advantages and disadvantages (+ your leaning if 'outweigh' question)",
+        "example": "[Topic] has become increasingly [common/controversial]. While there are clear benefits to this trend, there are also notable drawbacks. Overall, I believe the advantages outweigh the disadvantages.",
+        "tips": ["If the question asks 'outweigh', you MUST give your opinion", "If it just asks to discuss, you can save opinion for conclusion"]
+      },
+      {
+        "paragraph": "Body 1 — Advantages",
+        "sentences": 5,
+        "template": "Advantage 1 + Explain + Example + Advantage 2 + Explain",
+        "example": "The most significant advantage is [Advantage 1]. This means that [explanation]. For example, [specific case]. Additionally, [Advantage 2], which enables [positive outcome].",
+        "tips": ["Lead with your stronger side if it's an 'outweigh' question", "2 well-developed advantages > 4 surface-level ones"]
+      },
+      {
+        "paragraph": "Body 2 — Disadvantages",
+        "sentences": 5,
+        "template": "Disadvantage 1 + Explain + Example + Disadvantage 2 + Consequence",
+        "example": "However, there are also drawbacks to consider. The main disadvantage is [Disadvantage 1], which can lead to [negative consequence]. Furthermore, [Disadvantage 2]. This is evidenced by [example].",
+        "tips": ["If you think advantages outweigh, make this paragraph slightly shorter", "Don't contradict your own thesis — acknowledge drawbacks but keep perspective"]
+      },
+      {
+        "paragraph": "Conclusion",
+        "sentences": 2,
+        "template": "Summarise + Final judgement",
+        "example": "In conclusion, although [disadvantages exist], the [advantages] are more significant. On balance, [your final position].",
+        "tips": ["'On balance' is the perfect connector for this essay type", "Your judgement should be clear and decisive"]
+      }
+    ]
+  },
+  {
+    "id": "two-part",
+    "label": "Two-Part Question",
+    "color": "#8b5e83",
+    "question_pattern": "Why is this the case? Is this a positive or negative development?",
+    "structure": [
+      {
+        "paragraph": "Introduction",
+        "sentences": 2,
+        "template": "Paraphrase + State you'll address both parts",
+        "example": "[Paraphrase the topic]. This essay will explore the reasons behind this trend and assess whether it is a positive or negative development.",
+        "tips": ["Identify the TWO distinct questions clearly", "Don't answer them in the intro — just set up"]
+      },
+      {
+        "paragraph": "Body 1 — Answer Question 1",
+        "sentences": 5,
+        "template": "Direct answer + Reason 1 + Example + Reason 2 + Explain",
+        "example": "There are several reasons why [answer to Q1]. Primarily, [Reason 1]. For example, [evidence]. Another contributing factor is [Reason 2], as [explanation].",
+        "tips": ["Dedicate the ENTIRE paragraph to Question 1", "Give 2 well-explained reasons"]
+      },
+      {
+        "paragraph": "Body 2 — Answer Question 2",
+        "sentences": 5,
+        "template": "Direct answer + Argument + Example + Counter + Your position",
+        "example": "In my view, this is largely a [positive/negative] development. This is because [argument]. To illustrate, [example]. Although some might argue that [counter], I believe [your stance].",
+        "tips": ["Give a clear answer — don't fence-sit", "Acknowledging the other side shows balance (Band 7+)"]
+      },
+      {
+        "paragraph": "Conclusion",
+        "sentences": 2,
+        "template": "Summarise both answers",
+        "example": "In conclusion, [summary of Q1 answer], and I believe this is [positive/negative] because [key reason].",
+        "tips": ["Reference both questions in your conclusion", "Keep it tight — 2 sentences"]
+      }
+    ]
+  }
+]

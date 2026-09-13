@@ -1,0 +1,162 @@
+[
+  {
+    "id": "edu-1",
+    "topic": "Education",
+    "type": "opinion",
+    "prompt": "Some people believe that universities should only offer courses that prepare students for employment, while others think the purpose of university education is to provide knowledge for its own sake. To what extent do you agree or disagree?",
+    "difficulty": 2,
+    "keyVocab": ["vocational", "theoretical", "employability", "intellectual curiosity", "practical skills"]
+  },
+  {
+    "id": "edu-2",
+    "topic": "Education",
+    "type": "discussion",
+    "prompt": "Some people think that children should begin formal education at a very early age, while others believe they should not start school until they are at least 7 years old. Discuss both views and give your own opinion.",
+    "difficulty": 1,
+    "keyVocab": ["cognitive development", "structured learning", "play-based", "socialisation", "formative years"]
+  },
+  {
+    "id": "tech-1",
+    "topic": "Technology",
+    "type": "advantages-disadvantages",
+    "prompt": "Many employees now work from home using modern technology. What are the advantages and disadvantages of this development? Do the advantages outweigh the disadvantages?",
+    "difficulty": 1,
+    "keyVocab": ["remote work", "productivity", "work-life balance", "isolation", "digital infrastructure"]
+  },
+  {
+    "id": "tech-2",
+    "topic": "Technology",
+    "type": "opinion",
+    "prompt": "Some people think that the increasing use of artificial intelligence will lead to widespread unemployment. To what extent do you agree or disagree?",
+    "difficulty": 2,
+    "keyVocab": ["automation", "redundant", "emerging industries", "reskilling", "labour market"]
+  },
+  {
+    "id": "env-1",
+    "topic": "Environment",
+    "type": "problem-solution",
+    "prompt": "Global warming is one of the biggest threats humans face in the 21st century and sea levels are continuing to rise at alarming rates. What are the causes of global warming and what solutions can governments and individuals take to reduce its impact?",
+    "difficulty": 2,
+    "keyVocab": ["carbon emissions", "fossil fuels", "renewable energy", "sustainable", "ecological footprint"]
+  },
+  {
+    "id": "env-2",
+    "topic": "Environment",
+    "type": "two-part",
+    "prompt": "In many countries, the amount of household waste is increasing. Why is this happening? What can be done to address this problem?",
+    "difficulty": 1,
+    "keyVocab": ["consumerism", "disposable", "recycling", "waste management", "biodegradable"]
+  },
+  {
+    "id": "health-1",
+    "topic": "Health",
+    "type": "opinion",
+    "prompt": "Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required. Discuss both views and give your own opinion.",
+    "difficulty": 2,
+    "keyVocab": ["sedentary lifestyle", "preventive healthcare", "obesity epidemic", "health awareness", "subsidised"]
+  },
+  {
+    "id": "health-2",
+    "topic": "Health",
+    "type": "problem-solution",
+    "prompt": "In many countries, the number of people suffering from stress-related illnesses is increasing. What are the causes of this trend and what measures could be taken to address it?",
+    "difficulty": 1,
+    "keyVocab": ["mental health", "burnout", "work-life balance", "mindfulness", "counselling"]
+  },
+  {
+    "id": "soc-1",
+    "topic": "Society",
+    "type": "opinion",
+    "prompt": "In some countries, an increasing number of people are choosing to live alone. Do you think this is a positive or negative trend?",
+    "difficulty": 1,
+    "keyVocab": ["independence", "social isolation", "nuclear family", "community bonds", "self-reliant"]
+  },
+  {
+    "id": "soc-2",
+    "topic": "Society",
+    "type": "discussion",
+    "prompt": "Some people think that the government should provide financial support to artists and musicians, while others believe they should fund themselves. Discuss both views and give your own opinion.",
+    "difficulty": 2,
+    "keyVocab": ["cultural heritage", "subsidies", "creative industries", "patronage", "commercial viability"]
+  },
+  {
+    "id": "gov-1",
+    "topic": "Government",
+    "type": "opinion",
+    "prompt": "Some people believe that governments should spend more money on public services rather than on defence. To what extent do you agree or disagree?",
+    "difficulty": 2,
+    "keyVocab": ["national security", "public expenditure", "infrastructure", "fiscal policy", "allocation"]
+  },
+  {
+    "id": "gov-2",
+    "topic": "Government",
+    "type": "two-part",
+    "prompt": "Many governments invest large amounts of money in space exploration. Some people believe this money would be better spent solving problems on Earth. Why do governments fund space programmes? Is this money well spent?",
+    "difficulty": 2,
+    "keyVocab": ["technological advancement", "resource allocation", "scientific discovery", "prestige", "tangible benefits"]
+  },
+  {
+    "id": "crime-1",
+    "topic": "Crime",
+    "type": "discussion",
+    "prompt": "Some people think that the most effective way to reduce crime is to give longer prison sentences. Others, however, believe there are better alternative ways of reducing crime. Discuss both views and give your own opinion.",
+    "difficulty": 2,
+    "keyVocab": ["deterrent", "rehabilitation", "recidivism", "incarceration", "community service"]
+  },
+  {
+    "id": "media-1",
+    "topic": "Media",
+    "type": "advantages-disadvantages",
+    "prompt": "Social media is becoming increasingly popular among all age groups. What are the advantages and disadvantages of using social media?",
+    "difficulty": 1,
+    "keyVocab": ["connectivity", "misinformation", "digital literacy", "echo chambers", "cyberbullying"]
+  },
+  {
+    "id": "culture-1",
+    "topic": "Culture",
+    "type": "opinion",
+    "prompt": "As global trade increases, many goods including those used in everyday life are being produced in other countries. This has resulted in the loss of traditional skills in many places. Do you think the advantages of this development outweigh the disadvantages?",
+    "difficulty": 3,
+    "keyVocab": ["globalisation", "artisanal", "mass production", "cultural identity", "economic efficiency"]
+  },
+  {
+    "id": "culture-2",
+    "topic": "Culture",
+    "type": "two-part",
+    "prompt": "International tourism has become a huge industry in the world. What are the problems associated with international tourism? What measures could be taken to address them?",
+    "difficulty": 1,
+    "keyVocab": ["overtourism", "cultural erosion", "sustainable tourism", "economic dependency", "environmental degradation"]
+  },
+  {
+    "id": "glob-1",
+    "topic": "Globalisation",
+    "type": "discussion",
+    "prompt": "Some people say that globalisation has a positive effect on the world, while others disagree. Discuss both views and give your own opinion.",
+    "difficulty": 2,
+    "keyVocab": ["interconnected", "cultural homogenisation", "economic integration", "inequality", "multinational"]
+  },
+  {
+    "id": "work-1",
+    "topic": "Work",
+    "type": "opinion",
+    "prompt": "Some people think it is more important to enjoy your job than to earn a lot of money. Others disagree. To what extent do you agree or disagree?",
+    "difficulty": 1,
+    "keyVocab": ["job satisfaction", "financial security", "intrinsic motivation", "career fulfilment", "remuneration"]
+  },
+  {
+    "id": "transport-1",
+    "topic": "Transport",
+    "type": "problem-solution",
+    "prompt": "Traffic congestion is becoming a major problem in most cities and larger towns. What are the causes of this and what measures can be taken to reduce traffic in urban areas?",
+    "difficulty": 1,
+    "keyVocab": ["public transport", "congestion charge", "carpooling", "urban sprawl", "commuter"]
+  },
+  {
+    "id": "food-1",
+    "topic": "Food & Agriculture",
+    "type": "two-part",
+    "prompt": "In many countries, fast food is becoming cheaper and more widely available. Do you think the advantages of this trend outweigh the disadvantages?",
+    "difficulty": 1,
+    "keyVocab": ["nutritional value", "convenience", "obesity", "processed food", "dietary habits"]
+  }
+]
