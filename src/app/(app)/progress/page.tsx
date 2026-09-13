@@ -2,12 +2,12 @@
 
 export default function ProgressPage() {
   return (
-    <div className="space-y-6">
-      <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
+    <div className="space-y-5">
+      <h1 className="text-[22px] font-medium text-[#1a1a2e]">
         Progress
       </h1>
-      <div className="rounded-xl border border-gray-200 bg-white p-8 text-center dark:border-gray-800 dark:bg-gray-900">
-        <p className="text-gray-500 dark:text-gray-400">
+      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
+        <p className="text-[13px] text-[#8a8a9a]">
           Start studying to see your progress here.
         </p>
       </div>

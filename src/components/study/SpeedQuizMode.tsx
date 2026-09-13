@@ -23,7 +23,7 @@ export function SpeedQuizMode({ word, allWords, onAnswer }: Props) {
   const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   const [timedOut, setTimedOut] = useState(false);
   const startTimeRef = useRef(Date.now());
-  const timerRef = useRef<ReturnType<typeof setInterval>>();
+  const timerRef = useRef<ReturnType<typeof setInterval>>(undefined);
 
   const options = useMemo(() => {
     const distractors = shuffle(
@@ -75,50 +75,47 @@ export function SpeedQuizMode({ word, allWords, onAnswer }: Props) {
 
   return (
     <div className="flex flex-col items-center">
-      <div className="w-full rounded-2xl border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-800 dark:bg-gray-900">
+      <div className="w-full rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-6">
         <div className="mb-4 flex items-center justify-between">
-          <span className="rounded-full bg-yellow-100 px-3 py-0.5 text-xs font-medium text-yellow-700 dark:bg-yellow-900/50 dark:text-yellow-300">
-            Speed Quiz
+          <span className="rounded-full bg-[#f0f8f4] px-3 py-0.5 text-[11px] font-medium text-[#2d6a4f]">
+            Speed quiz
           </span>
           <span
-            className={`text-sm font-bold tabular-nums ${
+            className={`text-[14px] font-medium tabular-nums ${
               timeLeft < 3
-                ? 'text-red-500'
-                : 'text-gray-600 dark:text-gray-400'
+                ? 'text-[#a33030]'
+                : 'text-[#8a8a9a]'
             }`}
           >
             {timeLeft.toFixed(1)}s
           </span>
         </div>
 
-        <div className="mb-4 h-1.5 w-full rounded-full bg-gray-200 dark:bg-gray-800">
+        <div className="mb-4 h-1 w-full rounded-full bg-[#f0f0ee]">
           <div
             className={`h-full rounded-full transition-all duration-100 ${
-              timeLeft < 3 ? 'bg-red-500' : 'bg-indigo-500'
+              timeLeft < 3 ? 'bg-[#a33030]' : 'bg-[#3d5a80]'
             }`}
             style={{ width: `${pct}%` }}
           />
         </div>
 
-        <h2 className="mb-6 text-center text-2xl font-bold text-gray-900 dark:text-white">
+        <h2 className="mb-6 text-center text-[24px] font-medium text-[#1a1a2e]">
           {word.word}
         </h2>
 
         <div className="space-y-2.5">
           {options.map((opt, i) => {
-            let style =
-              'border-gray-200 bg-gray-50 text-gray-700 hover:border-indigo-300 hover:bg-indigo-50 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:border-indigo-600';
+            let classes =
+              'border-[#ededec] bg-[#fcfcfb] text-[#1a1a2e] hover:border-[#3d5a80]/30 hover:bg-[#f0f4f8]';
 
             if (answered) {
               if (i === correctIndex) {
-                style =
-                  'border-green-500 bg-green-50 text-green-800 dark:border-green-600 dark:bg-green-950/30 dark:text-green-300';
+                classes = 'border-[#2d6a4f] bg-[#f0f8f4] text-[#2d6a4f]';
               } else if (i === selected && i !== correctIndex) {
-                style =
-                  'border-red-500 bg-red-50 text-red-800 dark:border-red-600 dark:bg-red-950/30 dark:text-red-300';
+                classes = 'border-[#a33030] bg-[#fdf0f0] text-[#a33030]';
               } else {
-                style =
-                  'border-gray-200 bg-gray-50 text-gray-400 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-500';
+                classes = 'border-[#ededec] bg-[#fcfcfb] text-[#b0b0b8]';
               }
             }
 
@@ -127,7 +124,7 @@ export function SpeedQuizMode({ word, allWords, onAnswer }: Props) {
                 key={opt.slug}
                 onClick={() => handleSelect(i)}
                 disabled={answered}
-                className={`w-full rounded-xl border-2 px-4 py-3 text-left text-sm font-medium transition-all active:scale-[0.98] ${style}`}
+                className={`w-full rounded-xl border px-4 py-3 text-left text-[13px] font-medium transition-all active:scale-[0.98] ${classes}`}
               >
                 {opt.definition}
               </button>
@@ -136,7 +133,7 @@ export function SpeedQuizMode({ word, allWords, onAnswer }: Props) {
         </div>
 
         {timedOut && selected === null && (
-          <p className="mt-3 text-center text-sm font-medium text-red-500">
+          <p className="mt-3 text-center text-[13px] font-medium text-[#a33030]">
             Time&apos;s up!
           </p>
         )}
@@ -147,7 +144,7 @@ export function SpeedQuizMode({ word, allWords, onAnswer }: Props) {
       {answered && (
         <button
           onClick={handleNext}
-          className="mt-6 w-full rounded-xl bg-indigo-600 py-4 text-sm font-semibold text-white transition-all hover:bg-indigo-700 active:scale-[0.98]"
+          className="mt-5 w-full rounded-xl bg-[#3d5a80] py-3.5 text-[14px] font-medium text-white transition-all hover:bg-[#34506f] active:scale-[0.98]"
         >
           Continue
         </button>

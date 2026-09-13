@@ -14,74 +14,74 @@ export function TutorPanel({ word }: Props) {
     return (
       <button
         onClick={() => setOpen(true)}
-        className="mt-4 w-full rounded-xl border border-dashed border-indigo-300 py-3 text-sm font-medium text-indigo-600 transition-colors hover:bg-indigo-50 dark:border-indigo-700 dark:text-indigo-400 dark:hover:bg-indigo-950/30"
+        className="mt-4 w-full rounded-xl border border-dashed border-[#3d5a80]/30 py-3 text-[13px] font-medium text-[#3d5a80] transition-colors hover:bg-[#f0f4f8]"
       >
-        💡 Show Tutor Tips
+        Show tutor tips
       </button>
     );
   }
 
   return (
-    <div className="mt-4 space-y-3 rounded-xl border border-indigo-200 bg-indigo-50/50 p-4 dark:border-indigo-900 dark:bg-indigo-950/20">
+    <div className="mt-4 space-y-3 rounded-[14px] border border-[#ededec] bg-[#f0f4f8] p-4">
       <div className="flex items-center justify-between">
-        <h3 className="text-sm font-semibold text-indigo-700 dark:text-indigo-300">
-          Tutor Tips
+        <h3 className="text-[13px] font-medium text-[#3d5a80]">
+          Tutor tips
         </h3>
         <button
           onClick={() => setOpen(false)}
-          className="text-xs text-gray-400 hover:text-gray-600"
+          className="text-[11px] text-[#b0b0b8] hover:text-[#8a8a9a]"
         >
           Hide
         </button>
       </div>
 
-      <div className="space-y-3 text-sm">
+      <div className="space-y-3 text-[13px]">
         <div>
-          <p className="mb-1 text-xs font-medium uppercase tracking-wide text-gray-500">
+          <p className="mb-1 text-[11px] font-medium uppercase tracking-wide text-[#8a8a9a]">
             Explanation
           </p>
-          <p className="text-gray-700 dark:text-gray-300">
+          <p className="text-[#1a1a2e]">
             {word.tutorExplanation}
           </p>
         </div>
 
         <div>
-          <p className="mb-1 text-xs font-medium uppercase tracking-wide text-gray-500">
-            Writing Tip
+          <p className="mb-1 text-[11px] font-medium uppercase tracking-wide text-[#8a8a9a]">
+            Writing tip
           </p>
-          <p className="italic text-gray-600 dark:text-gray-400">
+          <p className="italic text-[#8a8a9a]">
             {word.writingTip}
           </p>
         </div>
 
         <div>
-          <p className="mb-1 text-xs font-medium uppercase tracking-wide text-gray-500">
-            Speaking Tip
+          <p className="mb-1 text-[11px] font-medium uppercase tracking-wide text-[#8a8a9a]">
+            Speaking tip
           </p>
-          <p className="text-gray-600 dark:text-gray-400">
+          <p className="text-[#8a8a9a]">
             {word.speakingTip}
           </p>
         </div>
 
         <div>
-          <p className="mb-1 text-xs font-medium uppercase tracking-wide text-gray-500">
-            Common Mistake
+          <p className="mb-1 text-[11px] font-medium uppercase tracking-wide text-[#8a8a9a]">
+            Common mistake
           </p>
-          <p className="text-red-600 dark:text-red-400">
+          <p className="text-[#a33030]">
             {word.commonMistake}
           </p>
         </div>
 
         {word.synonyms.length > 0 && (
           <div>
-            <p className="mb-1 text-xs font-medium uppercase tracking-wide text-gray-500">
+            <p className="mb-1 text-[11px] font-medium uppercase tracking-wide text-[#8a8a9a]">
               Synonyms
             </p>
             <div className="flex flex-wrap gap-1.5">
               {word.synonyms.map((s) => (
                 <span
                   key={s}
-                  className="rounded-full bg-indigo-100 px-2.5 py-0.5 text-xs text-indigo-700 dark:bg-indigo-900/50 dark:text-indigo-300"
+                  className="rounded-full bg-[#fcfcfb] border border-[#ededec] px-2.5 py-0.5 text-[11px] text-[#3d5a80]"
                 >
                   {s}
                 </span>
@@ -90,8 +90,8 @@ export function TutorPanel({ word }: Props) {
           </div>
         )}
 
-        <p className="text-xs text-gray-400">
-          📌 {word.ieltsRelevance}
+        <p className="text-[11px] text-[#b0b0b8]">
+          {word.ieltsRelevance}
         </p>
       </div>
     </div>

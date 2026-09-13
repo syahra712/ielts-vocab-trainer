@@ -27,7 +27,7 @@ export function GoogleSignInButton() {
       <button
         onClick={handleSignIn}
         disabled={loading}
-        className="flex items-center gap-3 rounded-xl bg-white px-6 py-3 text-sm font-medium text-gray-700 shadow-md transition-all hover:shadow-lg disabled:opacity-50 dark:bg-gray-800 dark:text-gray-200"
+        className="flex w-full items-center justify-center gap-3 rounded-xl border border-[#ededec] bg-white px-6 py-3 text-sm font-medium text-[#1a1a2e] transition-colors hover:bg-[#f0f4f8] disabled:opacity-50"
       >
         <svg className="h-5 w-5" viewBox="0 0 24 24">
           <path
@@ -50,7 +50,7 @@ export function GoogleSignInButton() {
         {loading ? 'Signing in...' : 'Continue with Google'}
       </button>
       {error && (
-        <p className="text-sm text-red-500">{error}</p>
+        <p className="text-sm text-[#a33030]">{error}</p>
       )}
     </div>
   );

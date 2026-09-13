@@ -46,45 +46,45 @@ export default function SeedPage() {
   }
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-        Seed Database
+    <div className="space-y-5">
+      <h1 className="text-[22px] font-medium text-[#1a1a2e]">
+        Seed database
       </h1>
-      <p className="text-sm text-gray-500 dark:text-gray-400">
+      <p className="text-[13px] text-[#8a8a9a]">
         This will write {ALL_WORDS.length} words to Firestore. Only needed once.
       </p>
 
       {status === 'idle' && (
         <button
           onClick={handleSeed}
-          className="w-full rounded-xl bg-indigo-600 py-4 text-sm font-semibold text-white hover:bg-indigo-700"
+          className="w-full rounded-xl bg-[#3d5a80] py-3.5 text-[14px] font-medium text-white hover:bg-[#34506f]"
         >
-          Seed {ALL_WORDS.length} Words
+          Seed {ALL_WORDS.length} words
         </button>
       )}
 
       {status === 'seeding' && (
         <div className="space-y-2">
-          <div className="h-3 w-full rounded-full bg-gray-200 dark:bg-gray-800">
+          <div className="h-1.5 w-full rounded-full bg-[#f0f0ee]">
             <div
-              className="h-full rounded-full bg-indigo-500 transition-all"
+              className="h-full rounded-full bg-[#3d5a80] transition-all"
               style={{ width: `${(progress / ALL_WORDS.length) * 100}%` }}
             />
           </div>
-          <p className="text-sm text-gray-500">
+          <p className="text-[13px] text-[#8a8a9a]">
             {progress} / {ALL_WORDS.length} words...
           </p>
         </div>
       )}
 
       {status === 'done' && (
-        <div className="rounded-xl bg-green-50 p-4 text-center text-green-700 dark:bg-green-950/30 dark:text-green-300">
+        <div className="rounded-[14px] bg-[#f0f8f4] p-4 text-center text-[13px] text-[#2d6a4f]">
           Done! {ALL_WORDS.length} words seeded. You can start studying now.
         </div>
       )}
 
       {status === 'error' && (
-        <div className="rounded-xl bg-red-50 p-4 text-center text-red-700 dark:bg-red-950/30 dark:text-red-300">
+        <div className="rounded-[14px] bg-[#fdf0f0] p-4 text-center text-[13px] text-[#a33030]">
           Seed failed. Check console for details.
         </div>
       )}

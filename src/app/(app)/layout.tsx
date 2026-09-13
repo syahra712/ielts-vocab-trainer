@@ -5,8 +5,8 @@ import type { ReactNode } from 'react';
 export default function AppLayout({ children }: { children: ReactNode }) {
   return (
     <AuthGuard>
-      <div className="min-h-screen bg-gray-50 pb-20 dark:bg-gray-950">
-        <main className="mx-auto max-w-lg px-4 pt-6">{children}</main>
+      <div className="min-h-screen bg-[#fcfcfb] pb-20">
+        <main className="mx-auto max-w-lg px-4 pt-5">{children}</main>
         <BottomNav />
       </div>
     </AuthGuard>

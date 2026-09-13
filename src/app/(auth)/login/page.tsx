@@ -18,28 +18,26 @@ export default function LoginPage() {
   if (loading) return null;
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-indigo-50 via-white to-purple-50 px-4 dark:from-gray-950 dark:via-gray-900 dark:to-indigo-950">
-      <div className="mb-12 text-center">
-        <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">
+    <div className="flex min-h-screen flex-col items-center justify-center bg-[#fcfcfb] px-4">
+      <div className="mb-10 text-center">
+        <h1 className="mb-2 text-3xl font-medium tracking-tight text-[#1a1a2e]">
           IELTS Vocab
         </h1>
-        <p className="text-lg text-gray-500 dark:text-gray-400">
+        <p className="text-sm text-[#8a8a9a]">
           Master 500+ words with spaced repetition
         </p>
       </div>
 
-      <div className="w-full max-w-sm rounded-2xl border border-gray-200 bg-white/80 p-8 shadow-xl backdrop-blur dark:border-gray-700 dark:bg-gray-800/80">
-        <div className="mb-6 space-y-2 text-center">
-          <p className="text-sm text-gray-500 dark:text-gray-400">
-            Track your progress across devices.
-            <br />
-            Sign in to get started.
-          </p>
-        </div>
+      <div className="w-full max-w-sm rounded-[14px] border border-[#ededec] bg-[#f0f4f8] p-8">
+        <p className="mb-6 text-center text-sm text-[#8a8a9a]">
+          Track your progress across devices.
+          <br />
+          Sign in to get started.
+        </p>
         <GoogleSignInButton />
       </div>
 
-      <p className="mt-8 text-xs text-gray-400 dark:text-gray-500">
+      <p className="mt-6 text-xs text-[#b0b0b8]">
         Your data is stored securely in Firebase.
       </p>
     </div>

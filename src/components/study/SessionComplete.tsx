@@ -13,32 +13,32 @@ export function SessionComplete({ correctCount, total, totalXp, results }: Props
   const accuracy = total > 0 ? Math.round((correctCount / total) * 100) : 0;
 
   return (
-    <div className="space-y-6">
-      <div className="rounded-2xl border border-gray-200 bg-white p-8 text-center dark:border-gray-800 dark:bg-gray-900">
-        <div className="mb-2 text-5xl">
-          {accuracy >= 80 ? '🔥' : accuracy >= 50 ? '👍' : '💪'}
-        </div>
-        <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
-          Round Complete!
+    <div className="space-y-5">
+      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
+        <h2 className="text-[22px] font-medium text-[#1a1a2e]">
+          Round complete
         </h2>
-        <div className="mt-4 flex justify-center gap-6">
+        <p className="mt-1 text-[13px] text-[#8a8a9a]">
+          {accuracy >= 80 ? 'Great job — keep the streak going' : 'Keep practicing, you\'ll get there'}
+        </p>
+        <div className="mt-6 flex justify-center gap-6">
           <div>
-            <p className="text-3xl font-bold text-green-600 dark:text-green-400">
+            <p className="text-[28px] font-medium tabular-nums text-[#2d6a4f]">
               {accuracy}%
             </p>
-            <p className="text-xs text-gray-500">Accuracy</p>
+            <p className="text-[11px] uppercase tracking-wide text-[#8a8a9a]">Accuracy</p>
           </div>
           <div>
-            <p className="text-3xl font-bold text-indigo-600 dark:text-indigo-400">
+            <p className="text-[28px] font-medium tabular-nums text-[#3d5a80]">
               +{totalXp}
             </p>
-            <p className="text-xs text-gray-500">XP Earned</p>
+            <p className="text-[11px] uppercase tracking-wide text-[#8a8a9a]">XP earned</p>
           </div>
           <div>
-            <p className="text-3xl font-bold text-gray-900 dark:text-white">
+            <p className="text-[28px] font-medium tabular-nums text-[#1a1a2e]">
               {correctCount}/{total}
             </p>
-            <p className="text-xs text-gray-500">Correct</p>
+            <p className="text-[11px] uppercase tracking-wide text-[#8a8a9a]">Correct</p>
           </div>
         </div>
       </div>
@@ -47,30 +47,30 @@ export function SessionComplete({ correctCount, total, totalXp, results }: Props
         {results.map((r) => (
           <div
             key={r.slug}
-            className={`flex items-center justify-between rounded-xl px-4 py-3 text-sm ${
+            className={`flex items-center justify-between rounded-xl px-4 py-3 text-[13px] ${
               r.correct
-                ? 'bg-green-50 text-green-800 dark:bg-green-950/30 dark:text-green-300'
-                : 'bg-red-50 text-red-800 dark:bg-red-950/30 dark:text-red-300'
+                ? 'bg-[#f0f8f4] text-[#2d6a4f]'
+                : 'bg-[#fdf0f0] text-[#a33030]'
             }`}
           >
             <span className="font-medium">{r.slug.replace(/-/g, ' ')}</span>
-            <span>{r.correct ? '✓' : '✗'} +{r.xp} XP</span>
+            <span>{r.correct ? 'Correct' : 'Missed'} +{r.xp} XP</span>
           </div>
         ))}
       </div>
 
-      <div className="flex gap-3">
+      <div className="flex gap-2.5">
         <Link
           href="/study"
-          className="flex-1 rounded-xl border border-gray-200 bg-white py-3 text-center text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300"
+          className="flex-1 rounded-xl border border-[#ededec] bg-[#fcfcfb] py-3 text-center text-[13px] font-medium text-[#1a1a2e] transition-colors hover:bg-[#f0f4f8]"
         >
-          Back to Study
+          Back to study
         </Link>
         <Link
           href="/study/flashcard"
-          className="flex-1 rounded-xl bg-indigo-600 py-3 text-center text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
+          className="flex-1 rounded-xl bg-[#3d5a80] py-3 text-center text-[13px] font-medium text-white transition-colors hover:bg-[#34506f]"
         >
-          Another Round
+          Another round
         </Link>
       </div>
     </div>

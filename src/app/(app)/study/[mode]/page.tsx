@@ -40,15 +40,15 @@ export default function StudyModePage() {
   if (loading) {
     return (
       <div className="flex h-64 items-center justify-center">
-        <div className="h-8 w-8 animate-spin rounded-full border-2 border-indigo-500 border-t-transparent" />
+        <div className="h-8 w-8 animate-spin rounded-full border-2 border-[#3d5a80] border-t-transparent" />
       </div>
     );
   }
 
   if (words.length === 0) {
     return (
-      <div className="rounded-xl border border-gray-200 bg-white p-8 text-center dark:border-gray-800 dark:bg-gray-900">
-        <p className="text-gray-500 dark:text-gray-400">
+      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
+        <p className="text-[13px] text-[#8a8a9a]">
           No words found. Run the seed script first to populate the word database.
         </p>
       </div>
@@ -84,8 +84,8 @@ function StudySession({
 
   if (!session.current) {
     return (
-      <div className="rounded-xl border border-gray-200 bg-white p-8 text-center dark:border-gray-800 dark:bg-gray-900">
-        <p className="text-gray-500 dark:text-gray-400">
+      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
+        <p className="text-[13px] text-[#8a8a9a]">
           No words due for review right now. Check back later!
         </p>
       </div>

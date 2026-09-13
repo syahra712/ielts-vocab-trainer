@@ -41,19 +41,19 @@ export function FillGapMode({ word, onAnswer }: Props) {
 
   return (
     <div className="flex flex-col items-center">
-      <div className="w-full rounded-2xl border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900">
+      <div className="w-full rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8">
         <div className="mb-2 flex items-center justify-between">
-          <span className="rounded-full bg-amber-100 px-3 py-0.5 text-xs font-medium text-amber-700 dark:bg-amber-900/50 dark:text-amber-300">
-            Fill the Gap
+          <span className="rounded-full bg-[#fef9f0] px-3 py-0.5 text-[11px] font-medium text-[#9a6b20]">
+            Fill the gap
           </span>
-          <span className="text-xs text-gray-400">{word.pos}</span>
+          <span className="text-[11px] text-[#b0b0b8]">{word.pos}</span>
         </div>
 
-        <p className="mt-4 text-sm text-gray-500 dark:text-gray-400">
+        <p className="mt-4 text-[13px] text-[#8a8a9a]">
           {word.definition}
         </p>
 
-        <p className="mt-6 text-center text-lg leading-relaxed text-gray-700 dark:text-gray-300">
+        <p className="mt-6 text-center text-[16px] leading-relaxed text-[#1a1a2e]">
           {sentence}
         </p>
 
@@ -66,20 +66,20 @@ export function FillGapMode({ word, onAnswer }: Props) {
             disabled={submitted}
             placeholder="Type the missing word..."
             autoFocus
-            className={`w-full rounded-xl border-2 px-4 py-3 text-center text-lg font-medium outline-none transition-colors ${
+            className={`w-full rounded-xl border px-4 py-3 text-center text-[16px] font-medium outline-none transition-colors ${
               submitted
                 ? isCorrect
-                  ? 'border-green-500 bg-green-50 text-green-700 dark:border-green-600 dark:bg-green-950/30 dark:text-green-300'
-                  : 'border-red-500 bg-red-50 text-red-700 dark:border-red-600 dark:bg-red-950/30 dark:text-red-300'
-                : 'border-gray-200 bg-gray-50 text-gray-900 focus:border-indigo-500 dark:border-gray-700 dark:bg-gray-800 dark:text-white'
+                  ? 'border-[#2d6a4f] bg-[#f0f8f4] text-[#2d6a4f]'
+                  : 'border-[#a33030] bg-[#fdf0f0] text-[#a33030]'
+                : 'border-[#ededec] bg-[#f0f4f8] text-[#1a1a2e] focus:border-[#3d5a80]'
             }`}
           />
         </div>
 
         {submitted && !isCorrect && (
-          <p className="mt-3 text-center text-sm text-gray-500">
+          <p className="mt-3 text-center text-[13px] text-[#8a8a9a]">
             Correct answer:{' '}
-            <span className="font-semibold text-green-600 dark:text-green-400">
+            <span className="font-medium text-[#2d6a4f]">
               {word.word}
             </span>
           </p>
@@ -88,19 +88,19 @@ export function FillGapMode({ word, onAnswer }: Props) {
 
       {submitted && <TutorPanel word={word} />}
 
-      <div className="mt-6 w-full">
+      <div className="mt-5 w-full">
         {!submitted ? (
           <button
             onClick={handleSubmit}
             disabled={!input.trim()}
-            className="w-full rounded-xl bg-indigo-600 py-4 text-sm font-semibold text-white transition-all hover:bg-indigo-700 active:scale-[0.98] disabled:opacity-50"
+            className="w-full rounded-xl bg-[#3d5a80] py-3.5 text-[14px] font-medium text-white transition-all hover:bg-[#34506f] active:scale-[0.98] disabled:opacity-50"
           >
-            Check Answer
+            Check answer
           </button>
         ) : (
           <button
             onClick={handleNext}
-            className="w-full rounded-xl bg-indigo-600 py-4 text-sm font-semibold text-white transition-all hover:bg-indigo-700 active:scale-[0.98]"
+            className="w-full rounded-xl bg-[#3d5a80] py-3.5 text-[14px] font-medium text-white transition-all hover:bg-[#34506f] active:scale-[0.98]"
           >
             Continue
           </button>

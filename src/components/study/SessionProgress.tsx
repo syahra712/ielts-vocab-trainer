@@ -12,22 +12,22 @@ export function SessionProgress({ current, total, correctCount, totalXp }: Props
 
   return (
     <div className="mb-6 space-y-2">
-      <div className="flex items-center justify-between text-xs">
-        <span className="font-medium text-gray-500 dark:text-gray-400">
+      <div className="flex items-center justify-between text-[11px]">
+        <span className="font-medium text-[#8a8a9a]">
           {current + 1} of {total}
         </span>
         <div className="flex items-center gap-3">
-          <span className="text-green-600 dark:text-green-400">
+          <span className="text-[#2d6a4f]">
             {correctCount} correct
           </span>
-          <span className="font-semibold text-indigo-600 dark:text-indigo-400">
+          <span className="font-medium text-[#3d5a80]">
             +{totalXp} XP
           </span>
         </div>
       </div>
-      <div className="h-2 w-full rounded-full bg-gray-200 dark:bg-gray-800">
+      <div className="h-1 w-full rounded-full bg-[#f0f0ee]">
         <div
-          className="h-full rounded-full bg-indigo-500 transition-all duration-300"
+          className="h-full rounded-full bg-[#3d5a80] transition-all duration-300"
           style={{ width: `${pct}%` }}
         />
       </div>

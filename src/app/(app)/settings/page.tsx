@@ -14,12 +14,12 @@ export default function SettingsPage() {
   }
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
+    <div className="space-y-5">
+      <h1 className="text-[22px] font-medium text-[#1a1a2e]">
         Settings
       </h1>
 
-      <div className="rounded-xl border border-gray-200 bg-white p-4 dark:border-gray-800 dark:bg-gray-900">
+      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-4">
         <div className="flex items-center gap-3">
           {user?.photoURL && (
             <img
@@ -30,10 +30,10 @@ export default function SettingsPage() {
             />
           )}
           <div>
-            <p className="font-medium text-gray-900 dark:text-white">
+            <p className="text-[14px] font-medium text-[#1a1a2e]">
               {user?.displayName}
             </p>
-            <p className="text-sm text-gray-500 dark:text-gray-400">
+            <p className="text-[12px] text-[#8a8a9a]">
               {user?.email}
             </p>
           </div>
@@ -42,9 +42,9 @@ export default function SettingsPage() {
 
       <button
         onClick={handleSignOut}
-        className="w-full rounded-xl border border-red-200 bg-white px-4 py-3 text-sm font-medium text-red-600 transition-colors hover:bg-red-50 dark:border-red-900 dark:bg-gray-900 dark:text-red-400 dark:hover:bg-red-950"
+        className="w-full rounded-xl border border-[#a33030]/20 bg-[#fcfcfb] px-4 py-3 text-[13px] font-medium text-[#a33030] transition-colors hover:bg-[#fdf0f0]"
       >
-        Sign Out
+        Sign out
       </button>
     </div>
   );
