@@ -20,15 +20,15 @@ export default function LoginPage() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-[#fcfcfb] px-4">
       <div className="mb-10 text-center">
-        <h1 className="mb-2 text-3xl font-medium tracking-tight text-[#1a1a2e]">
+        <h1 className="mb-2 text-3xl font-medium tracking-tight text-[#1a1a2e] md:text-4xl">
           IELTS Vocab
         </h1>
-        <p className="text-sm text-[#8a8a9a]">
+        <p className="text-sm text-[#8a8a9a] md:text-base">
           Master 500+ words with spaced repetition
         </p>
       </div>
 
-      <div className="w-full max-w-sm rounded-[14px] border border-[#ededec] bg-[#f0f4f8] p-8">
+      <div className="w-full max-w-md rounded-[14px] border border-[#ededec] bg-[#f0f4f8] p-8 md:p-10">
         <p className="mb-6 text-center text-sm text-[#8a8a9a]">
           Track your progress across devices.
           <br />

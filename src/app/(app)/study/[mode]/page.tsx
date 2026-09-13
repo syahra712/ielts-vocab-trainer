@@ -47,7 +47,7 @@ export default function StudyModePage() {
 
   if (words.length === 0) {
     return (
-      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
+      <div className="mx-auto max-w-xl rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
         <p className="text-[13px] text-[#8a8a9a]">
           No words found. Run the seed script first to populate the word database.
         </p>
@@ -73,18 +73,20 @@ function StudySession({
 
   if (session.finished) {
     return (
-      <SessionComplete
-        correctCount={session.correctCount}
-        total={session.total}
-        totalXp={session.totalXp}
-        results={session.results}
-      />
+      <div className="mx-auto max-w-xl">
+        <SessionComplete
+          correctCount={session.correctCount}
+          total={session.total}
+          totalXp={session.totalXp}
+          results={session.results}
+        />
+      </div>
     );
   }
 
   if (!session.current) {
     return (
-      <div className="rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
+      <div className="mx-auto max-w-xl rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
         <p className="text-[13px] text-[#8a8a9a]">
           No words due for review right now. Check back later!
         </p>
@@ -93,7 +95,7 @@ function StudySession({
   }
 
   return (
-    <div>
+    <div className="mx-auto max-w-xl">
       <SessionProgress
         current={session.currentIndex}
         total={session.total}

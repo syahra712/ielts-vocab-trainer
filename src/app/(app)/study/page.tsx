@@ -44,7 +44,7 @@ const MODES = [
 export default function StudyPage() {
   return (
     <div className="space-y-6">
-      <h1 className="text-[22px] font-medium text-[#1a1a2e]">
+      <h1 className="text-[22px] font-medium text-[#1a1a2e] md:text-[28px]">
         Study
       </h1>
 
@@ -69,15 +69,15 @@ export default function StudyPage() {
         <h2 className="mb-3 text-[11px] font-medium uppercase tracking-wide text-[#8a8a9a]">
           Choose a mode
         </h2>
-        <div className="space-y-2.5">
+        <div className="grid gap-2.5 md:grid-cols-3">
           {MODES.map((mode) => (
             <Link
               key={mode.key}
               href={`/study/${mode.key}`}
-              className="flex items-center gap-3.5 rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-4 transition-colors hover:bg-[#f0f4f8] active:scale-[0.98]"
+              className="flex items-center gap-3.5 rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-4 transition-colors hover:bg-[#f0f4f8] active:scale-[0.98] md:flex-col md:items-start md:gap-3 md:p-5"
             >
               <div
-                className="flex h-10 w-10 items-center justify-center rounded-[10px]"
+                className="flex h-10 w-10 shrink-0 items-center justify-center rounded-[10px]"
                 style={{ backgroundColor: mode.iconBg }}
               >
                 <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke={mode.iconColor}>

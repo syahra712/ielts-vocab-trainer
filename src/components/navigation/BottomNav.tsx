@@ -47,27 +47,58 @@ export function BottomNav() {
   const pathname = usePathname();
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-[#ededec] bg-[#fcfcfb]">
-      <div className="mx-auto flex max-w-lg items-center justify-around py-2">
-        {NAV_ITEMS.map((item) => {
-          const active =
-            pathname === item.href || pathname.startsWith(item.href + '/');
-          return (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex flex-col items-center gap-0.5 px-3 py-1 text-[10px] transition-colors ${
-                active
-                  ? 'text-[#3d5a80]'
-                  : 'text-[#b0b0b8] hover:text-[#8a8a9a]'
-              }`}
-            >
-              {item.icon}
-              <span className="font-medium">{item.label}</span>
-            </Link>
-          );
-        })}
-      </div>
-    </nav>
+    <>
+      {/* Desktop sidebar */}
+      <nav className="fixed left-0 top-0 z-50 hidden h-full w-64 border-r border-[#ededec] bg-[#fcfcfb] md:block">
+        <div className="px-6 py-8">
+          <h1 className="text-[18px] font-medium text-[#1a1a2e]">IELTS Vocab</h1>
+          <p className="text-[11px] text-[#b0b0b8]">Vocabulary trainer</p>
+        </div>
+        <div className="flex flex-col gap-1 px-3">
+          {NAV_ITEMS.map((item) => {
+            const active =
+              pathname === item.href || pathname.startsWith(item.href + '/');
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`flex items-center gap-3 rounded-xl px-4 py-2.5 text-[13px] font-medium transition-colors ${
+                  active
+                    ? 'bg-[#f0f4f8] text-[#3d5a80]'
+                    : 'text-[#8a8a9a] hover:bg-[#f0f4f8]/50 hover:text-[#1a1a2e]'
+                }`}
+              >
+                {item.icon}
+                <span>{item.label}</span>
+              </Link>
+            );
+          })}
+        </div>
+      </nav>
+
+      {/* Mobile bottom nav */}
+      <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-[#ededec] bg-[#fcfcfb] md:hidden">
+        <div className="mx-auto flex max-w-lg items-center justify-around py-2">
+          {NAV_ITEMS.map((item) => {
+            const active =
+              pathname === item.href || pathname.startsWith(item.href + '/');
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`flex flex-col items-center gap-0.5 px-3 py-1 text-[10px] transition-colors ${
+                  active
+                    ? 'text-[#3d5a80]'
+                    : 'text-[#b0b0b8] hover:text-[#8a8a9a]'
+                }`}
+              >
+                {item.icon}
+                <span className="font-medium">{item.label}</span>
+              </Link>
+            );
+          })}
+        </div>
+      </nav>
+    </>
   );
 }
