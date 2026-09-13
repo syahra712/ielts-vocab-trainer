@@ -1,0 +1,342 @@
+[
+  {
+    "id": "person-1",
+    "category": "Person",
+    "cueCard": "Describe a person who has had a significant influence on your life.",
+    "bullets": [
+      "Who this person is",
+      "How you know them",
+      "What they have done that influenced you",
+      "And explain why they have had such a big influence on you"
+    ],
+    "part3": [
+      "What qualities do you think make a good role model?",
+      "Do you think celebrities are good role models for young people?",
+      "Is it important for children to have positive influences in their lives?"
+    ],
+    "tips": "Use past tenses for specific events but present perfect for ongoing influence. Include a specific anecdote."
+  },
+  {
+    "id": "person-2",
+    "category": "Person",
+    "cueCard": "Describe someone you know who has an interesting job.",
+    "bullets": [
+      "Who this person is",
+      "What their job involves",
+      "How they got this job",
+      "And explain why you think their job is interesting"
+    ],
+    "part3": [
+      "What jobs do you think are most respected in your country?",
+      "Do you think job satisfaction is more important than salary?",
+      "How has technology changed the way people work?"
+    ],
+    "tips": "Describe the daily routine of the job to fill time. Show enthusiasm with varied adjectives."
+  },
+  {
+    "id": "place-1",
+    "category": "Place",
+    "cueCard": "Describe a place you have visited that you particularly liked.",
+    "bullets": [
+      "Where this place is",
+      "When you visited it",
+      "What you did there",
+      "And explain why you liked it so much"
+    ],
+    "part3": [
+      "What makes a tourist destination popular?",
+      "Do you think tourism can have negative effects on local communities?",
+      "How important is it to preserve historical sites?"
+    ],
+    "tips": "Use sensory details — what you saw, heard, smelled, felt. Compare it to other places you've been."
+  },
+  {
+    "id": "place-2",
+    "category": "Place",
+    "cueCard": "Describe a quiet place you like to go to.",
+    "bullets": [
+      "Where this place is",
+      "How often you go there",
+      "What you do there",
+      "And explain why you enjoy this quiet place"
+    ],
+    "part3": [
+      "Is it easy to find quiet places in modern cities?",
+      "Why do some people need quiet environments to work or study?",
+      "Do you think noise pollution is a serious problem in cities?"
+    ],
+    "tips": "Contrast the quiet place with the busy environment of your daily life. Describe how it makes you feel."
+  },
+  {
+    "id": "event-1",
+    "category": "Event",
+    "cueCard": "Describe a memorable event you attended recently.",
+    "bullets": [
+      "What the event was",
+      "Where it took place",
+      "Who you went with",
+      "And explain why it was memorable for you"
+    ],
+    "part3": [
+      "What types of events are popular in your country?",
+      "Do you think it is important for communities to hold public events?",
+      "How have events and celebrations changed compared to the past?"
+    ],
+    "tips": "Build a narrative — set the scene, describe the atmosphere, explain your emotions. Use time markers."
+  },
+  {
+    "id": "event-2",
+    "category": "Event",
+    "cueCard": "Describe a time when you had to make a difficult decision.",
+    "bullets": [
+      "What the decision was",
+      "When you had to make it",
+      "What options you had",
+      "And explain why it was difficult"
+    ],
+    "part3": [
+      "Do you think young people make decisions differently from older people?",
+      "Should important decisions be made quickly or slowly?",
+      "Who do people usually turn to for advice when making decisions?"
+    ],
+    "tips": "Show the thought process — what you considered, how you felt, what happened after. Use conditionals."
+  },
+  {
+    "id": "object-1",
+    "category": "Object",
+    "cueCard": "Describe something you own that is very important to you.",
+    "bullets": [
+      "What this thing is",
+      "How long you have had it",
+      "How you got it",
+      "And explain why it is so important to you"
+    ],
+    "part3": [
+      "Do you think people today own too many things?",
+      "What is the difference between needs and wants?",
+      "Do you think material possessions can make people happy?"
+    ],
+    "tips": "Connect the object to a person or memory — sentimental value scores higher than describing features."
+  },
+  {
+    "id": "object-2",
+    "category": "Object",
+    "cueCard": "Describe a piece of technology you find very useful.",
+    "bullets": [
+      "What it is",
+      "When you started using it",
+      "How often you use it",
+      "And explain why you find it useful"
+    ],
+    "part3": [
+      "Do you think people rely too much on technology?",
+      "What are the dangers of children using technology from a very young age?",
+      "How do you think technology will change in the next 20 years?"
+    ],
+    "tips": "Compare life before and after having this technology. Give specific examples of situations it helps with."
+  },
+  {
+    "id": "experience-1",
+    "category": "Experience",
+    "cueCard": "Describe a skill you learned that you found difficult.",
+    "bullets": [
+      "What the skill is",
+      "When you learned it",
+      "How you learned it",
+      "And explain why it was difficult to learn"
+    ],
+    "part3": [
+      "What skills are most useful for young people to learn today?",
+      "Do you think schools teach enough practical skills?",
+      "Is it better to learn skills from experience or from formal training?"
+    ],
+    "tips": "Describe the learning process step by step. Mention specific challenges and how you overcame them."
+  },
+  {
+    "id": "experience-2",
+    "category": "Experience",
+    "cueCard": "Describe a time when you helped someone.",
+    "bullets": [
+      "Who you helped",
+      "What the situation was",
+      "What you did to help",
+      "And explain how you felt about helping them"
+    ],
+    "part3": [
+      "Do you think people help each other less now than in the past?",
+      "Should schools teach children about the importance of helping others?",
+      "What motivates people to volunteer their time?"
+    ],
+    "tips": "Focus on your feelings and the impact. Use phrases like 'I felt a sense of...' and 'It made me realise...'"
+  },
+  {
+    "id": "experience-3",
+    "category": "Experience",
+    "cueCard": "Describe a time you received some good news.",
+    "bullets": [
+      "What the news was",
+      "When you received it",
+      "How you found out about it",
+      "And explain why this was good news for you"
+    ],
+    "part3": [
+      "How do people in your country usually share good news?",
+      "Do you think social media has changed the way people share news?",
+      "Is it better to deliver good news in person or by message?"
+    ],
+    "tips": "Describe your reaction vividly — physical and emotional. Set up the context so the listener understands why it mattered."
+  },
+  {
+    "id": "place-3",
+    "category": "Place",
+    "cueCard": "Describe a city or town you would like to live in in the future.",
+    "bullets": [
+      "Where this city or town is",
+      "How you know about it",
+      "What it is like",
+      "And explain why you would like to live there"
+    ],
+    "part3": [
+      "What are the advantages of living in a big city versus a small town?",
+      "Do you think cities will become more or less crowded in the future?",
+      "What factors do people consider when choosing where to live?"
+    ],
+    "tips": "Use future tenses and conditionals: 'I would love to...', 'If I lived there, I could...'. Be specific about what attracts you."
+  },
+  {
+    "id": "person-3",
+    "category": "Person",
+    "cueCard": "Describe a teacher who has had a positive influence on you.",
+    "bullets": [
+      "Who this teacher is",
+      "What subject they taught you",
+      "What made them special",
+      "And explain how they influenced you"
+    ],
+    "part3": [
+      "What makes a good teacher?",
+      "Do you think teachers are valued enough in society?",
+      "How has the role of teachers changed with technology?"
+    ],
+    "tips": "Tell a specific story about a moment with this teacher. Contrast their style with typical teaching."
+  },
+  {
+    "id": "event-3",
+    "category": "Event",
+    "cueCard": "Describe a festival or celebration in your country that you enjoy.",
+    "bullets": [
+      "What the festival is",
+      "When it takes place",
+      "What people do during this festival",
+      "And explain why you enjoy it"
+    ],
+    "part3": [
+      "Why do you think festivals are important for society?",
+      "Have traditional festivals changed in your country?",
+      "Do you think international festivals are replacing local ones?"
+    ],
+    "tips": "Describe the sights, sounds, food, and atmosphere. Explain the cultural significance briefly."
+  },
+  {
+    "id": "object-3",
+    "category": "Object",
+    "cueCard": "Describe a book or film that had a big impact on you.",
+    "bullets": [
+      "What the book or film was",
+      "When you read or watched it",
+      "What it was about",
+      "And explain what impact it had on you"
+    ],
+    "part3": [
+      "Do you think reading is becoming less popular?",
+      "Can books or films change the way people think?",
+      "Should schools require students to read certain books?"
+    ],
+    "tips": "Don't retell the entire plot. Focus on one key theme or moment that changed your perspective."
+  },
+  {
+    "id": "experience-4",
+    "category": "Experience",
+    "cueCard": "Describe a time when you visited a place for the first time.",
+    "bullets": [
+      "Where you went",
+      "When you went there",
+      "What you did there",
+      "And explain how you felt about visiting this place for the first time"
+    ],
+    "part3": [
+      "Why do some people enjoy visiting new places while others prefer familiar ones?",
+      "How important is it for people to experience different cultures?",
+      "Do you think travelling makes people more open-minded?"
+    ],
+    "tips": "Contrast your expectations with reality. Use phrases like 'I was struck by...', 'What surprised me most was...'"
+  },
+  {
+    "id": "event-4",
+    "category": "Event",
+    "cueCard": "Describe an achievement you are proud of.",
+    "bullets": [
+      "What you achieved",
+      "When this happened",
+      "How you achieved it",
+      "And explain why you are proud of this achievement"
+    ],
+    "part3": [
+      "What kinds of achievements are most valued in your society?",
+      "Is it important for children to feel a sense of achievement?",
+      "Do you think academic success is overvalued compared to other achievements?"
+    ],
+    "tips": "Describe the journey, not just the outcome. Mention obstacles you overcame — this makes it compelling."
+  },
+  {
+    "id": "place-4",
+    "category": "Place",
+    "cueCard": "Describe a place where you go to relax.",
+    "bullets": [
+      "Where this place is",
+      "How you discovered it",
+      "What you do when you are there",
+      "And explain why it helps you relax"
+    ],
+    "part3": [
+      "Do you think modern life is more stressful than in the past?",
+      "What are some common ways people relax in your country?",
+      "Is it important for companies to provide relaxation spaces for employees?"
+    ],
+    "tips": "Use present simple to describe your regular visits. Describe the contrast between this place and your busy life."
+  },
+  {
+    "id": "experience-5",
+    "category": "Experience",
+    "cueCard": "Describe a time when you had to speak in front of a group of people.",
+    "bullets": [
+      "When this happened",
+      "Who you were speaking to",
+      "What you talked about",
+      "And explain how you felt about the experience"
+    ],
+    "part3": [
+      "Why is public speaking difficult for many people?",
+      "Should public speaking be taught in schools?",
+      "Do you think confidence in speaking comes naturally or can be developed?"
+    ],
+    "tips": "Be honest about your nervousness — it's relatable. Describe the preparation and the moment you started speaking."
+  },
+  {
+    "id": "object-4",
+    "category": "Object",
+    "cueCard": "Describe a gift you received that made you happy.",
+    "bullets": [
+      "What the gift was",
+      "Who gave it to you",
+      "When you received it",
+      "And explain why it made you happy"
+    ],
+    "part3": [
+      "Do you think expensive gifts are better than inexpensive ones?",
+      "Has the way people give gifts changed in recent years?",
+      "Why do some people find it difficult to choose gifts for others?"
+    ],
+    "tips": "The emotional significance matters more than the gift itself. Describe your reaction and why this person chose this gift."
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "addition",
+      "label": "Addition & Support",
+      "color": "#3d5a80",
+      "description": "Add more points to strengthen your argument",
+      "connectors": [
+        { "word": "Furthermore", "usage": "Furthermore, studies have shown that...", "band": 7, "tip": "Use at the start of a sentence to add a strong supporting point" },
+        { "word": "Moreover", "usage": "Moreover, the economic benefits are substantial.", "band": 7, "tip": "Slightly more formal than 'furthermore' — great for academic essays" },
+        { "word": "In addition", "usage": "In addition to this, governments should consider...", "band": 6, "tip": "Safe and versatile — works in any essay type" },
+        { "word": "Additionally", "usage": "Additionally, the environmental impact cannot be ignored.", "band": 6, "tip": "Works well mid-paragraph to pile on evidence" },
+        { "word": "What is more", "usage": "What is more, this approach has been proven effective.", "band": 7, "tip": "Adds emphasis — signals your next point is even stronger" },
+        { "word": "On top of that", "usage": "On top of that, the social consequences are severe.", "band": 6, "tip": "Slightly informal — best in Speaking Part 3 or less formal Task 2" },
+        { "word": "Not only... but also", "usage": "Not only does this reduce costs, but it also improves efficiency.", "band": 8, "tip": "Shows grammatical range — use inversion for Band 8+" },
+        { "word": "Coupled with", "usage": "Coupled with rising inflation, unemployment poses a serious threat.", "band": 8, "tip": "Sophisticated connector — shows you can link ideas elegantly" }
+      ]
+    },
+    {
+      "id": "contrast",
+      "label": "Contrast & Concession",
+      "color": "#a33030",
+      "description": "Show opposing ideas or acknowledge the other side",
+      "connectors": [
+        { "word": "However", "usage": "However, this approach has significant drawbacks.", "band": 6, "tip": "The most common contrast connector — don't overuse it (max 2 per essay)" },
+        { "word": "Nevertheless", "usage": "Nevertheless, the benefits outweigh the disadvantages.", "band": 7, "tip": "Stronger than 'however' — signals you're dismissing a counterargument" },
+        { "word": "Nonetheless", "usage": "Nonetheless, this policy has achieved positive results.", "band": 7, "tip": "Interchangeable with 'nevertheless' — vary between them" },
+        { "word": "On the other hand", "usage": "On the other hand, opponents argue that...", "band": 6, "tip": "Always pair with 'on the one hand' or a preceding point" },
+        { "word": "Conversely", "usage": "Conversely, rural areas have seen a decline in services.", "band": 7, "tip": "Shows a direct opposite — not just a different view" },
+        { "word": "In contrast", "usage": "In contrast to developed nations, developing countries face...", "band": 6, "tip": "Great for comparing two different situations or groups" },
+        { "word": "Although", "usage": "Although this has some merit, the overall impact is negative.", "band": 6, "tip": "Use to concede a point before making your main argument" },
+        { "word": "Despite / In spite of", "usage": "Despite the economic growth, inequality has widened.", "band": 7, "tip": "Follow with a noun/gerund, not a clause — 'despite + -ing'" },
+        { "word": "Whereas", "usage": "Whereas urban residents have access to healthcare, rural populations do not.", "band": 7, "tip": "Directly compares two contrasting situations in one sentence" },
+        { "word": "While it is true that", "usage": "While it is true that technology creates jobs, it also displaces workers.", "band": 8, "tip": "Concession + counter — shows balanced thinking. Band 8 technique" },
+        { "word": "Admittedly", "usage": "Admittedly, there are some drawbacks to this approach.", "band": 8, "tip": "Acknowledges the opposing view gracefully before countering it" },
+        { "word": "Having said that", "usage": "Having said that, the long-term benefits are clear.", "band": 7, "tip": "Transitions smoothly after conceding a point" }
+      ]
+    },
+    {
+      "id": "cause-effect",
+      "label": "Cause & Effect",
+      "color": "#9a6b20",
+      "description": "Explain reasons and consequences",
+      "connectors": [
+        { "word": "Therefore", "usage": "Therefore, it is essential that governments take action.", "band": 6, "tip": "Classic cause-effect connector — use for logical conclusions" },
+        { "word": "Consequently", "usage": "Consequently, many young people are unable to afford housing.", "band": 7, "tip": "More formal than 'so' — shows you understand academic register" },
+        { "word": "As a result", "usage": "As a result of rapid urbanisation, traffic congestion has worsened.", "band": 6, "tip": "Can be used as 'as a result' or 'as a result of + noun'" },
+        { "word": "Thus", "usage": "Thus, the correlation between education and income is well established.", "band": 7, "tip": "Short and punchy — great for concluding a chain of reasoning" },
+        { "word": "Hence", "usage": "Hence, a more sustainable approach is needed.", "band": 7, "tip": "Slightly more formal than 'thus' — works well in conclusions" },
+        { "word": "This leads to", "usage": "This leads to a situation where inequality becomes entrenched.", "band": 6, "tip": "Shows a chain of consequences — good for problem/solution essays" },
+        { "word": "Owing to", "usage": "Owing to the lack of investment, public services have deteriorated.", "band": 7, "tip": "More sophisticated than 'because of' — use for variety" },
+        { "word": "This means that", "usage": "This means that future generations will bear the consequences.", "band": 6, "tip": "Explains the implication of a point — very natural" },
+        { "word": "For this reason", "usage": "For this reason, early intervention programmes are crucial.", "band": 6, "tip": "Explicitly links back to the reason you just stated" },
+        { "word": "It follows that", "usage": "It follows that increased access to education reduces poverty.", "band": 8, "tip": "Shows logical deduction — very academic and impressive" }
+      ]
+    },
+    {
+      "id": "examples",
+      "label": "Examples & Evidence",
+      "color": "#2d6a4f",
+      "description": "Support your points with specific examples",
+      "connectors": [
+        { "word": "For example", "usage": "For example, countries like Sweden have implemented...", "band": 6, "tip": "The standard — but try to vary with other phrases" },
+        { "word": "For instance", "usage": "For instance, a recent study by WHO found that...", "band": 6, "tip": "Interchangeable with 'for example' — alternate between them" },
+        { "word": "Such as", "usage": "Renewable energy sources, such as solar and wind power, are...", "band": 6, "tip": "Use mid-sentence to give quick examples within a list" },
+        { "word": "To illustrate", "usage": "To illustrate this point, consider the case of Finland's education system.", "band": 7, "tip": "More sophisticated than 'for example' — shows deliberate structuring" },
+        { "word": "A case in point is", "usage": "A case in point is the success of Singapore's public housing programme.", "band": 8, "tip": "Band 8 phrase — introduces a specific, detailed example" },
+        { "word": "This is evidenced by", "usage": "This is evidenced by the sharp decline in literacy rates.", "band": 7, "tip": "Points to data or facts — adds academic weight" },
+        { "word": "As demonstrated by", "usage": "As demonstrated by recent research, screen time affects sleep quality.", "band": 7, "tip": "References evidence without needing to cite a specific study" },
+        { "word": "One notable example is", "usage": "One notable example is Japan's approach to elderly care.", "band": 7, "tip": "Signals you're about to give a strong, specific example" }
+      ]
+    },
+    {
+      "id": "emphasis",
+      "label": "Emphasis & Certainty",
+      "color": "#8b5e83",
+      "description": "Strengthen your position and stress key points",
+      "connectors": [
+        { "word": "Indeed", "usage": "Indeed, the evidence overwhelmingly supports this view.", "band": 7, "tip": "Reinforces a point — use after stating something strong" },
+        { "word": "In fact", "usage": "In fact, the opposite is true.", "band": 6, "tip": "Use to correct a misconception or add surprising information" },
+        { "word": "Undoubtedly", "usage": "Undoubtedly, education plays a crucial role in social mobility.", "band": 7, "tip": "Strong certainty — only use when the point is well-supported" },
+        { "word": "It is widely acknowledged that", "usage": "It is widely acknowledged that climate change poses a significant threat.", "band": 7, "tip": "Establishes consensus — good for opening arguments" },
+        { "word": "Particularly", "usage": "This is particularly evident in developing countries.", "band": 6, "tip": "Narrows focus to a specific area or group" },
+        { "word": "Especially", "usage": "This is especially true for younger generations.", "band": 6, "tip": "Similar to 'particularly' — use to highlight a specific group" },
+        { "word": "It is worth noting that", "usage": "It is worth noting that these results may vary across cultures.", "band": 7, "tip": "Draws attention to something the reader might overlook" },
+        { "word": "Significantly", "usage": "Significantly, this trend has accelerated in recent years.", "band": 7, "tip": "Signals the point is important for the overall argument" }
+      ]
+    },
+    {
+      "id": "sequence",
+      "label": "Sequence & Organisation",
+      "color": "#3d5a80",
+      "description": "Structure your essay and guide the reader",
+      "connectors": [
+        { "word": "Firstly / First of all", "usage": "Firstly, it is important to consider the economic implications.", "band": 6, "tip": "Use for your first body paragraph — signals structure" },
+        { "word": "Secondly", "usage": "Secondly, the social impact must be examined.", "band": 6, "tip": "Don't go beyond 'thirdly' — it gets repetitive" },
+        { "word": "Finally / Lastly", "usage": "Finally, the environmental consequences deserve attention.", "band": 6, "tip": "Signals your last body point — not the conclusion" },
+        { "word": "To begin with", "usage": "To begin with, the main cause of this problem is...", "band": 6, "tip": "Alternative to 'firstly' — slightly less mechanical" },
+        { "word": "Following this", "usage": "Following this logic, we can conclude that...", "band": 7, "tip": "Shows your ideas build on each other" },
+        { "word": "Subsequently", "usage": "Subsequently, the government introduced new regulations.", "band": 7, "tip": "Shows chronological order — useful in process descriptions" },
+        { "word": "Having considered X, it is also important to", "usage": "Having considered the economic factors, it is also important to examine the social implications.", "band": 8, "tip": "Band 8 transition — shows you're structuring deliberately" }
+      ]
+    },
+    {
+      "id": "opinion",
+      "label": "Giving Opinions",
+      "color": "#9a6b20",
+      "description": "Express your view with appropriate hedging",
+      "connectors": [
+        { "word": "In my opinion", "usage": "In my opinion, the advantages far outweigh the disadvantages.", "band": 6, "tip": "Direct and clear — use once in your essay, usually in the intro or conclusion" },
+        { "word": "I believe that", "usage": "I believe that governments should prioritise education spending.", "band": 6, "tip": "Personal and direct — fine for opinion essays" },
+        { "word": "From my perspective", "usage": "From my perspective, this trend is largely positive.", "band": 7, "tip": "Slightly more sophisticated than 'I think'" },
+        { "word": "It seems to me that", "usage": "It seems to me that a balanced approach is needed.", "band": 7, "tip": "Softer opinion — good when you're not fully certain" },
+        { "word": "I am firmly convinced that", "usage": "I am firmly convinced that education is the key to progress.", "band": 7, "tip": "Strong opinion — use in conclusion to restate your thesis" },
+        { "word": "It could be argued that", "usage": "It could be argued that technology has made life easier.", "band": 7, "tip": "Hedged — introduces a view without committing to it" },
+        { "word": "One could contend that", "usage": "One could contend that stricter laws would reduce crime.", "band": 8, "tip": "Academic and distanced — shows sophistication" },
+        { "word": "I would argue that", "usage": "I would argue that prevention is more effective than punishment.", "band": 7, "tip": "Confident but not aggressive — shows reasoned thinking" }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "label": "Conclusion & Summary",
+      "color": "#2d6a4f",
+      "description": "Wrap up your essay effectively",
+      "connectors": [
+        { "word": "In conclusion", "usage": "In conclusion, the benefits of globalisation clearly outweigh the drawbacks.", "band": 6, "tip": "The standard conclusion opener — always safe" },
+        { "word": "To sum up", "usage": "To sum up, education reform requires a multi-faceted approach.", "band": 6, "tip": "Alternative to 'in conclusion' — slightly less formal" },
+        { "word": "Overall", "usage": "Overall, the evidence suggests that early intervention is most effective.", "band": 6, "tip": "Great for Task 1 summaries and Task 2 conclusions" },
+        { "word": "All things considered", "usage": "All things considered, a balanced approach is the most sensible option.", "band": 7, "tip": "Shows you've weighed multiple factors — good for discussion essays" },
+        { "word": "Taking everything into account", "usage": "Taking everything into account, it is clear that urgent action is needed.", "band": 7, "tip": "Longer but impressive — shows comprehensive thinking" },
+        { "word": "In light of the above", "usage": "In light of the above arguments, I firmly believe that...", "band": 8, "tip": "Sophisticated — explicitly references your earlier arguments" },
+        { "word": "On balance", "usage": "On balance, the advantages of remote work outweigh the disadvantages.", "band": 7, "tip": "Perfect for advantage/disadvantage essays — shows measured judgement" }
+      ]
+    }
+  ]
+}

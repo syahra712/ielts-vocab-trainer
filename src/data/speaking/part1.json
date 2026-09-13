@@ -1,0 +1,152 @@
+[
+  {
+    "topic": "Work & Study",
+    "questions": [
+      "Do you work or are you a student?",
+      "What do you do for work / What are you studying?",
+      "Why did you choose that job / course?",
+      "What do you enjoy most about your work / studies?",
+      "Would you like to change your job / field of study in the future?"
+    ]
+  },
+  {
+    "topic": "Hometown",
+    "questions": [
+      "Where is your hometown?",
+      "What do you like most about your hometown?",
+      "Has your hometown changed much in recent years?",
+      "Would you recommend tourists to visit your hometown?",
+      "Do you think you will continue living there in the future?"
+    ]
+  },
+  {
+    "topic": "Home & Accommodation",
+    "questions": [
+      "Do you live in a house or an apartment?",
+      "What is your favourite room in your home?",
+      "Would you like to move to a different home in the future?",
+      "What would you change about your home if you could?",
+      "Is your home a good place for studying or working?"
+    ]
+  },
+  {
+    "topic": "Daily Routine",
+    "questions": [
+      "What is your typical daily routine?",
+      "Do you prefer mornings or evenings?",
+      "Has your daily routine changed recently?",
+      "What part of your day do you enjoy the most?",
+      "Do you think routines are important?"
+    ]
+  },
+  {
+    "topic": "Food & Cooking",
+    "questions": [
+      "What is your favourite food?",
+      "Do you enjoy cooking?",
+      "How often do you eat out?",
+      "Has the food you eat changed since you were a child?",
+      "What food from your country would you recommend to visitors?"
+    ]
+  },
+  {
+    "topic": "Technology",
+    "questions": [
+      "How often do you use your phone?",
+      "What technology do you use the most in your daily life?",
+      "Do you think people spend too much time on their phones?",
+      "What is the most useful app you have?",
+      "Are you interested in new technology?"
+    ]
+  },
+  {
+    "topic": "Reading",
+    "questions": [
+      "Do you enjoy reading?",
+      "What kind of books or articles do you prefer?",
+      "Do you prefer reading physical books or e-books?",
+      "Did you read a lot when you were younger?",
+      "Would you like to write a book someday?"
+    ]
+  },
+  {
+    "topic": "Music",
+    "questions": [
+      "What kind of music do you enjoy?",
+      "Do you play any musical instruments?",
+      "How has your taste in music changed over the years?",
+      "Do you prefer listening to music alone or with others?",
+      "Is music important in your culture?"
+    ]
+  },
+  {
+    "topic": "Travel",
+    "questions": [
+      "Do you enjoy travelling?",
+      "What was the last place you visited?",
+      "Do you prefer travelling alone or with others?",
+      "What is the most interesting place you have visited?",
+      "Where would you most like to travel in the future?"
+    ]
+  },
+  {
+    "topic": "Sports & Exercise",
+    "questions": [
+      "Do you play any sports?",
+      "How often do you exercise?",
+      "What is the most popular sport in your country?",
+      "Did you play more sports when you were younger?",
+      "Do you prefer watching sports or playing them?"
+    ]
+  },
+  {
+    "topic": "Weather & Seasons",
+    "questions": [
+      "What is the weather usually like in your country?",
+      "What is your favourite season?",
+      "Does the weather affect your mood?",
+      "Do you prefer hot or cold weather?",
+      "Has the weather in your country changed in recent years?"
+    ]
+  },
+  {
+    "topic": "Friends & Social Life",
+    "questions": [
+      "How often do you see your friends?",
+      "Do you prefer having a few close friends or many friends?",
+      "How do you usually spend time with your friends?",
+      "Have you made any new friends recently?",
+      "Is it easy to make friends in your country?"
+    ]
+  },
+  {
+    "topic": "Shopping",
+    "questions": [
+      "Do you enjoy shopping?",
+      "Do you prefer shopping online or in stores?",
+      "What was the last thing you bought?",
+      "Do you ever buy things you don't need?",
+      "Are there good shopping areas near your home?"
+    ]
+  },
+  {
+    "topic": "Nature & Environment",
+    "questions": [
+      "Do you spend much time in nature?",
+      "What natural scenery do you enjoy the most?",
+      "Are there parks or green spaces near where you live?",
+      "Do you think people today spend enough time outdoors?",
+      "Have you ever been to a national park?"
+    ]
+  },
+  {
+    "topic": "Films & TV",
+    "questions": [
+      "What type of films do you enjoy?",
+      "How often do you watch TV or streaming services?",
+      "Do you prefer watching films at home or at the cinema?",
+      "What was the last film you really enjoyed?",
+      "Do you think people watch too much TV nowadays?"
+    ]
+  }
+]
