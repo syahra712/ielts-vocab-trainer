@@ -9,7 +9,8 @@ import { FillGapMode } from '@/components/study/FillGapMode';
 import { SpeedQuizMode } from '@/components/study/SpeedQuizMode';
 import { SessionProgress } from '@/components/study/SessionProgress';
 import { SessionComplete } from '@/components/study/SessionComplete';
-import { getAllWords, getAllCardStates } from '@/lib/firebase/firestore';
+import { getAllCardStates } from '@/lib/firebase/firestore';
+import { ALL_WORDS } from '@/data/words';
 import type { Word } from '@/types/word';
 import type { CardState, StudyMode } from '@/types/session';
 
@@ -17,18 +18,13 @@ export default function StudyModePage() {
   const params = useParams();
   const mode = (params.mode as string) as StudyMode;
   const { user } = useAuth();
-  const [words, setWords] = useState<Word[]>([]);
   const [cardStates, setCardStates] = useState<Map<string, CardState>>(new Map());
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     if (!user) return;
     async function load() {
-      const [w, cs] = await Promise.all([
-        getAllWords(),
-        getAllCardStates(user!.uid),
-      ]);
-      setWords(w);
+      const cs = await getAllCardStates(user!.uid);
       const map = new Map<string, CardState>();
       cs.forEach((c) => map.set(c.wordSlug, c));
       setCardStates(map);
@@ -45,17 +41,7 @@ export default function StudyModePage() {
     );
   }
 
-  if (words.length === 0) {
-    return (
-      <div className="mx-auto max-w-xl rounded-[14px] border border-[#ededec] bg-[#fcfcfb] p-8 text-center">
-        <p className="text-[13px] text-[#8a8a9a]">
-          No words found. Run the seed script first to populate the word database.
-        </p>
-      </div>
-    );
-  }
-
-  return <StudySession words={words} cardStates={cardStates} mode={mode} allWords={words} />;
+  return <StudySession words={ALL_WORDS} cardStates={cardStates} mode={mode} allWords={ALL_WORDS} />;
 }
 
 function StudySession({
