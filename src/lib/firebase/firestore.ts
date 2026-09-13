@@ -6,12 +6,33 @@ import {
   setDoc,
   updateDoc,
   addDoc,
+  query,
+  where,
+  orderBy,
+  limit,
   serverTimestamp,
   increment,
   type DocumentData,
 } from 'firebase/firestore';
 import { db } from './config';
+import type { Word } from '@/types/word';
 import type { CardState } from '@/types/session';
+
+export async function getWord(slug: string): Promise<Word | null> {
+  const snap = await getDoc(doc(db, 'words', slug));
+  return snap.exists() ? (snap.data() as Word) : null;
+}
+
+export async function getAllWords(): Promise<Word[]> {
+  const snap = await getDocs(collection(db, 'words'));
+  return snap.docs.map((d) => d.data() as Word);
+}
+
+export async function getWordsByTopic(topic: string): Promise<Word[]> {
+  const q = query(collection(db, 'words'), where('topic', '==', topic));
+  const snap = await getDocs(q);
+  return snap.docs.map((d) => d.data() as Word);
+}
 
 export async function getCardState(
   uid: string,
