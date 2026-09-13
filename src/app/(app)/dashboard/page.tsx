@@ -2,24 +2,16 @@
 
 import { useAuth } from '@/components/auth/AuthProvider';
 import Link from 'next/link';
-import { TOPIC_COUNTS } from '@/data/words';
 
-const TOPIC_COLORS: Record<string, string> = {
-  academic: '#3d5a80',
-  environment: '#9a6b20',
-  society: '#2d6a4f',
-  technology: '#8b5e83',
-  health: '#a33030',
-  education: '#3d5a80',
-  economy: '#9a6b20',
-};
-
-const TOPICS = Object.entries(TOPIC_COUNTS).map(([key, total]) => ({
-  name: key.charAt(0).toUpperCase() + key.slice(1),
-  color: TOPIC_COLORS[key] ?? '#8a8a9a',
-  total,
-  done: 0,
-}));
+const TOPICS = [
+  { name: 'Academic', color: '#3d5a80', total: 15, done: 0 },
+  { name: 'Environment', color: '#9a6b20', total: 12, done: 0 },
+  { name: 'Society', color: '#2d6a4f', total: 12, done: 0 },
+  { name: 'Technology', color: '#8b5e83', total: 12, done: 0 },
+  { name: 'Health', color: '#a33030', total: 12, done: 0 },
+  { name: 'Education', color: '#3d5a80', total: 11, done: 0 },
+  { name: 'Economy', color: '#9a6b20', total: 12, done: 0 },
+];
 
 export default function DashboardPage() {
   const { user } = useAuth();
