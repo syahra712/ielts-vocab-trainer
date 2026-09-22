@@ -1,0 +1,165 @@
+{
+  "sections": [
+    {
+      "id": "section1",
+      "label": "Section 1",
+      "description": "A conversation between two people in an everyday social context (e.g., booking a hotel, joining a club)",
+      "difficulty": "Easiest",
+      "color": "#2d6a4f",
+      "questionTypes": ["Form/note completion", "Multiple choice", "Matching"],
+      "tips": [
+        "You'll hear names, numbers, dates, and addresses — practice listening for spelling",
+        "The speaker often corrects themselves: 'Oh wait, it's actually...' — the SECOND answer is correct",
+        "Read the form BEFORE the audio starts — predict what kind of answer you need",
+        "Listen for signal words: 'that's', 'it's', 'the address is', 'my name is'"
+      ]
+    },
+    {
+      "id": "section2",
+      "label": "Section 2",
+      "description": "A monologue in an everyday social context (e.g., a tour guide, a public announcement)",
+      "difficulty": "Easy-Medium",
+      "color": "#3d5a80",
+      "questionTypes": ["Multiple choice", "Matching", "Map/plan labelling", "Sentence completion"],
+      "tips": [
+        "One speaker only — harder to follow because there are no conversational cues",
+        "For map questions: orient yourself FIRST — find North, the entrance, landmarks",
+        "The speaker may describe things in a different order than the questions",
+        "Listen for direction words: 'opposite', 'next to', 'beyond', 'on your left'"
+      ]
+    },
+    {
+      "id": "section3",
+      "label": "Section 3",
+      "description": "A discussion between 2-4 people in an educational context (e.g., students discussing an assignment)",
+      "difficulty": "Medium-Hard",
+      "color": "#9a6b20",
+      "questionTypes": ["Multiple choice", "Matching", "Sentence completion", "Short answer"],
+      "tips": [
+        "Multiple speakers — identify WHO is saying WHAT",
+        "Academic vocabulary is common — study topic-specific terms",
+        "One speaker may agree, disagree, or modify another's point — listen for the FINAL decision",
+        "Distractors: a speaker mentions an option but then rejects it — listen for the conclusion"
+      ]
+    },
+    {
+      "id": "section4",
+      "label": "Section 4",
+      "description": "An academic lecture or talk on a general academic topic",
+      "difficulty": "Hardest",
+      "color": "#a33030",
+      "questionTypes": ["Sentence completion", "Summary completion", "Multiple choice", "Classification"],
+      "tips": [
+        "No pause in the middle — you must keep up for ~5 minutes straight",
+        "Read ALL questions before the audio — you won't get a second chance",
+        "The lecture follows a logical structure — use this to anticipate what comes next",
+        "Technical terms are often defined: 'This is known as...', 'What we call...'"
+      ]
+    }
+  ],
+  "generalStrategies": [
+    {
+      "id": "prediction",
+      "label": "Predict Before You Listen",
+      "description": "Use the time before each section to read questions and predict answers",
+      "steps": [
+        "Read the questions and underline key words",
+        "Predict the type of answer: name? number? place? adjective?",
+        "For gap-fills: check what comes before and after the gap — what part of speech fits?",
+        "For multiple choice: read ALL options — eliminate ones that seem unlikely"
+      ]
+    },
+    {
+      "id": "spelling-numbers",
+      "label": "Spelling & Numbers Mastery",
+      "description": "Section 1 almost always tests spelling and numbers — practise these daily",
+      "steps": [
+        "Know the NATO alphabet for tricky letters: B/D, M/N, F/S, P/B",
+        "Double letters: 'double L', 'double T' — listen for the word 'double'",
+        "Phone numbers are usually read in groups: '07-700-554-238'",
+        "Dates: '14th of March' or 'March the 14th' — both are common",
+        "Money: 'fifty pounds' = £50, 'fifteen' vs 'fifty' — listen to the ending (-een vs -ty)",
+        "Addresses: house number + street name. Listen for 'Road', 'Street', 'Avenue', 'Lane', 'Drive'"
+      ]
+    },
+    {
+      "id": "distractors",
+      "label": "Spotting Distractors",
+      "description": "The test deliberately includes wrong answers to mislead you",
+      "steps": [
+        "A speaker says one thing then corrects it: 'Tuesday... no, sorry, Wednesday' — answer is Wednesday",
+        "One speaker suggests something, another disagrees: follow the AGREED conclusion",
+        "An option is mentioned but in a DIFFERENT context than the question asks about",
+        "Extreme language ('always', 'never', 'all') is usually wrong in multiple choice",
+        "The answer usually paraphrases the question — if you hear the exact same words, be suspicious"
+      ]
+    },
+    {
+      "id": "note-taking",
+      "label": "Note-Taking Method",
+      "description": "Quick notation system for the listening test",
+      "steps": [
+        "Use abbreviations: w/ (with), b/c (because), govt (government), → (leads to)",
+        "Write only KEY words — not full sentences",
+        "Draw arrows to connect related ideas",
+        "Use ? for uncertain answers — come back to them",
+        "Write answers on the question paper first, then transfer to the answer sheet at the end (you get 10 minutes)"
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "mistake": "Falling behind", "fix": "If you miss an answer, move on immediately. Don't dwell — you'll miss the next one too." },
+    { "mistake": "Spelling errors", "fix": "Spelling must be correct. Practise common IELTS words: accommodation, environment, government, necessary." },
+    { "mistake": "Writing too many words", "fix": "If the limit is 'ONE WORD AND/OR A NUMBER', don't write two words. Articles (a/the) count." },
+    { "mistake": "Ignoring word limits", "fix": "Read the instruction EVERY time. Different question sets can have different word limits." },
+    { "mistake": "Leaving blanks", "fix": "Always guess — there's no penalty for wrong answers. Write something logical." },
+    { "mistake": "Confusing similar sounds", "fix": "Practise minimal pairs: fifteen/fifty, Monday/Sunday, B/P, G/J, I/E." },
+    { "mistake": "Missing the correction", "fix": "Speakers often self-correct. The FINAL answer they give is the correct one." },
+    { "mistake": "Not transferring answers", "fix": "You get 10 minutes to transfer. Use them carefully. Check spelling and word limits." }
+  ],
+  "practiceExercises": [
+    {
+      "id": "spelling-drill",
+      "type": "spelling",
+      "label": "Spelling Drill",
+      "description": "Common IELTS words that are frequently misspelled",
+      "words": [
+        { "word": "accommodation", "trap": "double c, double m" },
+        { "word": "environment", "trap": "n before m" },
+        { "word": "government", "trap": "n before m, no 'er'" },
+        { "word": "necessary", "trap": "one c, double s" },
+        { "word": "occurred", "trap": "double c, double r" },
+        { "word": "recommendation", "trap": "one c, double m" },
+        { "word": "definitely", "trap": "i-t-e, not 'a-t-e'" },
+        { "word": "separate", "trap": "a in the middle, not 'e'" },
+        { "word": "restaurant", "trap": "a-u in the middle" },
+        { "word": "Wednesday", "trap": "silent 'd'" },
+        { "word": "February", "trap": "first 'r' is often dropped" },
+        { "word": "library", "trap": "first 'r' is often dropped" },
+        { "word": "receipt", "trap": "silent 'p'" },
+        { "word": "psychology", "trap": "silent 'p'" },
+        { "word": "queue", "trap": "u-e-u-e after q" },
+        { "word": "maintenance", "trap": "ten-ance, not 'tain-ence'" },
+        { "word": "questionnaire", "trap": "double n, ends in -aire" },
+        { "word": "curriculum", "trap": "double r" },
+        { "word": "advertisement", "trap": "'tise' in British, 'tize' in American" },
+        { "word": "privilege", "trap": "no 'd', ends in -lege" }
+      ]
+    },
+    {
+      "id": "number-drill",
+      "type": "numbers",
+      "label": "Number Confusion Drill",
+      "description": "Practise distinguishing commonly confused numbers",
+      "pairs": [
+        { "a": "13", "b": "30", "tip": "thirTEEN (stress on -teen) vs THIRty (stress on first syllable)" },
+        { "a": "14", "b": "40", "tip": "fourTEEN vs FORty" },
+        { "a": "15", "b": "50", "tip": "fifTEEN vs FIFty" },
+        { "a": "16", "b": "60", "tip": "sixTEEN vs SIXty" },
+        { "a": "17", "b": "70", "tip": "sevenTEEN vs SEVENty" },
+        { "a": "18", "b": "80", "tip": "eighTEEN vs EIGHTy" },
+        { "a": "19", "b": "90", "tip": "nineTEEN vs NINEty" }
+      ]
+    }
+  ]
+}

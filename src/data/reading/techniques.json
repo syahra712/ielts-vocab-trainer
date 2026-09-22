@@ -1,0 +1,212 @@
+{
+  "questionTypes": [
+    {
+      "id": "tfng",
+      "label": "True / False / Not Given",
+      "color": "#3d5a80",
+      "frequency": "Very common",
+      "description": "Decide if statements match the passage information",
+      "strategy": [
+        "Read the statement FIRST, then scan the passage for the relevant section",
+        "TRUE = the passage says exactly this (maybe in different words)",
+        "FALSE = the passage says the OPPOSITE of this",
+        "NOT GIVEN = the passage doesn't mention this at all — don't use your own knowledge",
+        "Beware of qualifiers: 'all', 'some', 'never', 'always' — they change meaning completely",
+        "Statements follow the order of the passage — use this to locate answers faster"
+      ],
+      "commonTraps": [
+        "A topic is mentioned but the SPECIFIC claim isn't — that's NOT GIVEN, not TRUE",
+        "Your own opinion agrees with the statement, but the passage doesn't say it — NOT GIVEN",
+        "The passage uses similar words but means something different — read carefully",
+        "Absolute words like 'always' or 'never' are often FALSE"
+      ],
+      "example": {
+        "passage": "Research shows that bilingual children often develop stronger problem-solving skills than monolingual peers. However, the age at which a second language is introduced may influence outcomes.",
+        "statement": "Bilingual children always perform better academically than monolingual children.",
+        "answer": "NOT GIVEN",
+        "explanation": "The passage mentions problem-solving skills, not academic performance in general. 'Always' is also an absolute not supported by 'often'."
+      }
+    },
+    {
+      "id": "ynng",
+      "label": "Yes / No / Not Given",
+      "color": "#9a6b20",
+      "frequency": "Common",
+      "description": "Identify the writer's views and claims",
+      "strategy": [
+        "Similar to T/F/NG but focuses on the WRITER'S OPINION, not facts",
+        "YES = the writer agrees with this / claims this",
+        "NO = the writer disagrees with this / contradicts this",
+        "NOT GIVEN = the writer doesn't express a view on this",
+        "Look for opinion language: 'I believe', 'it is clear that', 'arguably', 'should'",
+        "The writer's view may be implied through word choice, not stated directly"
+      ],
+      "commonTraps": [
+        "The passage presents someone else's opinion — that's not necessarily the WRITER'S view",
+        "The writer mentions a topic but doesn't give their opinion — NOT GIVEN",
+        "Hedging language ('may', 'might', 'could') makes the view weaker, not absent"
+      ],
+      "example": {
+        "passage": "While some argue that homework is essential, I believe the evidence suggests that excessive homework does more harm than good for primary school children.",
+        "statement": "The writer thinks homework is always harmful.",
+        "answer": "NO",
+        "explanation": "The writer says 'excessive' homework is harmful for 'primary school' children — not ALL homework for ALL students."
+      }
+    },
+    {
+      "id": "matching-headings",
+      "label": "Matching Headings",
+      "color": "#2d6a4f",
+      "frequency": "Very common",
+      "description": "Choose the best heading for each paragraph",
+      "strategy": [
+        "Read ALL the headings first — understand the options before reading paragraphs",
+        "Read the FIRST and LAST sentence of each paragraph — they usually contain the main idea",
+        "Cross out headings as you use them (each heading is used once)",
+        "Don't match based on a single word — match the MAIN IDEA of the whole paragraph",
+        "Do the easiest paragraphs first, then eliminate options for harder ones",
+        "Look for paraphrasing — the heading won't use the same words as the paragraph"
+      ],
+      "commonTraps": [
+        "A heading contains a word from the paragraph but doesn't capture the main idea",
+        "Two headings seem to fit — pick the one that covers the WHOLE paragraph, not just one sentence",
+        "The paragraph has a topic sentence buried in the middle, not at the start"
+      ],
+      "example": null
+    },
+    {
+      "id": "matching-information",
+      "label": "Matching Information",
+      "color": "#8b5e83",
+      "frequency": "Common",
+      "description": "Match statements to the paragraph they appear in",
+      "strategy": [
+        "Read all statements first and underline key words",
+        "Scan each paragraph for the specific information in each statement",
+        "A paragraph may be used more than once — read the instructions carefully",
+        "Look for paraphrased versions of the statement's key ideas",
+        "This is a scanning exercise — don't read every word, scan for key terms"
+      ],
+      "commonTraps": [
+        "The same topic appears in multiple paragraphs — make sure the SPECIFIC information matches",
+        "Similar vocabulary in different paragraphs can mislead you"
+      ],
+      "example": null
+    },
+    {
+      "id": "fill-blanks",
+      "label": "Sentence / Summary Completion",
+      "color": "#a33030",
+      "frequency": "Very common",
+      "description": "Fill gaps using words from the passage or a word list",
+      "strategy": [
+        "Check the word limit — 'NO MORE THAN TWO WORDS' means 1 or 2, not 3",
+        "The answer must be grammatically correct in the sentence",
+        "Copy words EXACTLY from the passage — don't change the form",
+        "Read the sentence before and after the blank to understand context",
+        "Answers usually follow passage order",
+        "If given a word list, eliminate options as you use them"
+      ],
+      "commonTraps": [
+        "Writing 3 words when the limit is 2 — always check the instruction",
+        "Changing the word form (e.g., writing 'developed' when the passage says 'development')",
+        "Spelling mistakes count — copy carefully",
+        "Including articles (a/the) unnecessarily — they count towards the word limit"
+      ],
+      "example": {
+        "passage": "The project, which was funded by the National Science Foundation, aimed to develop affordable solar panels for rural communities.",
+        "statement": "The project received funding from the _______.",
+        "answer": "National Science Foundation",
+        "explanation": "Copy the exact phrase. It fits grammatically and within word limits."
+      }
+    },
+    {
+      "id": "multiple-choice",
+      "label": "Multiple Choice",
+      "color": "#3d5a80",
+      "frequency": "Common",
+      "description": "Choose the correct answer from 4 options",
+      "strategy": [
+        "Read the question stem carefully — understand what it's asking",
+        "Try to think of the answer BEFORE looking at options",
+        "Eliminate obviously wrong answers first",
+        "Beware of options that are TRUE but don't answer the specific question",
+        "The correct answer paraphrases the passage — it rarely uses the exact same words",
+        "'All of the above' and 'None of the above' are rare in IELTS"
+      ],
+      "commonTraps": [
+        "An option contains exact words from the passage but misrepresents the meaning",
+        "An option is true in real life but not stated in the passage",
+        "Two options seem correct — re-read the question to see which one is MORE accurate"
+      ],
+      "example": null
+    },
+    {
+      "id": "matching-features",
+      "label": "Matching Features / Names",
+      "color": "#9a6b20",
+      "frequency": "Occasional",
+      "description": "Match statements to people, dates, or categories",
+      "strategy": [
+        "Scan for names/dates/categories first — they're easy to spot",
+        "Read what each person says or what each date represents",
+        "Multiple statements can match the same person/feature",
+        "Look for reporting verbs: 'argues', 'suggests', 'found that', 'believes'"
+      ],
+      "commonTraps": [
+        "Confusing what person A said about person B's research with person B's own views",
+        "A name appears multiple times — make sure you match the RIGHT statement to the RIGHT mention"
+      ],
+      "example": null
+    },
+    {
+      "id": "short-answer",
+      "label": "Short Answer Questions",
+      "color": "#2d6a4f",
+      "frequency": "Occasional",
+      "description": "Answer questions using words from the passage",
+      "strategy": [
+        "Read the question and identify key words to scan for",
+        "Answers follow passage order",
+        "Stick to the word limit — check the instructions",
+        "Use exact words from the passage, not your own words",
+        "Question words tell you what to look for: 'when' = date/time, 'where' = place, 'who' = person"
+      ],
+      "commonTraps": [
+        "Giving a full sentence answer when they want 1-3 words",
+        "Answering with information from the wrong part of the passage"
+      ],
+      "example": null
+    }
+  ],
+  "skimmingTips": [
+    "Read the title, subtitle, and any headings first — they tell you the topic and structure",
+    "Read the first sentence of each paragraph to get the main idea",
+    "Don't read every word — move your eyes across the text quickly",
+    "Look for topic sentences (usually first or last in a paragraph)",
+    "Skip examples and details on first read — you'll come back for them",
+    "Aim to skim the entire passage in 2-3 minutes before answering questions"
+  ],
+  "scanningTips": [
+    "Know WHAT you're looking for before you scan",
+    "Look for capital letters (names, places), numbers, dates, and italics",
+    "Move your finger down the page to guide your eyes",
+    "Don't read — just look for the specific word or synonym",
+    "Once you find the area, slow down and read carefully around it",
+    "Practice scanning newspaper articles daily to build speed"
+  ],
+  "timeManagement": {
+    "total": "60 minutes for 40 questions across 3 passages",
+    "recommended": [
+      { "passage": "Passage 1 (easiest)", "time": "17 minutes", "tip": "Build confidence, don't overthink" },
+      { "passage": "Passage 2 (medium)", "time": "20 minutes", "tip": "Most variety in question types" },
+      { "passage": "Passage 3 (hardest)", "time": "23 minutes", "tip": "Dense academic text — allocate extra time" }
+    ],
+    "tips": [
+      "If stuck on a question for more than 90 seconds, move on and come back",
+      "NEVER leave a question blank — guess if you must (no penalty for wrong answers)",
+      "Transfer answers to the answer sheet as you go, not at the end",
+      "Spend 2-3 minutes skimming each passage before answering"
+    ]
+  }
+}

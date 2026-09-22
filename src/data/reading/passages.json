@@ -1,0 +1,123 @@
+[
+  {
+    "id": "urban-farming",
+    "title": "The Rise of Urban Farming",
+    "topic": "Environment",
+    "difficulty": 1,
+    "wordCount": 320,
+    "passage": "Urban farming has gained significant momentum in cities worldwide over the past decade. As populations grow and agricultural land diminishes, the idea of growing food within city limits has shifted from a fringe hobby to a serious component of urban planning.\n\nOne of the primary drivers behind this movement is food security. In many developing nations, rapid urbanisation has severed traditional food supply chains, leaving city residents dependent on imported produce that is often expensive and of questionable freshness. Urban farms, whether rooftop gardens, vertical farms, or community allotments, offer a localised alternative that reduces transportation costs and delivers fresher produce.\n\nBeyond food production, urban farming delivers considerable environmental benefits. Green spaces in cities help to reduce the urban heat island effect, improve air quality, and increase biodiversity. A study by the University of Sheffield found that allotment plots in British cities supported 50% more pollinator species than surrounding parks.\n\nHowever, critics argue that urban farming cannot realistically replace industrial agriculture. The yields per square metre remain significantly lower, and the costs of setting up hydroponic or vertical farming systems can be prohibitive for low-income communities — the very people who would benefit most. Professor Helen Martinez of MIT notes that \"urban farming should complement, not compete with, rural agriculture.\"\n\nDespite these limitations, city governments are increasingly incorporating urban agriculture into policy. Singapore, which imports over 90% of its food, has set a target to produce 30% of its nutritional needs locally by 2030, primarily through high-tech vertical farms. Similarly, Paris has mandated that all new buildings include provisions for rooftop gardens or green walls.",
+    "questions": [
+      {
+        "type": "tfng",
+        "items": [
+          { "statement": "Urban farming has only recently become popular in the last two years.", "answer": "FALSE", "explanation": "The passage says 'over the past decade', not two years." },
+          { "statement": "Urban farms can help reduce the cost of transporting food.", "answer": "TRUE", "explanation": "The passage states they 'reduce transportation costs'." },
+          { "statement": "The University of Sheffield study compared allotments with farmland outside cities.", "answer": "FALSE", "explanation": "It compared allotments with 'surrounding parks', not farmland." },
+          { "statement": "Professor Martinez believes urban farming should replace rural agriculture.", "answer": "FALSE", "explanation": "She says it should 'complement, not compete with' rural agriculture." },
+          { "statement": "Singapore currently produces 30% of its food locally.", "answer": "FALSE", "explanation": "30% is a future TARGET. Singapore currently imports over 90%." }
+        ]
+      },
+      {
+        "type": "fill-blanks",
+        "wordLimit": 2,
+        "items": [
+          { "statement": "In developing countries, _______ has disrupted traditional food supply chains.", "answer": "rapid urbanisation", "explanation": "Paragraph 2: 'rapid urbanisation has severed traditional food supply chains'" },
+          { "statement": "Urban green spaces help reduce the _______ effect in cities.", "answer": "urban heat island", "explanation": "Paragraph 3: 'reduce the urban heat island effect'" },
+          { "statement": "Setting up vertical farming can be too expensive for _______ communities.", "answer": "low-income", "explanation": "Paragraph 4: 'prohibitive for low-income communities'" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sleep-science",
+    "title": "The Science of Sleep",
+    "topic": "Health",
+    "difficulty": 2,
+    "wordCount": 350,
+    "passage": "Sleep, once dismissed as a passive state of unconsciousness, is now recognised as one of the most critical biological processes for human health. Research conducted over the past two decades has fundamentally changed our understanding of why we sleep and what happens when we do not get enough of it.\n\nDuring sleep, the brain undergoes a remarkable process of consolidation, transferring information from short-term to long-term memory. Studies at Harvard Medical School have demonstrated that students who slept for eight hours after learning new material retained 40% more information than those who stayed awake. This process occurs primarily during REM (Rapid Eye Movement) sleep, which typically accounts for 20-25% of total sleep time in adults.\n\nPerhaps more alarming is the growing body of evidence linking chronic sleep deprivation to serious health conditions. Individuals who consistently sleep fewer than six hours per night face a 48% higher risk of developing coronary heart disease and a 36% higher risk of colorectal cancer. The immune system is particularly vulnerable: even a single night of poor sleep can reduce natural killer cell activity by up to 70%.\n\nThe economic impact of sleep deprivation is equally staggering. A RAND Corporation study estimated that insufficient sleep costs the UK economy £40 billion annually — approximately 1.86% of GDP — through reduced productivity, increased absenteeism, and workplace accidents. Japan and the United States face even larger absolute losses.\n\nDespite this evidence, societal attitudes towards sleep remain problematic. Many corporate cultures continue to glorify long working hours and minimal sleep as signs of dedication. Dr. Matthew Walker, a leading sleep researcher at the University of California, Berkeley, argues that \"no aspect of our biology is left unscathed by sleep deprivation\" and advocates for later school start times, flexible working hours, and public health campaigns to address what he calls a \"global sleep loss epidemic.\"",
+    "questions": [
+      {
+        "type": "tfng",
+        "items": [
+          { "statement": "Sleep was always considered an important biological process.", "answer": "FALSE", "explanation": "It was 'once dismissed as a passive state of unconsciousness'." },
+          { "statement": "REM sleep makes up about a quarter of adult sleep time.", "answer": "TRUE", "explanation": "'20-25% of total sleep time' is approximately a quarter." },
+          { "statement": "Sleeping fewer than six hours increases the risk of heart disease by 36%.", "answer": "FALSE", "explanation": "The 36% figure is for colorectal cancer. Heart disease risk is 48%." },
+          { "statement": "The RAND study found that Japan loses more money to sleep deprivation than the UK.", "answer": "TRUE", "explanation": "'Japan and the United States face even larger absolute losses' than the UK's £40bn." },
+          { "statement": "Dr. Walker works at Harvard Medical School.", "answer": "FALSE", "explanation": "He works at the University of California, Berkeley. Harvard is mentioned separately." }
+        ]
+      },
+      {
+        "type": "multiple-choice",
+        "items": [
+          {
+            "question": "According to the passage, what is the main purpose of sleep for the brain?",
+            "options": ["Resting the neurons", "Transferring memories from short-term to long-term storage", "Producing new brain cells", "Reducing stress hormones"],
+            "answer": 1,
+            "explanation": "Paragraph 2: 'transferring information from short-term to long-term memory'"
+          },
+          {
+            "question": "What does Dr. Walker suggest as a solution to sleep deprivation?",
+            "options": ["Banning night shifts", "Prescribing sleeping pills", "Later school start times and flexible working hours", "Limiting screen time before bed"],
+            "answer": 2,
+            "explanation": "He 'advocates for later school start times, flexible working hours, and public health campaigns'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ai-workplace",
+    "title": "Artificial Intelligence in the Workplace",
+    "topic": "Technology",
+    "difficulty": 2,
+    "wordCount": 340,
+    "passage": "The integration of artificial intelligence into the modern workplace has sparked both optimism and anxiety in equal measure. While AI-powered tools are already handling tasks ranging from scheduling meetings to diagnosing medical conditions, the question of whether this technology will ultimately create or destroy jobs remains fiercely debated.\n\nAdvocates of AI adoption point to historical precedent. Every major technological revolution — from the printing press to the internet — initially displaced workers before creating entirely new categories of employment. The World Economic Forum estimates that while AI may eliminate 85 million jobs globally by 2025, it will simultaneously create 97 million new roles, resulting in a net gain of 12 million positions. These new roles will predominantly be in areas such as data analysis, machine learning engineering, and human-AI interaction design.\n\nCritics, however, argue that this transition may not be as smooth as optimists suggest. Unlike previous technological shifts, AI has the potential to automate cognitive tasks — the very work that displaced factory workers were retrained to do. A McKinsey report found that up to 30% of the hours worked globally could be automated by 2030, with administrative and customer service roles facing the highest risk of displacement.\n\nThe skills gap poses perhaps the most significant challenge. Workers whose jobs are automated will need to acquire new competencies, yet access to retraining programmes remains uneven. In the United States, only 0.1% of GDP is spent on worker retraining, compared to Denmark's 2%, widely regarded as best practice. Without substantial investment in education and reskilling, the benefits of AI risk being concentrated among those who already possess technical skills.\n\nGovernments and corporations are beginning to respond. Microsoft has pledged to train 25 million people in digital skills, while the European Union's Digital Education Action Plan aims to improve digital literacy across member states.",
+    "questions": [
+      {
+        "type": "ynng",
+        "items": [
+          { "statement": "The writer believes AI will definitely create more jobs than it destroys.", "answer": "NOT GIVEN", "explanation": "The writer presents both sides without clearly stating their own opinion." },
+          { "statement": "The writer considers the skills gap to be the biggest challenge of AI adoption.", "answer": "YES", "explanation": "'The skills gap poses perhaps the most significant challenge' — 'the most significant' shows the writer's view." },
+          { "statement": "The writer thinks Denmark's approach to retraining is effective.", "answer": "YES", "explanation": "Denmark's 2% is described as 'widely regarded as best practice', and the writer contrasts it favourably with the US's 0.1%." }
+        ]
+      },
+      {
+        "type": "fill-blanks",
+        "wordLimit": 3,
+        "items": [
+          { "statement": "AI is expected to create a net gain of _______ jobs.", "answer": "12 million", "explanation": "Paragraph 2: 'resulting in a net gain of 12 million positions'" },
+          { "statement": "_______ roles are most at risk of being automated.", "answer": "administrative and customer service", "explanation": "Paragraph 3: 'administrative and customer service roles facing the highest risk'" },
+          { "statement": "Microsoft has committed to training _______ people in digital skills.", "answer": "25 million", "explanation": "Final paragraph: 'Microsoft has pledged to train 25 million people'" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coral-reefs",
+    "title": "The Decline of Coral Reefs",
+    "topic": "Environment",
+    "difficulty": 3,
+    "wordCount": 360,
+    "passage": "Coral reefs, often called the rainforests of the sea, support approximately 25% of all marine species despite covering less than 1% of the ocean floor. Yet these vital ecosystems are disappearing at an unprecedented rate, with scientists warning that 70-90% of the world's coral reefs could vanish within the next 30 years if current trends continue.\n\nThe primary threat to coral reefs is ocean warming caused by climate change. Corals exist in a symbiotic relationship with microscopic algae called zooxanthellae, which provide up to 90% of the coral's energy through photosynthesis and give reefs their distinctive colours. When water temperatures rise by as little as 1-2°C above the seasonal maximum, corals expel these algae in a stress response known as bleaching. Without their algal partners, corals turn white and, if temperatures do not return to normal within weeks, they starve and die.\n\nOcean acidification compounds this threat. As the ocean absorbs approximately 30% of atmospheric carbon dioxide, its pH decreases, making it progressively harder for corals to build their calcium carbonate skeletons. Research published in Nature Climate Change projects that by 2100, ocean acidity will have increased by 150% relative to pre-industrial levels, effectively dissolving reef structures faster than corals can rebuild them.\n\nLocal stressors further weaken reef resilience. Agricultural runoff introduces excess nitrogen and phosphorus, fuelling algal blooms that smother coral. Destructive fishing practices, including cyanide and dynamite fishing, cause immediate physical damage, while coastal development increases sedimentation that blocks light essential for photosynthesis.\n\nConservation efforts have shown promising but limited results. Marine protected areas, such as Australia's Great Barrier Reef Marine Park, have demonstrated that restricting human activity can allow damaged reefs to recover. Coral gardening programmes, in which fragments of resilient coral species are cultivated in nurseries and transplanted onto degraded reefs, have restored several hectares of reef in the Caribbean. However, scientists emphasise that without addressing the root cause — greenhouse gas emissions — these localised interventions are ultimately fighting a losing battle.",
+    "questions": [
+      {
+        "type": "tfng",
+        "items": [
+          { "statement": "Coral reefs cover approximately 25% of the ocean floor.", "answer": "FALSE", "explanation": "They cover 'less than 1%' of the ocean floor. 25% refers to marine species they support." },
+          { "statement": "Zooxanthellae are responsible for the colour of coral reefs.", "answer": "TRUE", "explanation": "They 'give reefs their distinctive colours'." },
+          { "statement": "Bleaching occurs when water temperature rises by more than 5°C.", "answer": "FALSE", "explanation": "It occurs with a rise of 'as little as 1-2°C above the seasonal maximum'." },
+          { "statement": "The ocean absorbs about a third of atmospheric CO2.", "answer": "TRUE", "explanation": "'approximately 30%' — about a third." },
+          { "statement": "Coral gardening has successfully restored entire reef systems.", "answer": "FALSE", "explanation": "It has restored 'several hectares' — not entire reef systems. Scientists say it's 'fighting a losing battle' without emissions cuts." }
+        ]
+      },
+      {
+        "type": "matching-headings",
+        "items": [
+          { "paragraph": 1, "heading": "The ecological importance and dire future of coral reefs", "options": ["How coral bleaching works", "The ecological importance and dire future of coral reefs", "Conservation success stories", "Local threats to reefs"] },
+          { "paragraph": 2, "heading": "How coral bleaching works", "options": ["The economic value of reefs", "How coral bleaching works", "Ocean acidification", "Fishing and coral damage"] },
+          { "paragraph": 4, "heading": "Local threats to reef resilience", "options": ["Global warming effects", "Coral gardening techniques", "Local threats to reef resilience", "Marine protected areas"] }
+        ]
+      }
+    ]
+  }
+]
