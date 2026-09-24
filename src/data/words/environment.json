@@ -385,5 +385,80 @@
     "commonMistake": "Students often confuse ‘Anthropocene’ with ‘anthropogenic’, using the latter when a noun is required.",
     "slug": "anthropocene",
     "topic": "environment"
+  },
+  {
+    "word": "Reforestation",
+    "pos": "n.",
+    "definition": "The process of planting trees in deforested areas to restore forest cover.",
+    "example": "The government's <b>reforestation</b> program aims to plant two million saplings by 2030.",
+    "exampleAlt": "Local communities have embraced <b>reforestation</b> as a means to combat soil erosion.",
+    "difficulty": 2,
+    "collocations": [
+      "reforestation effort",
+      "reforestation project",
+      "reforestation policy",
+      "reforestation initiative"
+    ],
+    "synonyms": [
+      "afforestation",
+      "tree planting"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of reforestation as nature's reboot button after a forest crash.",
+    "writingTip": "Incorporating <b>reforestation</b> into your essay can demonstrate a proactive solution to deforestation.",
+    "speakingTip": "pronounced REE-fawr-uh-STAY-shuhn; you can say, 'Many countries are investing in reforestation to offset carbon emissions.'",
+    "commonMistake": "Confusing reforestation with afforestation; reforestation restores existing forest land, while afforestation creates forest on never‑forested land.",
+    "slug": "reforestation",
+    "topic": "environment"
+  },
+  {
+    "word": "Greenwashing",
+    "pos": "n.",
+    "definition": "A deceptive practice of portraying products or policies as environmentally friendly when they are not.",
+    "example": "The company's claim of being eco‑friendly was exposed as <b>greenwashing</b> after an independent audit.",
+    "exampleAlt": "Consumers are increasingly skeptical of <b>greenwashing</b> in the fashion industry.",
+    "difficulty": 3,
+    "collocations": [
+      "greenwashing tactics",
+      "greenwashing allegations",
+      "greenwashing campaign",
+      "greenwashing practice"
+    ],
+    "synonyms": [
+      "misleading eco‑branding",
+      "environmental spin"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine putting a thin green paint over a dirty wall—that's greenwashing.",
+    "writingTip": "Use <b>greenwashing</b> to critique superficial corporate sustainability claims in your essay.",
+    "speakingTip": "pronounced GREEEN-wash-ing; you might say, 'Many firms resort to greenwashing to attract eco‑conscious buyers.'",
+    "commonMistake": "Using greenwashing as a verb; the correct noun form is 'greenwashing', not 'greenwash'.",
+    "slug": "greenwashing",
+    "topic": "environment"
+  },
+  {
+    "word": "Biodegradable",
+    "pos": "adj.",
+    "definition": "Capable of being broken down by natural processes into harmless substances.",
+    "example": "The city council banned non‑<b>biodegradable</b> plastics from public parks.",
+    "exampleAlt": "Consumers prefer <b>biodegradable</b> packaging to reduce landfill waste.",
+    "difficulty": 2,
+    "collocations": [
+      "biodegradable material",
+      "biodegradable product",
+      "biodegradable waste",
+      "biodegradable alternative"
+    ],
+    "synonyms": [
+      "compostable",
+      "environmentally degradable"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of biodegradable items as the 'self‑destruct' mode of trash.",
+    "writingTip": "Highlight the rise of <b>biodegradable</b> packaging as a practical measure against pollution.",
+    "speakingTip": "pronounced BYE-oh-dih-GRAD-uh-buhl; you can incorporate it by saying, 'Switching to biodegradable bags could significantly cut down marine litter.'",
+    "commonMistake": "Mixing up biodegradable with compostable; not all biodegradable items are suitable for home composting.",
+    "slug": "biodegradable",
+    "topic": "environment"
   }
 ]
