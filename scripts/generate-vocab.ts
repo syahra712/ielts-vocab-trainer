@@ -185,11 +185,14 @@ async function main() {
   // Firestore keys the `words` collection by slug regardless of topic file,
   // so a duplicate slug in ANY topic would silently overwrite that word's doc.
   const allSlugs = new Set<string>();
+  const existingWords: string[] = [];
   for (const file of readdirSync(wordsDir).filter((f) => f.endsWith('.json'))) {
     const words: WordEntry[] = JSON.parse(readFileSync(join(wordsDir, file), 'utf-8'));
-    for (const w of words) allSlugs.add(w.slug);
+    for (const w of words) {
+      allSlugs.add(w.slug);
+      existingWords.push(w.word);
+    }
   }
-  const existingWords = existing.map((w) => w.word);
 
   console.log(`Generating ${count} words for topic "${topic}" via Groq...`);
   let generated: WordEntry[] = [];
