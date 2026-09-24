@@ -459,5 +459,180 @@
     "commonMistake": "Learners sometimes spell it ‘apprenticeships’ when referring to the singular concept; keep the singular form unless discussing multiple programmes.",
     "slug": "apprenticeship",
     "topic": "education"
+  },
+  {
+    "word": "Lifelong",
+    "pos": "adj.",
+    "definition": "Extending or lasting throughout a person's life.",
+    "example": "A <b>lifelong</b> commitment to learning equips individuals to adapt to rapid technological change.",
+    "exampleAlt": "Many employers value <b>lifelong</b> learners who continuously upgrade their skills.",
+    "difficulty": 2,
+    "collocations": [
+      "Lifelong learning",
+      "Lifelong education",
+      "Lifelong pursuit",
+      "Lifelong development"
+    ],
+    "synonyms": [
+      "continuous",
+      "ongoing"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine learning as a marathon, not a sprint; it never stops.",
+    "writingTip": "Policies that promote <b>lifelong</b> learning can mitigate skill obsolescence in the modern workforce.",
+    "speakingTip": "pronounced LYF‑long; you could answer, 'I believe <b>lifelong</b> education is essential because knowledge evolves constantly.'",
+    "commonMistake": "Students sometimes misuse it as a noun; remember it is an adjective that needs a noun such as 'learning' after it.",
+    "slug": "lifelong",
+    "topic": "education"
+  },
+  {
+    "word": "Inclusive",
+    "pos": "adj.",
+    "definition": "Including people of all backgrounds, abilities, or identities.",
+    "example": "An <b>inclusive</b> curriculum ensures that minority histories are represented.",
+    "exampleAlt": "Schools must adopt <b>inclusive</b> policies to support students with disabilities.",
+    "difficulty": 2,
+    "collocations": [
+      "Inclusive education",
+      "Inclusive environment",
+      "Inclusive policies",
+      "Inclusive practices"
+    ],
+    "synonyms": [
+      "comprehensive",
+      "all‑encompassing"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a big table where everyone has a seat; that’s inclusive.",
+    "writingTip": "Governments should allocate resources to develop <b>inclusive</b> education systems that cater to diverse learners.",
+    "speakingTip": "pronounced in‑KLOO‑siv; you might say, 'An <b>inclusive</b> approach reduces achievement gaps across socioeconomic groups.'",
+    "commonMistake": "Often paired incorrectly with an article; say 'inclusive education' not 'the inclusive education.'",
+    "slug": "inclusive",
+    "topic": "education"
+  },
+  {
+    "word": "Socratic",
+    "pos": "adj.",
+    "definition": "Pertaining to the teaching method that uses questioning to stimulate critical thinking.",
+    "example": "The professor employs a <b>socratic</b> style to challenge students’ assumptions.",
+    "exampleAlt": "A <b>socratic</b> dialogue can uncover hidden biases in classroom discussions.",
+    "difficulty": 3,
+    "collocations": [
+      "Socratic method",
+      "Socratic questioning",
+      "Socratic dialogue",
+      "Socratic approach"
+    ],
+    "synonyms": [
+      "dialectical",
+      "inquisitive"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like a detective asking ‘why’ at every clue, the Socratic method probes deeper.",
+    "writingTip": "Adopting a <b>socratic</b> approach in debates encourages learners to justify their viewpoints with evidence.",
+    "speakingTip": "pronounced so‑RA‑tik; you could mention, 'Many elite schools incorporate <b>socratic</b> questioning to develop analytical skills.'",
+    "commonMistake": "Students often think it describes a person; it actually describes the method, so use 'Socratic method' not 'Socratic person.'",
+    "slug": "socratic",
+    "topic": "education"
+  },
+  {
+    "word": "Metacognition",
+    "pos": "noun",
+    "definition": "Awareness and understanding of one’s own thought processes.",
+    "example": "Encouraging <b>metacognition</b> helps students become self‑regulating learners.",
+    "exampleAlt": "The program integrates <b>metacognition</b> exercises to improve problem‑solving skills.",
+    "difficulty": 3,
+    "collocations": [
+      "metacognitive skills",
+      "metacognition strategies",
+      "metacognitive awareness",
+      "metacognition research"
+    ],
+    "synonyms": [
+      "self‑reflection",
+      "self‑awareness"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of metacognition as the ‘coach inside your head’ that tells you how you’re playing the learning game.",
+    "writingTip": "A compelling argument is that fostering <b>metacognition</b> in classrooms equips pupils to adapt to rapidly changing job markets.",
+    "speakingTip": "pronounced meh‑tuh‑kohg‑NI‑shun – you could say, “Developing <b>metacognition</b> is essential for lifelong academic success.”",
+    "commonMistake": "Students often add an extra ‘s’ and say ‘metacognitions’; the correct singular form is ‘metacognition’ when referring to the overall concept.",
+    "slug": "metacognition",
+    "topic": "education"
+  },
+  {
+    "word": "Remedial",
+    "pos": "adj.",
+    "definition": "Designed to correct or improve deficiencies, especially in education.",
+    "example": "The school offers <b>remedial</b> classes for pupils who lag behind in reading.",
+    "exampleAlt": "A <b>remedial</b> program was introduced to raise math scores after the mid‑year assessment.",
+    "difficulty": 1,
+    "collocations": [
+      "remedial course",
+      "remedial teaching",
+      "remedial measures",
+      "remedial support"
+    ],
+    "synonyms": [
+      "corrective",
+      "reparative"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture remedial as a ‘repair kit’ for gaps in knowledge that need fixing.",
+    "writingTip": "Governments should invest in <b>remedial</b> education to ensure that disadvantaged students do not fall irretrievably behind.",
+    "speakingTip": "pronounced ri‑ME‑dee‑uhl – you might say, “Many schools provide <b>remedial</b> tutoring to bridge learning gaps.”",
+    "commonMistake": "Learners sometimes misuse ‘remedial’ to mean ‘optional enrichment’; it actually refers to support for struggling students, not advanced ones.",
+    "slug": "remedial",
+    "topic": "education"
+  },
+  {
+    "word": "Enrichment",
+    "pos": "noun",
+    "definition": "Activities or programs that add value to the standard curriculum by broadening knowledge or skills.",
+    "example": "The university’s summer <b>enrichment</b> program includes workshops on creative writing and robotics.",
+    "exampleAlt": "Participating in <b>enrichment</b> activities can enhance a student’s university application.",
+    "difficulty": 1,
+    "collocations": [
+      "enrichment program",
+      "enrichment activities",
+      "enrichment opportunities",
+      "enrichment curriculum"
+    ],
+    "synonyms": [
+      "enhancement",
+      "supplement"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of enrichment as the ‘spice’ that makes the basic educational stew more flavorful.",
+    "writingTip": "Policymakers should allocate funds for extracurricular <b>enrichment</b> initiatives that nurture critical thinking beyond core subjects.",
+    "speakingTip": "pronounced EN‑ri‑ch‑ment – you could answer, “Investing in <b>enrichment</b> courses helps students discover hidden talents.”",
+    "commonMistake": "Students often conflate ‘enrichment’ with ‘extracurricular’; while related, enrichment specifically refers to value‑adding academic content, not just any outside activity.",
+    "slug": "enrichment",
+    "topic": "education"
+  },
+  {
+    "word": "Transdisciplinary",
+    "pos": "adj.",
+    "definition": "Extending across or beyond the boundaries of multiple academic disciplines.",
+    "example": "The research project adopted a <b>transdisciplinary</b> framework, linking biology, sociology, and ethics.",
+    "exampleAlt": "A <b>transdisciplinary</b> curriculum encourages students to solve real‑world problems using diverse perspectives.",
+    "difficulty": 3,
+    "collocations": [
+      "transdisciplinary approach",
+      "transdisciplinary research",
+      "transdisciplinary education",
+      "transdisciplinary collaboration"
+    ],
+    "synonyms": [
+      "cross‑disciplinary",
+      "integrative"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine transdisciplinary as a ‘mash‑up playlist’ where ideas from different subjects play together in harmony.",
+    "writingTip": "In an era of complex global challenges, a <b>transdisciplinary</b> education system equips learners with the versatility to innovate across fields.",
+    "speakingTip": "pronounced trans‑di‑suh‑pli‑NAR‑ee – you might say, “Employing a <b>transdisciplinary</b> approach can better prepare students for the modern workforce.”",
+    "commonMistake": "Learners sometimes use ‘interdisciplinary’ interchangeably; however, ‘transdisciplinary’ implies a deeper integration that transcends merely combining disciplines.",
+    "slug": "transdisciplinary",
+    "topic": "education"
   }
 ]
