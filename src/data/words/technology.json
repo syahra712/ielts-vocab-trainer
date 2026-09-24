@@ -8,8 +8,17 @@
     "exampleAlt": "Rapid technological advances risk making current skills <b>obsolete</b> within a few years.",
     "topic": "technology",
     "difficulty": 2,
-    "collocations": ["become obsolete", "render obsolete", "technologically obsolete", "virtually obsolete"],
-    "synonyms": ["outdated", "antiquated", "outmoded"],
+    "collocations": [
+      "become obsolete",
+      "render obsolete",
+      "technologically obsolete",
+      "virtually obsolete"
+    ],
+    "synonyms": [
+      "outdated",
+      "antiquated",
+      "outmoded"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Obsolete means something has been completely overtaken and nobody uses it anymore. Like VHS tapes or phone booths -- they're not just old, they've been replaced by something better.",
     "writingTip": "Automation threatens to render many traditional manufacturing jobs obsolete, necessitating investment in worker retraining programmes.",
@@ -25,8 +34,17 @@
     "exampleAlt": "Many companies now <b>automate</b> customer service through chatbots and AI systems.",
     "topic": "technology",
     "difficulty": 1,
-    "collocations": ["automate processes", "automate tasks", "fully automate", "automate production"],
-    "synonyms": ["mechanise", "computerise", "streamline"],
+    "collocations": [
+      "automate processes",
+      "automate tasks",
+      "fully automate",
+      "automate production"
+    ],
+    "synonyms": [
+      "mechanise",
+      "computerise",
+      "streamline"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Automate means getting machines or computers to do tasks that humans used to do. When a factory replaces workers with robots on the assembly line, they've automated production.",
     "writingTip": "As companies automate routine tasks, governments must invest in education systems that prepare workers for higher-skilled roles.",
@@ -42,8 +60,17 @@
     "exampleAlt": "CCTV <b>surveillance</b> in public spaces is defended as a crime deterrent but criticised as intrusive.",
     "topic": "technology",
     "difficulty": 2,
-    "collocations": ["surveillance cameras", "surveillance technology", "mass surveillance", "under surveillance"],
-    "synonyms": ["monitoring", "observation", "scrutiny"],
+    "collocations": [
+      "surveillance cameras",
+      "surveillance technology",
+      "mass surveillance",
+      "under surveillance"
+    ],
+    "synonyms": [
+      "monitoring",
+      "observation",
+      "scrutiny"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Surveillance is watching people closely, usually without them knowing. Think CCTV cameras, phone tracking, or governments monitoring internet activity. It's observation with a purpose.",
     "writingTip": "While surveillance technology can enhance public safety, it must be balanced against citizens' fundamental right to privacy.",
@@ -59,8 +86,17 @@
     "exampleAlt": "The pandemic led to an <b>unprecedented</b> shift towards remote working across all industries.",
     "topic": "technology",
     "difficulty": 2,
-    "collocations": ["unprecedented growth", "unprecedented scale", "unprecedented challenges", "unprecedented access"],
-    "synonyms": ["unparalleled", "unmatched", "extraordinary"],
+    "collocations": [
+      "unprecedented growth",
+      "unprecedented scale",
+      "unprecedented challenges",
+      "unprecedented access"
+    ],
+    "synonyms": [
+      "unparalleled",
+      "unmatched",
+      "extraordinary"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Unprecedented means it's never happened before -- there's no precedent, no previous example. When something is truly the first of its kind or on a never-before-seen scale, it's unprecedented.",
     "writingTip": "The unprecedented speed of digital transformation has created both extraordinary opportunities and significant challenges for education systems.",
@@ -76,8 +112,17 @@
     "exampleAlt": "The <b>proliferation</b> of fake news websites has made media literacy more important than ever.",
     "topic": "technology",
     "difficulty": 3,
-    "collocations": ["proliferation of", "nuclear proliferation", "rapid proliferation", "proliferation of technology"],
-    "synonyms": ["spread", "expansion", "multiplication"],
+    "collocations": [
+      "proliferation of",
+      "nuclear proliferation",
+      "rapid proliferation",
+      "proliferation of technology"
+    ],
+    "synonyms": [
+      "spread",
+      "expansion",
+      "multiplication"
+    ],
     "ieltsRelevance": "Writing Task 2, Reading comprehension",
     "tutorExplanation": "Proliferation means something spreading and multiplying really fast. Like how smartphones went from rare to everywhere in just a few years. It's rapid, widespread growth.",
     "writingTip": "The proliferation of online learning platforms has democratised access to education but raised questions about quality assurance.",
@@ -93,8 +138,17 @@
     "exampleAlt": "The challenge lies in how to <b>integrate</b> new arrivals into the existing community.",
     "topic": "technology",
     "difficulty": 1,
-    "collocations": ["integrate into", "integrate with", "fully integrate", "seamlessly integrate"],
-    "synonyms": ["incorporate", "combine", "merge"],
+    "collocations": [
+      "integrate into",
+      "integrate with",
+      "fully integrate",
+      "seamlessly integrate"
+    ],
+    "synonyms": [
+      "incorporate",
+      "combine",
+      "merge"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Integrate means to bring things together so they work as one. Like when a school integrates technology into lessons -- the tech becomes part of the teaching, not a separate add-on.",
     "writingTip": "Successfully integrating technology into classroom instruction requires both adequate resources and comprehensive teacher training.",
@@ -110,8 +164,17 @@
     "exampleAlt": "The region was granted <b>autonomous</b> status, allowing it to govern its own affairs.",
     "topic": "technology",
     "difficulty": 2,
-    "collocations": ["autonomous vehicles", "autonomous region", "autonomous systems", "fully autonomous"],
-    "synonyms": ["self-governing", "independent", "self-directed"],
+    "collocations": [
+      "autonomous vehicles",
+      "autonomous region",
+      "autonomous systems",
+      "fully autonomous"
+    ],
+    "synonyms": [
+      "self-governing",
+      "independent",
+      "self-directed"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Autonomous means operating on its own without needing someone to control it. Self-driving cars are autonomous because they navigate without a human driver. It's about independence and self-sufficiency.",
     "writingTip": "The development of autonomous vehicles could revolutionise public transport, but significant safety concerns must first be addressed.",
@@ -127,8 +190,17 @@
     "exampleAlt": "While <b>disruptive</b> technologies create new opportunities, they can also displace established workers.",
     "topic": "technology",
     "difficulty": 2,
-    "collocations": ["disruptive technology", "disruptive innovation", "disruptive change", "potentially disruptive"],
-    "synonyms": ["revolutionary", "transformative", "groundbreaking"],
+    "collocations": [
+      "disruptive technology",
+      "disruptive innovation",
+      "disruptive change",
+      "potentially disruptive"
+    ],
+    "synonyms": [
+      "revolutionary",
+      "transformative",
+      "groundbreaking"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "In technology, disruptive doesn't mean 'annoying' -- it means something that completely shakes up an industry. Uber was disruptive to taxis, Netflix to video stores. It changes the game entirely.",
     "writingTip": "Disruptive innovations such as artificial intelligence are reshaping labour markets, making adaptability an essential skill for future workers.",
@@ -144,8 +216,17 @@
     "exampleAlt": "The <b>exponential</b> increase in internet users has transformed global commerce.",
     "topic": "technology",
     "difficulty": 3,
-    "collocations": ["exponential growth", "exponential increase", "exponential rate", "exponential rise"],
-    "synonyms": ["rapid", "accelerating", "geometric"],
+    "collocations": [
+      "exponential growth",
+      "exponential increase",
+      "exponential rate",
+      "exponential rise"
+    ],
+    "synonyms": [
+      "rapid",
+      "accelerating",
+      "geometric"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Exponential means growth that keeps getting faster and faster. Imagine a snowball rolling downhill -- it starts small but gets bigger and bigger at an increasing speed. That's exponential growth.",
     "writingTip": "The exponential growth of data generated by digital devices presents both opportunities and challenges for businesses and governments.",
@@ -161,8 +242,17 @@
     "exampleAlt": "Developing countries often lack the <b>infrastructure</b> needed to support rapid industrialisation.",
     "topic": "technology",
     "difficulty": 1,
-    "collocations": ["transport infrastructure", "digital infrastructure", "infrastructure investment", "critical infrastructure"],
-    "synonyms": ["framework", "foundation", "facilities"],
+    "collocations": [
+      "transport infrastructure",
+      "digital infrastructure",
+      "infrastructure investment",
+      "critical infrastructure"
+    ],
+    "synonyms": [
+      "framework",
+      "foundation",
+      "facilities"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Infrastructure is the stuff that makes a society function -- roads, bridges, power lines, internet cables, water pipes. You don't notice it until it breaks, but everything depends on it.",
     "writingTip": "Investing in digital infrastructure is essential for bridging the gap between urban and rural communities in the modern economy.",
@@ -178,8 +268,17 @@
     "exampleAlt": "The school adopted an <b>innovative</b> approach to teaching that combined project-based learning with mentoring.",
     "topic": "technology",
     "difficulty": 1,
-    "collocations": ["innovative approach", "innovative solutions", "innovative technology", "innovative ideas"],
-    "synonyms": ["creative", "pioneering", "inventive"],
+    "collocations": [
+      "innovative approach",
+      "innovative solutions",
+      "innovative technology",
+      "innovative ideas"
+    ],
+    "synonyms": [
+      "creative",
+      "pioneering",
+      "inventive"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Innovative means doing something in a new and clever way that nobody has tried before. It's not just about having ideas -- it's about ideas that actually work and make things better.",
     "writingTip": "Governments should create incentives for innovative companies that develop sustainable solutions to environmental challenges.",
@@ -195,12 +294,171 @@
     "exampleAlt": "While the project is technically <b>feasible</b>, the cost may be prohibitive.",
     "topic": "technology",
     "difficulty": 2,
-    "collocations": ["economically feasible", "technically feasible", "feasible solution", "feasible option"],
-    "synonyms": ["viable", "achievable", "practicable"],
+    "collocations": [
+      "economically feasible",
+      "technically feasible",
+      "feasible solution",
+      "feasible option"
+    ],
+    "synonyms": [
+      "viable",
+      "achievable",
+      "practicable"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Feasible means something can actually be done -- it's realistic and practical. Travelling to Mars is possible in theory, but is it feasible right now? Probably not. Feasible means doable in practice.",
     "writingTip": "While eliminating all carbon emissions immediately is not feasible, a phased reduction plan could achieve significant results within a decade.",
     "speakingTip": "Pronounced 'FEE-zih-bul'. Use for practical discussions: 'I don't think this plan is really feasible given the budget constraints.'",
     "commonMistake": "Don't confuse 'feasible' with 'possible'. Many things are theoretically possible but not feasible (practical to actually do)."
+  },
+  {
+    "word": "Algorithmic",
+    "pos": "adj.",
+    "definition": "Relating to or using algorithms.",
+    "example": "The platform’s <b>algorithmic</b> recommendations often dictate what users watch next.",
+    "exampleAlt": "Critics argue that <b>algorithmic</b> bias can reinforce societal stereotypes.",
+    "difficulty": 2,
+    "collocations": [
+      "algorithmic trading",
+      "algorithmic bias",
+      "algorithmic process",
+      "algorithmic efficiency"
+    ],
+    "synonyms": [
+      "computational",
+      "procedural"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the recipe that tells a computer exactly what steps to follow.",
+    "writingTip": "Policymakers should address the ethical implications of <b>algorithmic</b> decision‑making in hiring practices.",
+    "speakingTip": "pronounced al-guh-ROW-mik; you could say, \"How do you feel about <b>algorithmic</b> filtering of news feeds?\"",
+    "commonMistake": "Confusing ‘algorithmic’ with ‘automatic’; the former describes the logic, the latter the action.",
+    "slug": "algorithmic",
+    "topic": "technology"
+  },
+  {
+    "word": "Cybersecurity",
+    "pos": "n.",
+    "definition": "The practice of protecting systems, networks, and programs from digital attacks.",
+    "example": "Investing in robust <b>cybersecurity</b> measures is essential for any e‑commerce business.",
+    "exampleAlt": "Recent data breaches have highlighted the gaps in global <b>cybersecurity</b> standards.",
+    "difficulty": 2,
+    "collocations": [
+      "cybersecurity threats",
+      "cybersecurity measures",
+      "cybersecurity framework",
+      "enhanced cybersecurity"
+    ],
+    "synonyms": [
+      "information security",
+      "digital security"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like a digital lock and alarm system for your online house.",
+    "writingTip": "The rise of Internet‑of‑Things devices demands a reevaluation of national <b>cybersecurity</b> policies.",
+    "speakingTip": "pronounced SY‑ber‑se‑KYU‑ri‑tee; you might say, \"What steps can individuals take to improve their <b>cybersecurity</b>?\"",
+    "commonMistake": "Students often add ‘the’ before cybersecurity when speaking generally – say ‘Cybersecurity is vital,’ not ‘The cybersecurity is vital.’",
+    "slug": "cybersecurity",
+    "topic": "technology"
+  },
+  {
+    "word": "Nanotechnology",
+    "pos": "n.",
+    "definition": "The manipulation of matter on an atomic, molecular, or supramolecular scale.",
+    "example": "<b>Nanotechnology</b> promises breakthroughs in medical diagnostics and drug delivery.",
+    "exampleAlt": "Environmentalists are debating the long‑term effects of <b>nanotechnology</b> waste.",
+    "difficulty": 3,
+    "collocations": [
+      "nanotechnology applications",
+      "nanotechnology research",
+      "nanotechnology industry",
+      "advanced nanotechnology"
+    ],
+    "synonyms": [
+      "molecular engineering",
+      "nano‑engineering"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine building with Lego bricks that are a million times smaller than a grain of sand.",
+    "writingTip": "While <b>nanotechnology</b> can revolutionise energy storage, regulators must ensure its safety for ecosystems.",
+    "speakingTip": "pronounced NAY‑no‑tek‑NOH‑loh‑jee; you could ask, \"Do you think <b>nanotechnology</b> will become commonplace in everyday products?\"",
+    "commonMistake": "Mixing up ‘nanotech’ with ‘biotech’; nanotech deals with the very small, not biological processes.",
+    "slug": "nanotechnology",
+    "topic": "technology"
+  },
+  {
+    "word": "Blockchain",
+    "pos": "n.",
+    "definition": "A decentralized digital ledger that records transactions across many computers.",
+    "example": "Cryptocurrencies rely on <b>blockchain</b> technology to ensure transparent transactions.",
+    "exampleAlt": "Supply‑chain managers are exploring <b>blockchain</b> to trace product origins more reliably.",
+    "difficulty": 2,
+    "collocations": [
+      "blockchain technology",
+      "blockchain network",
+      "public blockchain",
+      "blockchain implementation"
+    ],
+    "synonyms": [
+      "distributed ledger",
+      "decentralized ledger"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as a public notebook where every page is linked to the one before it.",
+    "writingTip": "Governments must consider the legal implications before mandating <b>blockchain</b> for public records.",
+    "speakingTip": "pronounced BLOCK‑chain; try, \"What are the advantages of using <b>blockchain</b> for secure voting?\"",
+    "commonMistake": "Using ‘blockchain’ as a verb (e.g., ‘to blockchain’) – it remains a noun; say ‘to use blockchain technology.’",
+    "slug": "blockchain",
+    "topic": "technology"
+  },
+  {
+    "word": "Virtualisation",
+    "pos": "n.",
+    "definition": "The creation of a virtual version of something, such as a server, storage device, or network resource.",
+    "example": "Enterprises adopt <b>virtualisation</b> to maximise hardware utilisation and reduce costs.",
+    "exampleAlt": "<b>Virtualisation</b> enables developers to test software across multiple operating systems without extra physical machines.",
+    "difficulty": 2,
+    "collocations": [
+      "server virtualisation",
+      "desktop virtualisation",
+      "hardware virtualisation",
+      "virtualisation technology"
+    ],
+    "synonyms": [
+      "emulation",
+      "simulation"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like having several apartments inside one building, each with its own address.",
+    "writingTip": "By embracing <b>virtualisation</b>, schools can provide each student with a personalized computing environment without upgrading physical labs.",
+    "speakingTip": "pronounced vur‑chuh‑luh-ZAY‑shun; you could say, \"How has <b>virtualisation</b> changed the way companies manage IT resources?\"",
+    "commonMistake": "Confusing ‘virtualisation’ with ‘virtual reality’; the former is about resource abstraction, the latter about immersive experiences.",
+    "slug": "virtualisation",
+    "topic": "technology"
+  },
+  {
+    "word": "Biometric",
+    "pos": "adj.",
+    "definition": "Relating to the measurement and statistical analysis of people's unique physical or behavioural characteristics.",
+    "example": "Many smartphones now unlock with <b>biometric</b> fingerprint sensors.",
+    "exampleAlt": "Airports are introducing <b>biometric</b> facial recognition to speed up passenger screening.",
+    "difficulty": 1,
+    "collocations": [
+      "biometric data",
+      "biometric authentication",
+      "biometric system",
+      "biometric security"
+    ],
+    "synonyms": [
+      "physiological",
+      "identifying"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like using your own body’s secret code to prove who you are.",
+    "writingTip": "While <b>biometric</b> verification can enhance security, it also raises privacy concerns that must be addressed in legislation.",
+    "speakingTip": "pronounced BY‑oh‑MET‑rik; try, \"Do you trust <b>biometric</b> methods for protecting personal information?\"",
+    "commonMistake": "Using ‘biometric’ as a noun; it is an adjective – say ‘biometric data,’ not ‘a biometric.’",
+    "slug": "biometric",
+    "topic": "technology"
   }
 ]

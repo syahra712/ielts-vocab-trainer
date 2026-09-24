@@ -8,8 +8,17 @@
     "exampleAlt": "The government uses <b>demographic</b> data to plan public services such as schools and hospitals.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["demographic change", "demographic trends", "demographic data", "demographic shift"],
-    "synonyms": ["population-related", "statistical", "census-based"],
+    "collocations": [
+      "demographic change",
+      "demographic trends",
+      "demographic data",
+      "demographic shift"
+    ],
+    "synonyms": [
+      "population-related",
+      "statistical",
+      "census-based"
+    ],
     "ieltsRelevance": "Writing Task 1, Writing Task 2",
     "tutorExplanation": "Demographic is about the stats of a population -- things like age, income, education level. When someone says 'demographic shift,' they mean the makeup of a population is changing, like more old people and fewer young ones.",
     "writingTip": "Rapid demographic change in many developed nations has placed increasing pressure on pension systems and healthcare provision.",
@@ -25,8 +34,17 @@
     "exampleAlt": "There is a significant <b>disparity</b> in educational outcomes between wealthy and disadvantaged schools.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["income disparity", "wealth disparity", "growing disparity", "gender disparity"],
-    "synonyms": ["inequality", "gap", "imbalance"],
+    "collocations": [
+      "income disparity",
+      "wealth disparity",
+      "growing disparity",
+      "gender disparity"
+    ],
+    "synonyms": [
+      "inequality",
+      "gap",
+      "imbalance"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Disparity is a gap between two things that should ideally be more equal. Like if a CEO earns a million and their workers earn minimum wage, that's a huge disparity. It highlights unfairness.",
     "writingTip": "Addressing the disparity in access to quality healthcare between urban and rural populations should be a government priority.",
@@ -42,8 +60,17 @@
     "exampleAlt": "Children tend to <b>assimilate</b> new languages more quickly than adults.",
     "topic": "society",
     "difficulty": 3,
-    "collocations": ["assimilate into", "culturally assimilate", "assimilate information", "fully assimilate"],
-    "synonyms": ["integrate", "absorb", "adapt"],
+    "collocations": [
+      "assimilate into",
+      "culturally assimilate",
+      "assimilate information",
+      "fully assimilate"
+    ],
+    "synonyms": [
+      "integrate",
+      "absorb",
+      "adapt"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Assimilate means blending into a new group until you become part of it. When someone moves to a new country and learns the language, adopts the customs, and fits in, they've assimilated.",
     "writingTip": "While some argue that immigrants should assimilate into their host culture, others believe multicultural societies benefit from preserving diverse traditions.",
@@ -59,8 +86,17 @@
     "exampleAlt": "The <b>stigma</b> surrounding unemployment can prevent people from seeking help.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["social stigma", "stigma attached to", "reduce the stigma", "stigma surrounding"],
-    "synonyms": ["shame", "disgrace", "taboo"],
+    "collocations": [
+      "social stigma",
+      "stigma attached to",
+      "reduce the stigma",
+      "stigma surrounding"
+    ],
+    "synonyms": [
+      "shame",
+      "disgrace",
+      "taboo"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Stigma is like an invisible label society sticks on people, making them feel ashamed. Mental illness used to carry a huge stigma -- people were embarrassed to talk about it. The stigma is the judgment, not the condition itself.",
     "writingTip": "Reducing the stigma associated with mental health disorders requires public education campaigns and open dialogue in schools and workplaces.",
@@ -76,8 +112,17 @@
     "exampleAlt": "Racial <b>segregation</b> in schools was legally abolished, yet socioeconomic divisions remain.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["racial segregation", "social segregation", "residential segregation", "end segregation"],
-    "synonyms": ["separation", "division", "isolation"],
+    "collocations": [
+      "racial segregation",
+      "social segregation",
+      "residential segregation",
+      "end segregation"
+    ],
+    "synonyms": [
+      "separation",
+      "division",
+      "isolation"
+    ],
     "ieltsRelevance": "Writing Task 2, Reading comprehension",
     "tutorExplanation": "Segregation is when groups of people are kept apart, either by law or by social pressure. Think of it as forced separation -- like when certain groups couldn't use the same schools or buses.",
     "writingTip": "Despite legal reforms, socioeconomic segregation continues to limit opportunities for disadvantaged communities in many countries.",
@@ -93,8 +138,17 @@
     "exampleAlt": "An <b>egalitarian</b> workplace ensures that all employees have equal opportunities for promotion.",
     "topic": "society",
     "difficulty": 3,
-    "collocations": ["egalitarian society", "egalitarian principles", "egalitarian approach", "egalitarian values"],
-    "synonyms": ["equitable", "democratic", "equal"],
+    "collocations": [
+      "egalitarian society",
+      "egalitarian principles",
+      "egalitarian approach",
+      "egalitarian values"
+    ],
+    "synonyms": [
+      "equitable",
+      "democratic",
+      "equal"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Egalitarian means everyone gets treated equally, no matter their background. An egalitarian society doesn't give special privileges based on wealth, race, or gender. Everyone starts on the same level.",
     "writingTip": "Building a truly egalitarian society requires not only equal rights in law but also equal access to education and healthcare.",
@@ -110,8 +164,17 @@
     "exampleAlt": "Children from <b>affluent</b> backgrounds often have access to better educational resources.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["affluent society", "affluent families", "affluent areas", "affluent countries"],
-    "synonyms": ["wealthy", "prosperous", "well-off"],
+    "collocations": [
+      "affluent society",
+      "affluent families",
+      "affluent areas",
+      "affluent countries"
+    ],
+    "synonyms": [
+      "wealthy",
+      "prosperous",
+      "well-off"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Affluent is a polished way to say 'rich.' Instead of saying 'rich neighbourhood,' you say 'affluent neighbourhood.' It sounds more formal and academic, which is exactly what IELTS wants.",
     "writingTip": "While affluent nations have the resources to invest in renewable energy, developing countries often lack the financial means to do so.",
@@ -127,8 +190,17 @@
     "exampleAlt": "Economic reforms that ignore rural workers risk <b>marginalising</b> the very people they claim to help.",
     "topic": "society",
     "difficulty": 3,
-    "collocations": ["marginalised groups", "marginalised communities", "socially marginalised", "further marginalise"],
-    "synonyms": ["exclude", "sideline", "disenfranchise"],
+    "collocations": [
+      "marginalised groups",
+      "marginalised communities",
+      "socially marginalised",
+      "further marginalise"
+    ],
+    "synonyms": [
+      "exclude",
+      "sideline",
+      "disenfranchise"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "To marginalise someone is to push them to the margins -- the edges -- of society where they're ignored and excluded. It's like being at a party where everyone pretends you don't exist.",
     "writingTip": "Policies that fail to consider the needs of disabled individuals risk marginalising an already vulnerable segment of the population.",
@@ -144,8 +216,17 @@
     "exampleAlt": "Each <b>cohort</b> of university graduates faces different employment challenges depending on the economy.",
     "topic": "society",
     "difficulty": 3,
-    "collocations": ["birth cohort", "age cohort", "student cohort", "cohort study"],
-    "synonyms": ["group", "generation", "batch"],
+    "collocations": [
+      "birth cohort",
+      "age cohort",
+      "student cohort",
+      "cohort study"
+    ],
+    "synonyms": [
+      "group",
+      "generation",
+      "batch"
+    ],
     "ieltsRelevance": "Writing Task 2, Reading comprehension",
     "tutorExplanation": "A cohort is a group of people who share something in common, usually studied together. Like 'the 2020 cohort' would be everyone who started university in 2020. They move through time as a group.",
     "writingTip": "Research following a cohort of children from birth to adulthood has revealed the lasting impact of early childhood education.",
@@ -161,8 +242,17 @@
     "exampleAlt": "The committee struggled to reach a <b>consensus</b> on the proposed budget cuts.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["broad consensus", "general consensus", "reach a consensus", "scientific consensus"],
-    "synonyms": ["agreement", "accord", "unanimity"],
+    "collocations": [
+      "broad consensus",
+      "general consensus",
+      "reach a consensus",
+      "scientific consensus"
+    ],
+    "synonyms": [
+      "agreement",
+      "accord",
+      "unanimity"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Consensus is when most people in a group agree on something. It doesn't mean everyone loves the idea -- just that they can all accept it. It's finding common ground.",
     "writingTip": "There is growing consensus among educators that critical thinking skills are more valuable than rote memorisation.",
@@ -178,8 +268,17 @@
     "exampleAlt": "Behind the <b>rhetoric</b> of equality, significant pay gaps between men and women persist.",
     "topic": "society",
     "difficulty": 3,
-    "collocations": ["political rhetoric", "empty rhetoric", "inflammatory rhetoric", "rhetoric and reality"],
-    "synonyms": ["oratory", "eloquence", "persuasion"],
+    "collocations": [
+      "political rhetoric",
+      "empty rhetoric",
+      "inflammatory rhetoric",
+      "rhetoric and reality"
+    ],
+    "synonyms": [
+      "oratory",
+      "eloquence",
+      "persuasion"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Rhetoric is basically fancy talk designed to persuade you. The catch? It often sounds great but lacks substance. When politicians make big promises they never keep, that's empty rhetoric.",
     "writingTip": "The gap between political rhetoric and actual policy implementation remains a significant barrier to addressing social inequality.",
@@ -195,12 +294,229 @@
     "exampleAlt": "Giving employees greater <b>autonomy</b> over their work schedules can boost productivity and morale.",
     "topic": "society",
     "difficulty": 2,
-    "collocations": ["personal autonomy", "academic autonomy", "regional autonomy", "autonomy over"],
-    "synonyms": ["independence", "self-governance", "freedom"],
+    "collocations": [
+      "personal autonomy",
+      "academic autonomy",
+      "regional autonomy",
+      "autonomy over"
+    ],
+    "synonyms": [
+      "independence",
+      "self-governance",
+      "freedom"
+    ],
     "ieltsRelevance": "Writing Task 2, Speaking Part 3",
     "tutorExplanation": "Autonomy means the freedom to make your own decisions and run your own life. A teenager wanting more autonomy just wants their parents to let them choose for themselves. It's about self-rule.",
     "writingTip": "Granting teachers greater autonomy in curriculum design may lead to more innovative and responsive educational practices.",
     "speakingTip": "Pronounced 'aw-TON-uh-mee'. Use for independence topics: 'Young adults naturally seek more autonomy from their parents.'",
     "commonMistake": "Don't confuse with 'anatomy' (body structure). Autonomy is about independence and self-governance."
+  },
+  {
+    "word": "Stratification",
+    "pos": "n.",
+    "definition": "The division of society into hierarchical layers based on factors such as wealth, power, and status.",
+    "example": "The rapid <b>stratification</b> of urban neighborhoods has widened the gap between rich and poor.",
+    "exampleAlt": "Economic <b>stratification</b> often determines access to quality education and healthcare.",
+    "difficulty": 3,
+    "collocations": [
+      "social stratification",
+      "economic stratification",
+      "vertical stratification",
+      "class stratification"
+    ],
+    "synonyms": [
+      "hierarchy",
+      "layering",
+      "ranking"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of society as a layered cake; each layer represents a different social level.",
+    "writingTip": "Policy reforms should aim to reduce social <b>stratification</b> by improving income redistribution mechanisms.",
+    "speakingTip": "pronounced stra-ti-fi-CA-tion; you can say, \"Many scholars argue that <b>stratification</b> hampers social cohesion in modern cities.\"",
+    "commonMistake": "Confusing 'stratification' with 'segregation'; stratification refers to hierarchical layers, not physical separation.",
+    "slug": "stratification",
+    "topic": "society"
+  },
+  {
+    "word": "Pluralism",
+    "pos": "n.",
+    "definition": "A condition in which multiple distinct groups coexist and are respected within a society.",
+    "example": "<b>Pluralism</b> thrives when minority cultures are given equal platform in public discourse.",
+    "exampleAlt": "The country's legal framework encourages <b>pluralism</b> by protecting religious freedom.",
+    "difficulty": 2,
+    "collocations": [
+      "cultural pluralism",
+      "political pluralism",
+      "religious pluralism",
+      "societal pluralism"
+    ],
+    "synonyms": [
+      "diversity",
+      "multiplicity",
+      "variety"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a garden with many different flowers; pluralism lets each bloom without being smothered.",
+    "writingTip": "A robust democracy is underpinned by <b>pluralism</b>, which safeguards the rights of all ethnic groups.",
+    "speakingTip": "pronounced PLUR-al-ism; you could answer, \"I believe <b>pluralism</b> is essential for fostering innovation in multicultural societies.\"",
+    "commonMistake": "Using 'pluralism' to mean 'plurality' (numerical majority); they are not interchangeable.",
+    "slug": "pluralism",
+    "topic": "society"
+  },
+  {
+    "word": "Hegemony",
+    "pos": "n.",
+    "definition": "Dominance of one group or ideology over others, often exercised subtly through cultural or political influence.",
+    "example": "Western media often perpetuates its own <b>hegemony</b> by marginalising non‑Western perspectives.",
+    "exampleAlt": "The party's longstanding <b>hegemony</b> has shaped national policies for decades.",
+    "difficulty": 3,
+    "collocations": [
+      "cultural hegemony",
+      "political hegemony",
+      "soft hegemony",
+      "global hegemony"
+    ],
+    "synonyms": [
+      "dominance",
+      "supremacy",
+      "control"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a chess queen controlling the board; that's hegemony in the social arena.",
+    "writingTip": "Critics argue that economic <b>Hegemony</b undermines the sovereignty of developing nations.",
+    "speakingTip": "pronounced he‑GE‑mo‑ny; you might say, \"The concept of <b>hegemony</b> explains why certain cultures dominate global narratives.\"",
+    "commonMistake": "Mixing up 'hegemony' with 'hegemon' (the leading state); the noun form refers to the condition, not the actor.",
+    "slug": "hegemony",
+    "topic": "society"
+  },
+  {
+    "word": "Civic",
+    "pos": "adj.",
+    "definition": "Relating to the duties or activities of citizens in a community or society.",
+    "example": "Volunteering at local shelters is a commendable <b>civic</b> responsibility.",
+    "exampleAlt": "The city council introduced a new <b>civic</b> engagement program to boost voter turnout.",
+    "difficulty": 1,
+    "collocations": [
+      "civic duty",
+      "civic engagement",
+      "civic responsibility",
+      "civic pride"
+    ],
+    "synonyms": [
+      "public",
+      "municipal",
+      "communal"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a neighbor helping you move; that's a classic civic act.",
+    "writingTip": "Strengthening <b>civic</b> participation can lead to more transparent governance.",
+    "speakingTip": "pronounced SIV-ik; you could incorporate, \"I think <b>civic</b> duties are essential for a healthy democracy.\"",
+    "commonMistake": "Using 'civic' to describe personal feelings (e.g., 'civic happiness'); it's about public or community matters.",
+    "slug": "civic",
+    "topic": "society"
+  },
+  {
+    "word": "Normative",
+    "pos": "adj.",
+    "definition": "Establishing, relating to, or deriving from a standard or norm, especially in social behavior.",
+    "example": "The study critiques the <b>normative</b> assumptions embedded in traditional family policies.",
+    "exampleAlt": "Media often reinforces <b>normative</b> gender roles through repeated stereotypes.",
+    "difficulty": 2,
+    "collocations": [
+      "normative framework",
+      "normative standards",
+      "normative expectations",
+      "normative ethics"
+    ],
+    "synonyms": [
+      "prescriptive",
+      "standard",
+      "conventional"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a rulebook that tells you how things 'should' be—that's normative.",
+    "writingTip": "Challenging <b>normative</b> views can spark progressive reforms in education systems.",
+    "speakingTip": "pronounced NOR‑ma‑tiv; you might say, \"Many societies still hold <b>normative</b> beliefs about work‑life balance.\"",
+    "commonMistake": "Confusing 'normative' with 'descriptive'; normative prescribes what ought to be, while descriptive merely describes what is.",
+    "slug": "normative",
+    "topic": "society"
+  },
+  {
+    "word": "Social Mobility",
+    "pos": "n.",
+    "definition": "The ability of individuals or families to move between social strata over time.",
+    "example": "Investing in early childhood education can significantly boost <b>social mobility</b>.",
+    "exampleAlt": "High tuition fees often restrict <b>social mobility</b> for low‑income students.",
+    "difficulty": 2,
+    "collocations": [
+      "intergenerational social mobility",
+      "upward social mobility",
+      "social mobility ladder",
+      "restricted social mobility"
+    ],
+    "synonyms": [
+      "class movement",
+      "status fluidity",
+      "economic ascent"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine climbing a ladder; each rung represents a higher social level—that's social mobility.",
+    "writingTip": "Policies that ensure equal access to quality education are pivotal for enhancing <b>social mobility</b>.",
+    "speakingTip": "pronounced SO‑cial mo‑BIL‑i‑ty; you could answer, \"I believe that improving <b>social mobility</b> is key to reducing inequality.\"",
+    "commonMistake": "Treating 'social mobility' as a static noun; it often appears with modifiers like 'upward' or 'intergenerational'.",
+    "slug": "social-mobility",
+    "topic": "society"
+  },
+  {
+    "word": "Alienation",
+    "pos": "n.",
+    "definition": "A feeling of estrangement or disconnection from society or one's own community.",
+    "example": "Rapid urbanisation can lead to a sense of <b>alienation</b> among longtime residents.",
+    "exampleAlt": "Workers experiencing <b>alienation</b> may feel detached from the purpose of their jobs.",
+    "difficulty": 2,
+    "collocations": [
+      "social alienation",
+      "cultural alienation",
+      "feelings of alienation",
+      "sense of alienation"
+    ],
+    "synonyms": [
+      "estrangement",
+      "disaffection",
+      "detachment"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of being a stranger at a party; that uneasy vibe is alienation.",
+    "writingTip": "Addressing mental‑health initiatives can mitigate the rising <b>alienation</b> among youths.",
+    "speakingTip": "pronounced a‑li‑e‑NAY‑shun; you might say, \"Modern technology, while convenient, sometimes increases <b>alienation</b> in communities.\"",
+    "commonMistake": "Using 'alienation' to mean 'isolation' without context; alienation emphasizes psychological disconnection, not just physical separation.",
+    "slug": "alienation",
+    "topic": "society"
+  },
+  {
+    "word": "Collectivism",
+    "pos": "n.",
+    "definition": "A cultural value that emphasizes the group’s needs and goals over those of the individual.",
+    "example": "In many East Asian societies, <b>collectivism</b> shapes family decisions and workplace dynamics.",
+    "exampleAlt": "Policies that promote <b>collectivism</b> often prioritize community welfare over personal profit.",
+    "difficulty": 3,
+    "collocations": [
+      "cultural collectivism",
+      "political collectivism",
+      "social collectivism",
+      "collectivist mindset"
+    ],
+    "synonyms": [
+      "communitarianism",
+      "group orientation",
+      "collective ethos"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a rowing team where everyone rows in sync; that's collectivism in action.",
+    "writingTip": "While <b>collectivism</b> can foster social harmony, it may also suppress individual creativity if taken to extremes.",
+    "speakingTip": "pronounced col‑lec‑ti‑VIZ‑um; you could incorporate, \"Debates often centre on the balance between <b>collectivism</b> and individual rights.\"",
+    "commonMistake": "Confusing 'collectivism' with 'collectivist' (the adjective); ensure the noun form matches the sentence structure.",
+    "slug": "collectivism",
+    "topic": "society"
   }
 ]

@@ -127,6 +127,13 @@ async function callGroq(apiKey: string, topic: Topic, count: number, existingWor
 
   if (!res.ok) {
     const body = await res.text();
+    if (res.status === 429) {
+      const waitMatch = body.match(/try again in ([\d.]+)s/i);
+      const waitSeconds = waitMatch ? Math.ceil(parseFloat(waitMatch[1])) + 1 : 20;
+      const err = new Error(`Groq API error ${res.status}: ${body}`) as Error & { retryAfterSeconds: number };
+      err.retryAfterSeconds = waitSeconds;
+      throw err;
+    }
     throw new Error(`Groq API error ${res.status}: ${body}`);
   }
 
@@ -193,7 +200,10 @@ async function main() {
       break;
     } catch (err) {
       if (attempt === maxAttempts) throw err;
-      console.log(`  attempt ${attempt} failed (${(err as Error).message.slice(0, 80)}...), retrying...`);
+      const retryAfter = (err as Error & { retryAfterSeconds?: number }).retryAfterSeconds;
+      const waitMs = (retryAfter ?? 5) * 1000;
+      console.log(`  attempt ${attempt} failed (${(err as Error).message.slice(0, 80)}...), waiting ${retryAfter ?? 5}s...`);
+      await new Promise((r) => setTimeout(r, waitMs));
     }
   }
 
