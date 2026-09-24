@@ -33,8 +33,15 @@ jobs:
           COUNT="${{ inputs.count || '6' }}"
           for topic in academic economy education environment health society technology; do
             echo "=== $topic ==="
-            npx tsx scripts/generate-vocab.ts --topic "$topic" --count "$COUNT" || echo "generation failed for $topic, continuing"
-            sleep 25
+            for attempt in 1 2; do
+              before=$(node -p "require('./src/data/words/$topic.json').length")
+              npx tsx scripts/generate-vocab.ts --topic "$topic" --count "$COUNT" || echo "generation failed for $topic"
+              after=$(node -p "require('./src/data/words/$topic.json').length")
+              [ "$after" -gt "$before" ] && break
+              echo "no words added for $topic, retrying after cooldown"
+              sleep 60
+            done
+            sleep 45
           done
 
       - name: Open PR with new words
