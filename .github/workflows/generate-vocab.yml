@@ -1,0 +1,53 @@
+name: Generate vocab
+
+on:
+  schedule:
+    # Every Monday 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Words per topic'
+        default: '6'
+        required: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Generate new words for each topic
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          COUNT="${{ inputs.count || '6' }}"
+          for topic in academic economy education environment health society technology; do
+            echo "=== $topic ==="
+            npx tsx scripts/generate-vocab.ts --topic "$topic" --count "$COUNT" || echo "generation failed for $topic, continuing"
+            sleep 25
+          done
+
+      - name: Open PR with new words
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'feat: weekly vocab batch via Groq'
+          title: 'Weekly vocab batch'
+          body: |
+            Auto-generated word entries from the scheduled Groq run.
+
+            Review each entry before merging — the generator validates schema
+            and dedupes slugs, but definitions/examples/tips should still be
+            spot-checked for quality before this reaches Firestore.
+          branch: auto/vocab-batch
+          delete-branch: true
+          add-paths: src/data/words/*.json
