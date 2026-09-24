@@ -8,7 +8,8 @@
     "build:only": "next build",
     "start": "next start",
     "lint": "eslint",
-    "seed": "tsx scripts/seed.ts"
+    "seed": "tsx scripts/seed.ts",
+    "generate:vocab": "tsx scripts/generate-vocab.ts"
   },
   "dependencies": {
     "firebase": "^12.19.0",
