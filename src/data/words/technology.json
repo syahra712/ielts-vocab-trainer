@@ -460,5 +460,55 @@
     "commonMistake": "Using ‘biometric’ as a noun; it is an adjective – say ‘biometric data,’ not ‘a biometric.’",
     "slug": "biometric",
     "topic": "technology"
+  },
+  {
+    "word": "Synergy",
+    "pos": "n.",
+    "definition": "A combined effect greater than the sum of individual effects.",
+    "example": "The <b>synergy</b> between AI and cloud computing accelerates data processing.",
+    "exampleAlt": "Companies seek <b>synergy</b> by merging complementary technologies.",
+    "difficulty": 2,
+    "collocations": [
+      "synergy between",
+      "create synergy",
+      "synergy effect",
+      "leveraging synergy"
+    ],
+    "synonyms": [
+      "collaboration",
+      "cooperation"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like two musicians playing together to create a richer sound, the whole becomes louder than the parts.",
+    "writingTip": "When evaluating policy, one must consider the <b>synergy</b> of renewable energy sources and smart grids.",
+    "speakingTip": "pronounced SIN-er-jee; you could answer, 'There is clear <b>synergy</b> between mobile apps and wearable devices.'",
+    "commonMistake": "Students often treat 'synergy' as a verb; remember it is a noun – say 'creates synergy', not 'synergizes'.",
+    "slug": "synergy",
+    "topic": "technology"
+  },
+  {
+    "word": "Catalyst",
+    "pos": "n.",
+    "definition": "Something that precipitates a significant change or event.",
+    "example": "The introduction of 5G networks acts as a <b>catalyst</b> for the Internet of Things.",
+    "exampleAlt": "Policy reforms can serve as a <b>catalyst</b> for technological innovation.",
+    "difficulty": 3,
+    "collocations": [
+      "catalyst for change",
+      "technological catalyst",
+      "economic catalyst",
+      "catalyst of"
+    ],
+    "synonyms": [
+      "stimulus",
+      "trigger"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the spark that makes a fire blaze faster – it speeds up change without being consumed.",
+    "writingTip": "The rapid adoption of cloud services has become a <b>catalyst</b> for businesses to restructure their operations.",
+    "speakingTip": "pronounced KAT-uh-list; you might say, 'I view AI as a <b>catalyst</b> that reshapes the job market.'",
+    "commonMistake": "Confusing 'catalyst' with 'catalytic' or using the wrong preposition; the correct pattern is 'catalyst for', not 'catalyst to'.",
+    "slug": "catalyst",
+    "topic": "technology"
   }
 ]

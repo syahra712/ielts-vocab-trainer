@@ -563,5 +563,30 @@
     "commonMistake": "Learners frequently confuse ‘dialectical’ with ‘dialect’, which refers to language varieties, not argumentative processes.",
     "slug": "dialectical",
     "topic": "academic"
+  },
+  {
+    "word": "Expository",
+    "pos": "adj.",
+    "definition": "Intended to explain or describe something clearly and systematically.",
+    "example": "The professor's <b>expository</b> lecture clarified the complex theory.",
+    "exampleAlt": "Students appreciated the <b>expository</b> style of the textbook.",
+    "difficulty": 2,
+    "collocations": [
+      "expository essay",
+      "expository writing",
+      "expository passage",
+      "expository analysis"
+    ],
+    "synonyms": [
+      "explanatory",
+      "descriptive"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the academic version of a clear road map.",
+    "writingTip": "In order to persuade the reader, the essay should adopt an <b>expository</b> approach that systematically unpacks the argument.",
+    "speakingTip": "pronounced eks-POR-tuh-tor-ee; you can say, \"Many universities value <b>expository</b> skills in research reports.\"",
+    "commonMistake": "Confusing it with 'explanatory'—students often use the latter when the formal, academic tone of 'expository' is required.",
+    "slug": "expository",
+    "topic": "academic"
   }
 ]

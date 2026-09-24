@@ -518,5 +518,55 @@
     "commonMistake": "Confusing 'collectivism' with 'collectivist' (the adjective); ensure the noun form matches the sentence structure.",
     "slug": "collectivism",
     "topic": "society"
+  },
+  {
+    "word": "Institutionalised",
+    "pos": "adj.",
+    "definition": "Formally established and ingrained within a society's structures.",
+    "example": "The <b>institutionalised</b> racism in the legal system persists despite reforms.",
+    "exampleAlt": "Many <b>institutionalised</b> practices hinder social innovation.",
+    "difficulty": 3,
+    "collocations": [
+      "institutionalised discrimination",
+      "institutionalised practices",
+      "institutionalised norms",
+      "institutionalised bias"
+    ],
+    "synonyms": [
+      "established",
+      "entrenched"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as a rule that’s been baked into the system like a cake that’s already set.",
+    "writingTip": "Governments must dismantle <b>institutionalised</b> barriers if they wish to achieve genuine equality across all social groups.",
+    "speakingTip": "pronounced in-sti-too-uh-LAI-zd; you can say, \"I believe that many of the challenges we face stem from <b>institutionalised</b> attitudes that are hard to change.\"",
+    "commonMistake": "Students often confuse \"institutionalised\" with \"institutional,\" using the latter when they need the adjective that conveys deep-rooted systemic nature.",
+    "slug": "institutionalised",
+    "topic": "society"
+  },
+  {
+    "word": "Intergenerational",
+    "pos": "adj.",
+    "definition": "Relating to or affecting different generations within a society.",
+    "example": "The government introduced an <b>intergenerational</b> tax credit to ease the burden on young families.",
+    "exampleAlt": "Addressing climate change requires <b>intergenerational</b> responsibility.",
+    "difficulty": 2,
+    "collocations": [
+      "intergenerational equity",
+      "intergenerational gap",
+      "intergenerational wealth",
+      "intergenerational dialogue"
+    ],
+    "synonyms": [
+      "cross-generational",
+      "multigenerational"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a relay race where the baton passes from one runner to the next – that’s intergenerational.",
+    "writingTip": "Policies that promote <b>intergenerational</b> equity can help bridge the widening wealth gap between the elderly and the youth.",
+    "speakingTip": "pronounced in-ter-jen-uh-RAY-shun-ul; you might say, \"I think sustainable development is an <b>intergenerational</b> issue that we all share.\"",
+    "commonMistake": "Students often misuse it with the preposition \"between\" (e.g., \"between intergenerational\"), whereas it should directly modify the noun without a preposition.",
+    "slug": "intergenerational",
+    "topic": "society"
   }
 ]

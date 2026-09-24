@@ -510,5 +510,80 @@
     "commonMistake": "Mixing up 'remittance' with 'remittal'; the correct term for sending money home is 'remittance'.",
     "slug": "remittance",
     "topic": "economy"
+  },
+  {
+    "word": "Depreciation",
+    "pos": "noun",
+    "definition": "The decline in value of an asset over time.",
+    "example": "The <b>depreciation</b> of the national currency made imports considerably more expensive.",
+    "exampleAlt": "Businesses accounted for equipment <b>depreciation</b> in their annual financial statements.",
+    "difficulty": 2,
+    "collocations": [
+      "currency depreciation",
+      "asset depreciation",
+      "depreciation rate",
+      "depreciation expense"
+    ],
+    "synonyms": [
+      "devaluation",
+      "downgrading"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a car losing its shine as it ages – that loss is depreciation.",
+    "writingTip": "High <b>depreciation</b> rates can erode consumer purchasing power, prompting policymakers to reconsider fiscal strategies.",
+    "speakingTip": "pronounced dih-PREE-shee-AY-shun; you can say, 'The country's rapid depreciation has spurred inflation concerns.'",
+    "commonMistake": "Often confused with 'devaluation', which refers specifically to a deliberate lowering of a currency's official value.",
+    "slug": "depreciation",
+    "topic": "economy"
+  },
+  {
+    "word": "Productivity",
+    "pos": "noun",
+    "definition": "The efficiency with which inputs are transformed into outputs.",
+    "example": "Increasing <b>productivity</b> in manufacturing can lower unit costs and boost export competitiveness.",
+    "exampleAlt": "<b>Productivity</b> gains are essential for sustaining long‑term economic growth.",
+    "difficulty": 2,
+    "collocations": [
+      "labour productivity",
+      "productivity growth",
+      "productivity gains",
+      "increase productivity"
+    ],
+    "synonyms": [
+      "efficiency",
+      "output"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine getting the same work done with fewer steps – that's higher productivity.",
+    "writingTip": "Governments should invest in technology to foster <b>productivity</b> improvements across sectors.",
+    "speakingTip": "pronounced proh-DUHK-tiv-i-tee; you might say, 'Rising productivity has helped offset wage stagnation.'",
+    "commonMistake": "Students often pair it with 'efficiency' incorrectly, using both in the same clause redundantly.",
+    "slug": "productivity",
+    "topic": "economy"
+  },
+  {
+    "word": "Equilibrium",
+    "pos": "noun",
+    "definition": "A state where economic forces are balanced and there is no inherent pressure to change.",
+    "example": "When supply meets demand, the market reaches a price <b>equilibrium</b>.",
+    "exampleAlt": "Policy interventions can disturb the natural <b>equilibrium</b> of the housing market.",
+    "difficulty": 3,
+    "collocations": [
+      "market equilibrium",
+      "economic equilibrium",
+      "price equilibrium",
+      "stable equilibrium"
+    ],
+    "synonyms": [
+      "balance",
+      "steady state"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a seesaw perfectly level – that's equilibrium.",
+    "writingTip": "Fiscal stimulus can temporarily shift the economy away from its long‑run <b>equilibrium</b>, necessitating careful calibration.",
+    "speakingTip": "pronounced ee-kwuh-LIB-ree-um; you could note, 'The pandemic disrupted the labour market equilibrium.'",
+    "commonMistake": "Often misused with 'equilibrate' as a verb; the correct noun form is 'equilibrium'.",
+    "slug": "equilibrium",
+    "topic": "economy"
   }
 ]

@@ -485,5 +485,80 @@
     "commonMistake": "Using \"remission\" to describe a cure; remission means symptoms are reduced, not eliminated forever.",
     "slug": "remission",
     "topic": "health"
+  },
+  {
+    "word": "Obesity",
+    "pos": "n.",
+    "definition": "A condition characterized by excessive body fat that poses health risks.",
+    "example": "The rising rates of <b>obesity</b> have prompted governments to launch nutrition campaigns.",
+    "exampleAlt": "<b>Obesity</b> is linked to a higher likelihood of heart disease and type 2 diabetes.",
+    "difficulty": 2,
+    "collocations": [
+      "obesity epidemic",
+      "childhood obesity",
+      "obesity rates",
+      "obesity-related"
+    ],
+    "synonyms": [
+      "overweight",
+      "excess weight"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of obesity as the body's 'overloaded backpack' that slows you down.",
+    "writingTip": "Policies that tax sugary drinks can be effective in curbing <b>obesity</b> among urban populations.",
+    "speakingTip": "pronounced o-BEE-si-tee; you can say, 'In many societies, <b>obesity</b> is becoming a public health crisis.'",
+    "commonMistake": "Confusing 'obesity' with 'overweight' – obesity refers to a medical condition, not just a descriptive adjective.",
+    "slug": "obesity",
+    "topic": "health"
+  },
+  {
+    "word": "Immunization",
+    "pos": "n.",
+    "definition": "The process of making a person or animal immune to a disease, typically through vaccination.",
+    "example": "Widespread <b>immunization</b> programmes have dramatically reduced measles cases worldwide.",
+    "exampleAlt": "Parents who delay <b>immunization</b> risk exposing their children to preventable illnesses.",
+    "difficulty": 2,
+    "collocations": [
+      "mass immunization",
+      "immunization schedule",
+      "immunization coverage",
+      "immunization program"
+    ],
+    "synonyms": [
+      "vaccination",
+      "inoculation"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Immunization is like giving the immune system a 'practice test' before the real exam.",
+    "writingTip": "Governments should invest more in <b>immunization</b> infrastructure to safeguard vulnerable communities.",
+    "speakingTip": "pronounced im-yoo-nuh-ZAY-shun; you might answer, 'I believe that mandatory <b>immunization</b> is essential for herd immunity.'",
+    "commonMistake": "Using 'immunization' with 'against' (e.g., 'immunization against flu') is correct, but some students incorrectly say 'immunize to the flu.'",
+    "slug": "immunization",
+    "topic": "health"
+  },
+  {
+    "word": "Cardiovascular",
+    "pos": "adj.",
+    "definition": "Relating to the heart and blood vessels.",
+    "example": "Regular aerobic exercise strengthens the <b>cardiovascular</b> system.",
+    "exampleAlt": "A diet high in saturated fats can impair <b>cardiovascular</b> health.",
+    "difficulty": 3,
+    "collocations": [
+      "cardiovascular disease",
+      "cardiovascular health",
+      "cardiovascular system",
+      "cardiovascular risk"
+    ],
+    "synonyms": [
+      "heart-related",
+      "circulatory"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of the cardiovascular system as the body's 'highway' delivering oxygen.",
+    "writingTip": "Addressing <b>cardiovascular</b> risk factors is crucial when discussing preventive health measures in an essay.",
+    "speakingTip": "pronounced kar-dee‑o-VAS-kyuh-ler; you can say, 'Improving <b>cardiovascular</b> fitness can lower mortality rates.'",
+    "commonMistake": "Mistaking it for 'cardiac' – 'cardiac' refers specifically to the heart, while 'cardiovascular' includes both heart and blood vessels.",
+    "slug": "cardiovascular",
+    "topic": "health"
   }
 ]
