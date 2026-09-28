@@ -460,5 +460,30 @@
     "commonMistake": "Mixing up biodegradable with compostable; not all biodegradable items are suitable for home composting.",
     "slug": "biodegradable",
     "topic": "environment"
+  },
+  {
+    "word": "Afforestation",
+    "pos": "n.",
+    "definition": "The process of establishing a forest on lands that previously did not contain trees.",
+    "example": "The government launched a massive <b>afforestation</b> programme to combat desertification.",
+    "exampleAlt": "Investors are increasingly funding <b>afforestation</b> projects to offset carbon emissions.",
+    "difficulty": 2,
+    "collocations": [
+      "large‑scale afforestation",
+      "afforestation initiative",
+      "afforestation policy",
+      "afforestation efforts"
+    ],
+    "synonyms": [
+      "reforestation",
+      "tree‑planting"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as ‘adding a roof of trees’ to a barren landscape.",
+    "writingTip": "Implementing extensive <b>afforestation</b> can restore degraded lands while sequestering CO₂.",
+    "speakingTip": "pronounced af‑or‑es‑ti‑AY‑shun; you can say, 'Many countries are turning to <b>afforestation</b> as a climate solution.'",
+    "commonMistake": "Confusing afforestation with reforestation; afforestation refers to planting trees where none existed before.",
+    "slug": "afforestation",
+    "topic": "environment"
   }
 ]

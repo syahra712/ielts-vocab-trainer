@@ -634,5 +634,105 @@
     "commonMistake": "Learners sometimes use ‘interdisciplinary’ interchangeably; however, ‘transdisciplinary’ implies a deeper integration that transcends merely combining disciplines.",
     "slug": "transdisciplinary",
     "topic": "education"
+  },
+  {
+    "word": "Erudite",
+    "pos": "adj.",
+    "definition": "Having or showing profound scholarly knowledge.",
+    "example": "The professor's <b>erudite</b> lecture captivated the entire class.",
+    "exampleAlt": "Students admired her <b>erudite</b> analysis of historical texts.",
+    "difficulty": 2,
+    "collocations": [
+      "erudite scholar",
+      "erudite commentary",
+      "erudite discourse",
+      "erudite perspective"
+    ],
+    "synonyms": [
+      "learned",
+      "knowledgeable"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of 'erudite' as a brainy badge you wear in academic debates.",
+    "writingTip": "Implementing erudite teaching methods can elevate students' critical thinking skills.",
+    "speakingTip": "pronounced eh-ROO-dite; you can say, 'I believe that erudite teachers inspire lifelong curiosity.'",
+    "commonMistake": "Confusing with 'erudition', which is the noun form, leading to awkward sentences.",
+    "slug": "erudite",
+    "topic": "education"
+  },
+  {
+    "word": "Pedantic",
+    "pos": "adj.",
+    "definition": "Excessively concerned with minor details or rules.",
+    "example": "His <b>pedantic</b> grading left many students feeling discouraged.",
+    "exampleAlt": "The manual was so <b>pedantic</b> that readers lost interest quickly.",
+    "difficulty": 2,
+    "collocations": [
+      "pedantic attitude",
+      "pedantic approach",
+      "pedantic criticism",
+      "pedantic detail"
+    ],
+    "synonyms": [
+      "nitpicky",
+      "overly precise"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a teacher who counts every grain of sand in a lesson—that's pedantic.",
+    "writingTip": "A pedantic focus on rote memorisation can stifle creative problem‑solving.",
+    "speakingTip": "pronounced PEE-dant-ik; natural insertion: 'Some argue that a pedantic curriculum hinders flexibility in learning.'",
+    "commonMistake": "Using it to describe a strict teacher, but it actually critiques the style, not the person.",
+    "slug": "pedantic",
+    "topic": "education"
+  },
+  {
+    "word": "Co‑curricular",
+    "pos": "adj.",
+    "definition": "Relating to activities that complement the formal curriculum.",
+    "example": "Participating in <b>co‑curricular</b> clubs enhances teamwork skills.",
+    "exampleAlt": "The university encourages <b>co‑curricular</b> volunteering alongside academic study.",
+    "difficulty": 1,
+    "collocations": [
+      "co‑curricular activities",
+      "co‑curricular program",
+      "co‑curricular involvement",
+      "co‑curricular experience"
+    ],
+    "synonyms": [
+      "extracurricular",
+      "supplementary"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of 'co‑curricular' as the side‑kicks that boost the main lesson.",
+    "writingTip": "Schools that integrate co‑curricular projects often see higher student engagement.",
+    "speakingTip": "pronounced koh‑kuh‑RIK-yuh‑l; you could answer, 'I think co‑curricular activities are vital for holistic development.'",
+    "commonMistake": "Mixing up with 'extracurricular', which may refer to activities not linked to academic goals.",
+    "slug": "co-curricular",
+    "topic": "education"
+  },
+  {
+    "word": "Credential",
+    "pos": "n.",
+    "definition": "A qualification or document that attests to someone's abilities.",
+    "example": "Her teaching <b>credential</b> includes a master's degree in education.",
+    "exampleAlt": "Employers increasingly verify candidates' digital <b>credential</b> before hiring.",
+    "difficulty": 1,
+    "collocations": [
+      "teaching credential",
+      "professional credential",
+      "digital credential",
+      "credential verification"
+    ],
+    "synonyms": [
+      "qualification",
+      "certification"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "A credential is like a passport that proves you belong in a professional world.",
+    "writingTip": "Raising the bar for teacher credentials can improve classroom outcomes.",
+    "speakingTip": "pronounced kre-den-SHUL; natural phrase: 'Many parents consider a teacher's credential when choosing a school.'",
+    "commonMistake": "Using 'credential' as a verb; the correct noun form should not be confused with 'credentialize'.",
+    "slug": "credential",
+    "topic": "education"
   }
 ]

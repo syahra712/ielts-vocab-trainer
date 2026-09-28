@@ -510,5 +510,31 @@
     "commonMistake": "Confusing 'catalyst' with 'catalytic' or using the wrong preposition; the correct pattern is 'catalyst for', not 'catalyst to'.",
     "slug": "catalyst",
     "topic": "technology"
+  },
+  {
+    "word": "Omnipresent",
+    "pos": "adj.",
+    "definition": "Existing or being everywhere at the same time.",
+    "example": "Smartphones have become <b>omnipresent</b> in modern society.",
+    "exampleAlt": "In many classrooms, tablets are <b>omnipresent</b>, influencing teaching methods.",
+    "difficulty": 2,
+    "collocations": [
+      "omnipresent technology",
+      "omnipresent in daily life",
+      "omnipresent across sectors",
+      "omnipresent device"
+    ],
+    "synonyms": [
+      "pervasive",
+      "widespread",
+      "ever-present"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of Wi‑Fi signals – you can’t see them, but they’re everywhere, just like the word suggests.",
+    "writingTip": "The rapid diffusion of smartphones illustrates how digital devices have become <b>omnipresent</b> in contemporary life.",
+    "speakingTip": "pronounced om‑i‑PRE‑zuh‑nt; you can say, 'I find that <b>omnipresent</b> technology shapes how we communicate.'",
+    "commonMistake": "Students often add a definite article ('the omnipresent') when referring to a specific device, but the word usually describes something generally present everywhere.",
+    "slug": "omnipresent",
+    "topic": "technology"
   }
 ]
