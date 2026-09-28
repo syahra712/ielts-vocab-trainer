@@ -588,5 +588,155 @@
     "commonMistake": "Confusing it with 'explanatory'—students often use the latter when the formal, academic tone of 'expository' is required.",
     "slug": "expository",
     "topic": "academic"
+  },
+  {
+    "word": "Extrapolate",
+    "pos": "verb",
+    "definition": "To infer or estimate something beyond the range of known data.",
+    "example": "Researchers often <b>extrapolate</b> current trends to predict future enrollment rates.",
+    "exampleAlt": "By <b>extrapolate</b> the survey results, policymakers can anticipate potential challenges.",
+    "difficulty": 2,
+    "collocations": [
+      "extrapolate data",
+      "extrapolate trends",
+      "extrapolate findings",
+      "extrapolate from"
+    ],
+    "synonyms": [
+      "project",
+      "infer"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as drawing a line on a graph and seeing where it would go next.",
+    "writingTip": "By <b>extrapolating</b> the decline in funding over the past decade, the essay argues that future research projects may face financial constraints.",
+    "speakingTip": "pronounced eks-truh-PAY-tate – you can say, \"If we <b>extrapolate</b> from current statistics, the impact will be significant.\"",
+    "commonMistake": "Using ‘extrapolate to’ instead of the correct ‘extrapolate from’ when referring to the source data.",
+    "slug": "extrapolate",
+    "topic": "academic"
+  },
+  {
+    "word": "Axiomatic",
+    "pos": "adjective",
+    "definition": "Self‑evidently true; requiring no proof.",
+    "example": "It is <b>axiomatic</b> that regular attendance improves academic performance.",
+    "exampleAlt": "The principle that education fosters critical thinking is <b>axiomatic</b> in most curricula.",
+    "difficulty": 3,
+    "collocations": [
+      "axiomatic principle",
+      "axiomatic truth",
+      "axiomatic assumption",
+      "axiomatic premise"
+    ],
+    "synonyms": [
+      "self‑evident",
+      "undeniable"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like a math axiom that everyone just accepts without debate.",
+    "writingTip": "The essay contends that the <b>axiomatic</b> link between research funding and innovation cannot be ignored.",
+    "speakingTip": "pronounced ak-see‑OH‑mat‑ik – you might say, \"It is <b>axiomatic</b> that language skills are essential for academic success.\"",
+    "commonMistake": "Applying ‘axiomatic’ to opinions that are not universally accepted, turning a claim into an unfounded absolute.",
+    "slug": "axiomatic",
+    "topic": "academic"
+  },
+  {
+    "word": "Substantiate",
+    "pos": "verb",
+    "definition": "To provide evidence that supports or proves a claim.",
+    "example": "The author must <b>substantiate</b> the argument with credible sources.",
+    "exampleAlt": "Without statistical data, the hypothesis remains un‑<b>substantiate</b>ed.",
+    "difficulty": 2,
+    "collocations": [
+      "substantiate evidence",
+      "substantiate claim",
+      "substantiate argument",
+      "substantiate findings"
+    ],
+    "synonyms": [
+      "validate",
+      "confirm"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like showing receipts to prove you bought something, you show data to prove a point.",
+    "writingTip": "To convince the examiner, <b>substantiate</b> your stance with recent research and concrete examples.",
+    "speakingTip": "pronounced sub‑STAN‑shuh‑tayt – a natural insertion: \"I can <b>substantiate</b> my view with the latest university rankings.\"",
+    "commonMistake": "Confusing ‘substantiate’ with ‘substantial’; the former is a verb meaning to prove, the latter is an adjective meaning large or important.",
+    "slug": "substantiate",
+    "topic": "academic"
+  },
+  {
+    "word": "Cogent",
+    "pos": "adjective",
+    "definition": "Clear, logical, and convincing.",
+    "example": "She presented a <b>cogent</b> argument for increasing scholarship funding.",
+    "exampleAlt": "The report’s <b>cogent</b> analysis persuaded the committee to adopt the new policy.",
+    "difficulty": 2,
+    "collocations": [
+      "cogent argument",
+      "cogent reasoning",
+      "cogent essay",
+      "cogent point"
+    ],
+    "synonyms": [
+      "persuasive",
+      "compelling"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a lawyer whose case makes you nod in agreement every time.",
+    "writingTip": "A <b>cogent</b> conclusion ties together your main ideas and leaves a lasting impression on the reader.",
+    "speakingTip": "pronounced KOH‑jent – you could say, \"The data provides a <b>cogent</b> reason why tuition fees should be re‑examined.\"",
+    "commonMistake": "Using ‘cogent’ to describe something merely interesting rather than logically convincing.",
+    "slug": "cogent",
+    "topic": "academic"
+  },
+  {
+    "word": "Nuanced",
+    "pos": "adjective",
+    "definition": "Characterised by subtle distinctions or variations.",
+    "example": "Her thesis offers a <b>nuanced</b> perspective on cross‑cultural education.",
+    "exampleAlt": "A <b>nuanced</b> analysis reveals the hidden factors influencing student dropout rates.",
+    "difficulty": 2,
+    "collocations": [
+      "nuanced perspective",
+      "nuanced analysis",
+      "nuanced view",
+      "nuanced understanding"
+    ],
+    "synonyms": [
+      "subtle",
+      "refined"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like the different shades in a painting, the meaning changes in tiny ways.",
+    "writingTip": "Incorporating a <b>nuanced</b> discussion of both advantages and drawbacks demonstrates depth of thought.",
+    "speakingTip": "pronounced noo‑AHNST – you might remark, \"The study provides a <b>nuanced</b> look at how online learning affects engagement.\"",
+    "commonMistake": "Over‑using ‘nuanced’ for vague statements; it should describe analysis that captures fine details.",
+    "slug": "nuanced",
+    "topic": "academic"
+  },
+  {
+    "word": "Salient",
+    "pos": "adjective",
+    "definition": "Most noticeable or important; prominent.",
+    "example": "The report highlights the <b>salient</b> issues facing higher education today.",
+    "exampleAlt": "Among the many findings, the <b>salient</b> point is the rise in interdisciplinary programmes.",
+    "difficulty": 2,
+    "collocations": [
+      "salient feature",
+      "salient point",
+      "salient issue",
+      "salient finding"
+    ],
+    "synonyms": [
+      "prominent",
+      "notable"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of the ‘salient’ parts as the bright spots on a radar screen that catch your eye.",
+    "writingTip": "A strong introduction should identify the <b>salient</b> question that the essay will answer.",
+    "speakingTip": "pronounced SAY‑lee‑uhnt – you can say, \"One <b>salient</b> benefit of research funding is the acceleration of innovation.\"",
+    "commonMistake": "Confusing ‘salient’ with ‘sale‑able’; they are unrelated in meaning.",
+    "slug": "salient",
+    "topic": "academic"
   }
 ]

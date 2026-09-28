@@ -585,5 +585,30 @@
     "commonMistake": "Often misused with 'equilibrate' as a verb; the correct noun form is 'equilibrium'.",
     "slug": "equilibrium",
     "topic": "economy"
+  },
+  {
+    "word": "Speculation",
+    "pos": "noun",
+    "definition": "The act of forming opinions about future events without firm evidence, especially in financial markets.",
+    "example": "Investors engaged in <b>speculation</b> over the tech sector's next breakthrough.",
+    "exampleAlt": "The rapid rise in cryptocurrency prices was largely driven by <b>speculation</b>.",
+    "difficulty": 2,
+    "collocations": [
+      "speculative bubble",
+      "speculation risk",
+      "market speculation",
+      "wild speculation"
+    ],
+    "synonyms": [
+      "guesswork",
+      "conjecture"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of speculation like guessing the next song on a playlist without hearing it.",
+    "writingTip": "Governments should curb unchecked <b>speculation</b> in property markets to prevent housing crises.",
+    "speakingTip": "pronounced spek-yuh-LAY-shun; you can say, 'Speculation often fuels economic volatility.'",
+    "commonMistake": "Confusing the noun with the adjective 'speculative' and using the wrong form in sentences.",
+    "slug": "speculation",
+    "topic": "economy"
   }
 ]

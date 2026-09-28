@@ -560,5 +560,105 @@
     "commonMistake": "Mistaking it for 'cardiac' – 'cardiac' refers specifically to the heart, while 'cardiovascular' includes both heart and blood vessels.",
     "slug": "cardiovascular",
     "topic": "health"
+  },
+  {
+    "word": "malnutrition",
+    "pos": "n.",
+    "definition": "A condition resulting from insufficient intake of nutrients.",
+    "example": "The refugee camp suffered from <b>malnutrition</b>, leading to widespread fatigue.",
+    "exampleAlt": "Children in the region are at risk of <b>malnutrition</b> due to food scarcity.",
+    "difficulty": 2,
+    "collocations": [
+      "severe malnutrition",
+      "childhood malnutrition",
+      "combat malnutrition",
+      "malnutrition rates"
+    ],
+    "synonyms": [
+      "undernourishment",
+      "nutrient deficiency"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of malnutrition as your body’s pantry being half‑empty.",
+    "writingTip": "Governments must allocate resources to combat <b>malnutrition</b> in vulnerable populations.",
+    "speakingTip": "pronounced mal-nu-TRI-shun; you can say, 'I believe tackling <b>malnutrition</b> is essential for sustainable development.'",
+    "commonMistake": "Confusing malnutrition with obesity; they are opposite nutritional problems.",
+    "slug": "malnutrition",
+    "topic": "health"
+  },
+  {
+    "word": "epidemiology",
+    "pos": "n.",
+    "definition": "The study of how diseases spread within populations.",
+    "example": "Statistical models help trace the <b>epidemiology</b> of influenza across regions.",
+    "exampleAlt": "Understanding <b>epidemiology</b> enables policymakers to allocate medical resources efficiently.",
+    "difficulty": 3,
+    "collocations": [
+      "epidemiology of infectious diseases",
+      "field of epidemiology",
+      "epidemiology research",
+      "epidemiology data"
+    ],
+    "synonyms": [
+      "disease surveillance",
+      "public health study"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine epidemiology as a detective tracing the footprints of illness.",
+    "writingTip": "A robust analysis of the <b>epidemiology</b> of non‑communicable diseases reveals shifting health priorities.",
+    "speakingTip": "pronounced ep-i-dee-MO-logy; you could answer, 'The <b>epidemiology</b> of mental health issues has changed dramatically over the past decade.'",
+    "commonMistake": "Using 'epidemiology' as a verb; it is a noun, not an action word.",
+    "slug": "epidemiology",
+    "topic": "health"
+  },
+  {
+    "word": "nosocomial",
+    "pos": "adj.",
+    "definition": "Originating in a hospital, especially infections acquired there.",
+    "example": "Patients are vulnerable to <b>nosocomial</b> infections after surgery.",
+    "exampleAlt": "Strict hygiene protocols can reduce <b>nosocomial</b> infection rates.",
+    "difficulty": 3,
+    "collocations": [
+      "nosocomial infection",
+      "nosocomial outbreak",
+      "nosocomial pathogens",
+      "nosocomial transmission"
+    ],
+    "synonyms": [
+      "hospital‑acquired",
+      "healthcare‑associated"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Nosocomial is just a fancy way of saying 'hospital‑born' trouble.",
+    "writingTip": "The rise of <b>nosocomial</b> infections underscores the need for better sterilisation procedures.",
+    "speakingTip": "pronounced no-so-KO-mee-al; you might say, 'I think <b>nosocomial</b> infections are a major concern in modern hospitals.'",
+    "commonMistake": "Mixing up 'nosocomial' with 'community‑acquired'; they refer to different settings.",
+    "slug": "nosocomial",
+    "topic": "health"
+  },
+  {
+    "word": "iatrogenic",
+    "pos": "adj.",
+    "definition": "Caused inadvertently by medical treatment or procedures.",
+    "example": "The drug's side effects were deemed <b>iatrogenic</b>.",
+    "exampleAlt": "Some patients develop <b>iatrogenic</b> complications after unnecessary surgery.",
+    "difficulty": 3,
+    "collocations": [
+      "iatrogenic injury",
+      "iatrogenic effect",
+      "iatrogenic complication",
+      "iatrogenic risk"
+    ],
+    "synonyms": [
+      "treatment‑induced",
+      "medically induced"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think iatrogenic as the doctor’s unintentional ‘oops’.",
+    "writingTip": "Critics argue that over‑prescription can lead to <b>iatrogenic</b> harm.",
+    "speakingTip": "pronounced eye-a-tro-JEN-ic; you could respond, 'Many health issues are actually <b>iatrogenic</b>, stemming from unnecessary interventions.'",
+    "commonMistake": "Using it as a noun; it’s an adjective, so it needs a noun like 'effects' or 'injury'.",
+    "slug": "iatrogenic",
+    "topic": "health"
   }
 ]

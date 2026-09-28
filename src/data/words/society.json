@@ -568,5 +568,83 @@
     "commonMistake": "Students often misuse it with the preposition \"between\" (e.g., \"between intergenerational\"), whereas it should directly modify the noun without a preposition.",
     "slug": "intergenerational",
     "topic": "society"
+  },
+  {
+    "word": "Interdependence",
+    "pos": "n.",
+    "definition": "The mutual reliance between individuals or groups within a society.",
+    "example": "The <b>interdependence</b> of modern economies means that a crisis in one country can quickly ripple worldwide.",
+    "exampleAlt": "Urban planning must acknowledge the <b>interdependence</b> of transport, housing, and employment.",
+    "difficulty": 2,
+    "collocations": [
+      "economic interdependence",
+      "social interdependence",
+      "mutual interdependence",
+      "global interdependence"
+    ],
+    "synonyms": [
+      "mutual reliance",
+      "reciprocity",
+      "connectedness"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of society as a spider web – if one strand shakes, the whole web feels it, that’s interdependence.",
+    "writingTip": "Governments should recognise the <b>interdependence</b> of health, education and employment policies to foster inclusive growth.",
+    "speakingTip": "pronounced in-ter-de-PEN-dence; you can say, 'I believe the <b>interdependence</b> of different social groups strengthens community resilience.'",
+    "commonMistake": "Often confused with 'dependence', which implies a one‑way reliance; use 'interdependence' for mutual relationships.",
+    "slug": "interdependence",
+    "topic": "society"
+  },
+  {
+    "word": "Hierarchical",
+    "pos": "adj.",
+    "definition": "Arranged in levels of rank or authority.",
+    "example": "Many traditional corporations maintain a <b>hierarchical</b> structure that limits employee autonomy.",
+    "exampleAlt": "The school's <b>hierarchical</b> system places teachers above students, affecting classroom dynamics.",
+    "difficulty": 2,
+    "collocations": [
+      "hierarchical system",
+      "hierarchical structure",
+      "hierarchical organization",
+      "hierarchical society"
+    ],
+    "synonyms": [
+      "layered",
+      "ranked",
+      "stratified"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a pyramid of blocks – each layer sits on the one below; that's a hierarchical layout.",
+    "writingTip": "A rigid <b>hierarchical</b> framework can stifle innovation and impede social mobility.",
+    "speakingTip": "pronounced hi-ER-ar-chic-al; you could say, 'In a <b>hierarchical</b> community, decision‑making often rests with a few elders.'",
+    "commonMistake": "Avoid using 'hierarchic' as a noun; the correct adjective is 'hierarchical' and it pairs with nouns like 'structure', not 'hierarchy' (e.g., 'hierarchical structure' not 'hierarchical hierarchy').",
+    "slug": "hierarchical",
+    "topic": "society"
+  },
+  {
+    "word": "Disenfranchised",
+    "pos": "adj.",
+    "definition": "Deprived of the right to vote or lacking power and representation.",
+    "example": "The policy aims to empower <b>disenfranchised</b> groups by ensuring equal access to education.",
+    "exampleAlt": "Many urban youths feel <b>disenfranchised</b> when their voices are ignored in local council decisions.",
+    "difficulty": 3,
+    "collocations": [
+      "disenfranchised voters",
+      "disenfranchised communities",
+      "disenfranchised youth",
+      "disenfranchised minorities"
+    ],
+    "synonyms": [
+      "marginalised",
+      "excluded",
+      "disempowered"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a club where some members aren't even given a key to the door—that's being disenfranchised.",
+    "writingTip": "Addressing the needs of <b>disenfranchised</b> populations is essential for achieving social justice.",
+    "speakingTip": "pronounced dis-en-FRAN-chised; you might say, 'We must consider how policies affect <b>disenfranchised</b> citizens who lack a political voice.'",
+    "commonMistake": "Students often mix it up with 'disenfranchised' meaning simply 'unhappy'; remember it specifically refers to loss of rights or representation.",
+    "slug": "disenfranchised",
+    "topic": "society"
   }
 ]
