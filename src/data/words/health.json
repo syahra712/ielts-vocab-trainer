@@ -660,5 +660,55 @@
     "commonMistake": "Using it as a noun; it’s an adjective, so it needs a noun like 'effects' or 'injury'.",
     "slug": "iatrogenic",
     "topic": "health"
+  },
+  {
+    "word": "Salubrious",
+    "pos": "adj.",
+    "definition": "Promoting health or well‑being.",
+    "example": "A <b>salubrious</b> lifestyle, including regular exercise and a balanced diet, can significantly lower the risk of chronic diseases.",
+    "exampleAlt": "The <b>salubrious</b> climate of the coastal town attracted retirees seeking better health.",
+    "difficulty": 2,
+    "collocations": [
+      "salubrious environment",
+      "salubrious habits",
+      "salubrious effects",
+      "salubrious diet"
+    ],
+    "synonyms": [
+      "healthful",
+      "wholesome"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as ‘salubrious’ sounding like ‘salutes’ your health.",
+    "writingTip": "Incorporating a <b>salubrious</b> diet into your argument strengthens the discussion on preventive health measures.",
+    "speakingTip": "pronounced suh-LOO-bee-əs; you can say, 'Many experts argue that a <b>salubrious</b> environment is essential for public health.'",
+    "commonMistake": "Often confused with 'salutary', which refers to something beneficial but not necessarily health‑related.",
+    "slug": "salubrious",
+    "topic": "health"
+  },
+  {
+    "word": "Morbidity",
+    "pos": "n.",
+    "definition": "The condition of being diseased or the rate of disease in a population.",
+    "example": "The country's rising <b>morbidity</b> rates underscore the need for more robust healthcare policies.",
+    "exampleAlt": "Researchers measured the <b>morbidity</b> associated with air pollution in urban areas.",
+    "difficulty": 2,
+    "collocations": [
+      "morbidity rate",
+      "morbidity statistics",
+      "high morbidity",
+      "morbidity burden"
+    ],
+    "synonyms": [
+      "illness",
+      "disease prevalence"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine 'morbid' as grim; add '-ity' and you get the grim state of many people – morbidity.",
+    "writingTip": "A strong sentence: 'The escalating <b>morbidity</b> linked to sedentary lifestyles demands urgent governmental action.'",
+    "speakingTip": "pronounced MOR-bid-i-tee; you could respond, 'I believe that increasing <b>morbidity</b> is a direct consequence of poor urban planning.'",
+    "commonMistake": "Students often use 'mortality' instead of 'morbidity', confusing death rates with disease rates.",
+    "slug": "morbidity",
+    "topic": "health"
   }
 ]

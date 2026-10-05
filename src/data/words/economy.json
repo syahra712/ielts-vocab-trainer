@@ -610,5 +610,155 @@
     "commonMistake": "Confusing the noun with the adjective 'speculative' and using the wrong form in sentences.",
     "slug": "speculation",
     "topic": "economy"
+  },
+  {
+    "word": "Procyclical",
+    "pos": "adj.",
+    "definition": "Moving in the same direction as the overall economy.",
+    "example": "When interest rates are <b>procyclical</b>, they tend to amplify economic booms and busts.",
+    "exampleAlt": "A <b>procyclical</b> fiscal policy can exacerbate inflation during a growth period.",
+    "difficulty": 2,
+    "collocations": [
+      "procyclical policy",
+      "procyclical trend",
+      "procyclical effect",
+      "procyclical behaviour"
+    ],
+    "synonyms": [
+      "expansionary",
+      "synchronised"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a surfer riding the same wave as the economy – that’s a procyclical move.",
+    "writingTip": "Governments should avoid <b>procyclical</b> stimulus measures that could overheat an already thriving market.",
+    "speakingTip": "pronounced pro-SY‑kuh‑li‑kel; you can say, \"Many economists argue that <b>procyclical</b> tax cuts may worsen a boom.\"",
+    "commonMistake": "Confusing with ‘countercyclical’; remember procyclical follows, not opposes, the cycle.",
+    "slug": "procyclical",
+    "topic": "economy"
+  },
+  {
+    "word": "Countercyclical",
+    "pos": "adj.",
+    "definition": "Moving opposite to the overall direction of the economy.",
+    "example": "A <b>countercyclical</b> tax increase can help cool down an overheating market.",
+    "exampleAlt": "Central banks often adopt <b>countercyclical</b> measures to stabilise growth.",
+    "difficulty": 2,
+    "collocations": [
+      "countercyclical policy",
+      "countercyclical fiscal measure",
+      "countercyclical approach",
+      "countercyclical stimulus"
+    ],
+    "synonyms": [
+      "stabilising",
+      "anti‑cyclical"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a thermostat that cools when it gets too hot – that’s a countercyclical action.",
+    "writingTip": "Implementing <b>countercyclical</b> spending during a downturn can cushion the impact on vulnerable households.",
+    "speakingTip": "pronounced KOWN‑ter‑SY‑kuh‑li‑kel; you could say, \"A <b>countercyclical</b> budget is essential during a recession.\"",
+    "commonMistake": "Using it with ‘during a boom’; it’s meant for opposite phases, so pair with downturn contexts.",
+    "slug": "countercyclical",
+    "topic": "economy"
+  },
+  {
+    "word": "Stagflation",
+    "pos": "n.",
+    "definition": "A period of stagnant economic growth combined with high inflation.",
+    "example": "The 1970s oil crisis led many countries into <b>stagflation</b>.",
+    "exampleAlt": "Policymakers struggled to combat <b>stagflation</b> without worsening unemployment.",
+    "difficulty": 3,
+    "collocations": [
+      "period of stagflation",
+      "combat stagflation",
+      "address stagflation",
+      "era of stagflation"
+    ],
+    "synonyms": [
+      "inflationary stagnation",
+      "price‑wage spiral"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a car stuck in traffic while the engine overheats – that’s stagflation.",
+    "writingTip": "The essay should explore how <b>stagflation</b> challenges traditional monetary tools.",
+    "speakingTip": "pronounced STAG‑flay‑shun; try, \"Many developing nations risk <b>stagflation</b> when commodity prices surge.\"",
+    "commonMistake": "Treating it as just inflation; remember it also involves stagnant growth and rising unemployment.",
+    "slug": "stagflation",
+    "topic": "economy"
+  },
+  {
+    "word": "Deflationary",
+    "pos": "adj.",
+    "definition": "Tending to cause a general decline in prices and economic activity.",
+    "example": "Tight monetary policy can have a <b>deflationary</b> effect on consumer spending.",
+    "exampleAlt": "A prolonged <b>deflationary</b> environment may discourage investment.",
+    "difficulty": 2,
+    "collocations": [
+      "deflationary pressure",
+      "deflationary spiral",
+      "deflationary trend",
+      "deflationary impact"
+    ],
+    "synonyms": [
+      "price‑dropping",
+      "contractionary"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a balloon losing air – everything shrinks; that’s a deflationary mood.",
+    "writingTip": "If a country faces a <b>deflationary</b> spiral, the government might need to inject liquidity to revive demand.",
+    "speakingTip": "pronounced dee‑FLAY‑shuh‑ner‑ee; you could say, \"A <b>deflationary</b> cycle can trap an economy in low growth.\"",
+    "commonMistake": "Mixing up with ‘deflation’; the adjective form should modify nouns, not be used as a noun itself.",
+    "slug": "deflationary",
+    "topic": "economy"
+  },
+  {
+    "word": "Overleveraged",
+    "pos": "adj.",
+    "definition": "Carrying more debt than can be comfortably serviced.",
+    "example": "Many small businesses became <b>overleveraged</b> after the credit crunch.",
+    "exampleAlt": "An <b>overleveraged</b> household risks defaulting on its mortgage payments.",
+    "difficulty": 3,
+    "collocations": [
+      "overleveraged firm",
+      "overleveraged position",
+      "overleveraged sector",
+      "overleveraged balance sheet"
+    ],
+    "synonyms": [
+      "over‑indebted",
+      "excessively leveraged"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a weightlifter loading too many plates – eventually they can’t lift it; that’s overleveraged.",
+    "writingTip": "The government must monitor corporate debt to prevent firms from becoming <b>overleveraged</b>.",
+    "speakingTip": "pronounced OH‑ver‑LEH‑vuh‑rijd; you might say, \"During the crisis, numerous companies became <b>overleveraged</b>.\"",
+    "commonMistake": "Using ‘overleveraged’ with ‘by’ instead of ‘with’; correct collocation is ‘overleveraged with debt’.",
+    "slug": "overleveraged",
+    "topic": "economy"
+  },
+  {
+    "word": "Heterodox",
+    "pos": "adj.",
+    "definition": "Departing from accepted or traditional beliefs, especially in economics.",
+    "example": "Some economists propose <b>heterodox</b> models to explain income inequality.",
+    "exampleAlt": "A <b>heterodox</b> approach challenges the mainstream Keynesian narrative.",
+    "difficulty": 2,
+    "collocations": [
+      "heterodox theory",
+      "heterodox perspective",
+      "heterodox economics",
+      "heterodox view"
+    ],
+    "synonyms": [
+      "unconventional",
+      "non‑mainstream"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a jazz improvisation that doesn’t follow the usual sheet music – that’s heterodox.",
+    "writingTip": "In your essay, you could argue that <b>heterodox</b> economic policies may offer fresh solutions to persistent poverty.",
+    "speakingTip": "pronounced HE‑tuh‑ROD‑iks; a natural phrase is, \"I find <b>heterodox</b> ideas intriguing when traditional policies fail.\"",
+    "commonMistake": "Confusing with ‘heterogeneous’; heterodox refers to ideas, not variety in composition.",
+    "slug": "heterodox",
+    "topic": "economy"
   }
 ]
