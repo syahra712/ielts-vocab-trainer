@@ -536,5 +536,83 @@
     "commonMistake": "Students often add a definite article ('the omnipresent') when referring to a specific device, but the word usually describes something generally present everywhere.",
     "slug": "omnipresent",
     "topic": "technology"
+  },
+  {
+    "word": "Revolutionary",
+    "pos": "adj.",
+    "definition": "Introducing ideas or methods that radically change the way something works.",
+    "example": "The <b>revolutionary</b> smartphone design eliminated the need for physical buttons.",
+    "exampleAlt": "Many experts consider artificial intelligence to be a <b>revolutionary</b> force in modern industry.",
+    "difficulty": 2,
+    "collocations": [
+      "Revolutionary technology",
+      "Revolutionary breakthrough",
+      "Revolutionary impact",
+      "Revolutionary change"
+    ],
+    "synonyms": [
+      "radical",
+      "transformative",
+      "groundbreaking"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it like a sudden earthquake that reshapes the landscape of tech.",
+    "writingTip": "Implementing <b>revolutionary</b> digital platforms can bridge the gap between rural and urban education.",
+    "speakingTip": "pronounced rev-uh-LOO-shuh-ner-ee – You could say, \"I believe that <b>revolutionary</b> technologies like AI will reshape our daily lives.\"",
+    "commonMistake": "Often confused with the noun ‘revolution’; learners sometimes use ‘revolutionary’ as a noun instead of an adjective.",
+    "slug": "revolutionary",
+    "topic": "technology"
+  },
+  {
+    "word": "Cutting‑edge",
+    "pos": "adj.",
+    "definition": "Being at the most advanced stage of development.",
+    "example": "The lab uses <b>cutting‑edge</b> nanomaterials to improve battery life.",
+    "exampleAlt": "She works on <b>cutting‑edge</b> research in quantum computing.",
+    "difficulty": 3,
+    "collocations": [
+      "cutting‑edge technology",
+      "cutting‑edge research",
+      "cutting‑edge devices",
+      "cutting‑edge solutions"
+    ],
+    "synonyms": [
+      "state‑of‑the‑art",
+      "leading‑edge",
+      "advanced"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine the tip of a sword; that’s where cutting‑edge tech sits.",
+    "writingTip": "Investing in <b>cutting‑edge</b> infrastructure is essential for a nation’s economic growth.",
+    "speakingTip": "pronounced KUT-ing edge – You might say, \"Many companies strive to stay <b>cutting‑edge</b> to attract younger consumers.\"",
+    "commonMistake": "Incorrect hyphenation; when used as an adjective it should be written as ‘cutting‑edge’, not ‘cutting edge’.",
+    "slug": "cutting-edge",
+    "topic": "technology"
+  },
+  {
+    "word": "Groundbreaking",
+    "pos": "adj.",
+    "definition": "Introducing new ideas or methods that have a profound effect.",
+    "example": "The <b>groundbreaking</b> study revealed a novel way to store data.",
+    "exampleAlt": "Her <b>groundbreaking</b> app won several awards for its innovative design.",
+    "difficulty": 2,
+    "collocations": [
+      "groundbreaking discovery",
+      "groundbreaking research",
+      "groundbreaking innovation",
+      "groundbreaking project"
+    ],
+    "synonyms": [
+      "pioneering",
+      "revolutionary",
+      "novel"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of breaking new ground on a construction site—nothing was there before.",
+    "writingTip": "The government should fund <b>groundbreaking</b> research to maintain its competitive edge in the tech sector.",
+    "speakingTip": "pronounced GROUND-brey-king – You could answer, \"I was impressed by the <b>groundbreaking</b> features of the latest smartwatch.\"",
+    "commonMistake": "Writing it as two words ‘ground breaking’; the correct adjective form is the single word ‘groundbreaking’.",
+    "slug": "groundbreaking",
+    "topic": "technology"
   }
 ]

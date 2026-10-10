@@ -734,5 +734,80 @@
     "commonMistake": "Using 'credential' as a verb; the correct noun form should not be confused with 'credentialize'.",
     "slug": "credential",
     "topic": "education"
+  },
+  {
+    "word": "Inculcate",
+    "pos": "verb",
+    "definition": "To teach or impress an idea or habit by repeated instruction.",
+    "example": "The school aims to <b>inculcate</b> critical thinking skills from an early age.",
+    "exampleAlt": "Parents often try to <b>inculcate</b> a love of reading in their children.",
+    "difficulty": 2,
+    "collocations": [
+      "inculcate values",
+      "inculcate discipline",
+      "inculcate habits",
+      "inculcate knowledge"
+    ],
+    "synonyms": [
+      "instill",
+      "impart"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as planting seeds in a garden – you keep watering until the plant grows.",
+    "writingTip": "A well‑structured essay might argue that universities should <b>inculcate</b> both technical expertise and ethical responsibility.",
+    "speakingTip": "pronounced in-KUL-kayt; you can say, 'I believe schools should <b>inculcate</b> lifelong curiosity.'",
+    "commonMistake": "Often confused with 'incur' or paired with the wrong preposition such as 'inculcate to' instead of 'inculcate in'.",
+    "slug": "inculcate",
+    "topic": "education"
+  },
+  {
+    "word": "Erudition",
+    "pos": "noun",
+    "definition": "Deep, extensive learning or scholarship.",
+    "example": "His <b>erudition</b> was evident in the nuanced arguments he presented during the debate.",
+    "exampleAlt": "The professor's <b>erudition</b> impressed even the most seasoned researchers.",
+    "difficulty": 3,
+    "collocations": [
+      "vast erudition",
+      "scholarly erudition",
+      "intellectual erudition",
+      "erudition in literature"
+    ],
+    "synonyms": [
+      "knowledgeability",
+      "scholarship"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a library that’s grown inside a person’s mind.",
+    "writingTip": "When discussing the benefits of higher education, note that it cultivates <b>erudition</b> that transcends vocational skills.",
+    "speakingTip": "pronounced eh-ROO-dish-un; you could say, 'Higher education fosters profound <b>erudition</b> among graduates.'",
+    "commonMistake": "Students often substitute the word 'education' for 'erudition', overlooking that erudition refers to depth, not just schooling.",
+    "slug": "erudition",
+    "topic": "education"
+  },
+  {
+    "word": "Disseminate",
+    "pos": "verb",
+    "definition": "To spread or distribute information widely.",
+    "example": "Online platforms enable universities to <b>disseminate</b> research findings to a global audience.",
+    "exampleAlt": "Teachers should <b>disseminate</b> feedback promptly to help students improve.",
+    "difficulty": 2,
+    "collocations": [
+      "disseminate knowledge",
+      "disseminate information",
+      "disseminate findings",
+      "disseminate ideas"
+    ],
+    "synonyms": [
+      "circulate",
+      "propagate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like sprinkling seeds across a field so they can grow everywhere.",
+    "writingTip": "A persuasive essay may claim that schools must <b>disseminate</b> critical thinking skills to combat misinformation.",
+    "speakingTip": "pronounced dis-uh-MI-nayt; you can say, 'Universities should <b>disseminate</b> cutting‑edge research to benefit society.'",
+    "commonMistake": "Confusing the verb 'disseminate' with the noun 'dissemination' and using the wrong form in a sentence.",
+    "slug": "disseminate",
+    "topic": "education"
   }
 ]

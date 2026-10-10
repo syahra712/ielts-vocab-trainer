@@ -738,5 +738,105 @@
     "commonMistake": "Confusing ‘salient’ with ‘sale‑able’; they are unrelated in meaning.",
     "slug": "salient",
     "topic": "academic"
+  },
+  {
+    "word": "Discursive",
+    "pos": "adj.",
+    "definition": "Proceeding from one subject to another without clear focus, often in a rambling way.",
+    "example": "The student's essay became <b>discursive</b> after he started describing unrelated historical events.",
+    "exampleAlt": "Her <b>discursive</b> answer made it difficult for the examiner to follow her main argument.",
+    "difficulty": 2,
+    "collocations": [
+      "discursive writing",
+      "discursive style",
+      "discursive approach",
+      "discursive essay"
+    ],
+    "synonyms": [
+      "rambling",
+      "digressive"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a river that keeps branching off—discursive is when your ideas keep branching without staying on the main stream.",
+    "writingTip": "Avoid a <b>discursive</b> structure; instead, organise your essay into clear paragraphs with a single main idea each.",
+    "speakingTip": "pronounced dis-KUR-siv; you can say, 'In academic discussions, a <b>discursive</b> approach can sometimes obscure the core point.'",
+    "commonMistake": "Students often use 'discursive' to mean 'detailed' instead of its meaning of rambling.",
+    "slug": "discursive",
+    "topic": "academic"
+  },
+  {
+    "word": "Analytical",
+    "pos": "adj.",
+    "definition": "Relating to or using analysis, especially logical examination of components.",
+    "example": "The researcher presented an <b>analytical</b> breakdown of the data trends.",
+    "exampleAlt": "Her <b>analytical</b> mind allowed her to spot inconsistencies in the argument.",
+    "difficulty": 2,
+    "collocations": [
+      "analytical skills",
+      "analytical essay",
+      "analytical thinking",
+      "analytical approach"
+    ],
+    "synonyms": [
+      "critical",
+      "explanatory"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a microscope; an analytical person looks at ideas piece by piece, just like the lens.",
+    "writingTip": "A strong <b>analytical</b> paragraph will compare and contrast two viewpoints with clear evidence.",
+    "speakingTip": "pronounced a-NAL-ih-ti-kuhl; you could say, 'An <b>analytical</b> perspective is essential when evaluating research findings.'",
+    "commonMistake": "Confusing 'analytical' with 'analogue' or using it to describe a personality rather than a method.",
+    "slug": "analytical",
+    "topic": "academic"
+  },
+  {
+    "word": "Theoretical",
+    "pos": "adj.",
+    "definition": "Concerned with ideas and principles that form a basis for understanding, rather than practical application.",
+    "example": "His thesis was heavily <b>theoretical</b>, lacking empirical support.",
+    "exampleAlt": "The course covered both practical exercises and <b>theoretical</b> concepts.",
+    "difficulty": 2,
+    "collocations": [
+      "theoretical framework",
+      "theoretical basis",
+      "theoretical model",
+      "theoretical perspective"
+    ],
+    "synonyms": [
+      "conceptual",
+      "abstract"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a blueprint; it's the theoretical plan before the building is erected.",
+    "writingTip": "Introduce a clear <b>theoretical</b> framework to underpin your argument in the essay.",
+    "speakingTip": "pronounced the-uh-RET-ih-kuhl; you might say, 'From a <b>theoretical</b> standpoint, the policy seems sound, but real-world data may differ.'",
+    "commonMistake": "Using 'theoretical' to mean 'academic' in a generic sense, ignoring its nuance of being non‑practical.",
+    "slug": "theoretical",
+    "topic": "academic"
+  },
+  {
+    "word": "Exemplary",
+    "pos": "adj.",
+    "definition": "Serving as a desirable model or example; representing the best of its kind.",
+    "example": "The student submitted an <b>exemplary</b> research paper that impressed the panel.",
+    "exampleAlt": "Her conduct during the group project was <b>exemplary</b>, setting a high standard for peers.",
+    "difficulty": 3,
+    "collocations": [
+      "exemplary performance",
+      "exemplary conduct",
+      "exemplary work",
+      "exemplary standard"
+    ],
+    "synonyms": [
+      "model",
+      "paragon"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a gold medalist; their effort is exemplary—others look up to it.",
+    "writingTip": "Highlight an <b>exemplary</b> case study to strengthen your argument about best practices.",
+    "speakingTip": "pronounced ig-ZEM-pluh-ree; you could say, 'An <b>exemplary</b> university often attracts international scholars.'",
+    "commonMistake": "Mixing up 'exemplary' with 'exemplified'; the former describes quality, the latter describes the act of giving an example.",
+    "slug": "exemplary",
+    "topic": "academic"
   }
 ]

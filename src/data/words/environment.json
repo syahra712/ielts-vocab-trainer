@@ -485,5 +485,80 @@
     "commonMistake": "Confusing afforestation with reforestation; afforestation refers to planting trees where none existed before.",
     "slug": "afforestation",
     "topic": "environment"
+  },
+  {
+    "word": "Resilient",
+    "pos": "adj.",
+    "definition": "Able to recover quickly from difficulties or disturbances.",
+    "example": "The <b>resilient</b> mangrove forests have withstood repeated cyclones over the decades.",
+    "exampleAlt": "Even after severe drought, the <b>resilient</b> grasslands regenerated within a season.",
+    "difficulty": 2,
+    "collocations": [
+      "resilient ecosystem",
+      "resilient communities",
+      "resilient infrastructure",
+      "resilient species"
+    ],
+    "synonyms": [
+      "robust",
+      "hardy"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a rubber band snapping back – that's how a resilient environment behaves.",
+    "writingTip": "Governments should invest in <b>resilient</b> infrastructure to mitigate the impacts of climate change.",
+    "speakingTip": "pronounced ri-ZIL-yuhnt; you can say, 'I believe that building <b>resilient</b> cities is essential for future generations.'",
+    "commonMistake": "Often confused with 'reliable'; 'resilient' describes recovery, not consistency.",
+    "slug": "resilient",
+    "topic": "environment"
+  },
+  {
+    "word": "Degradation",
+    "pos": "n.",
+    "definition": "The process of decline or deterioration in quality.",
+    "example": "Industrial waste has accelerated the <b>degradation</b> of coastal wetlands.",
+    "exampleAlt": "Soil <b>degradation</b> reduces agricultural productivity and threatens food security.",
+    "difficulty": 2,
+    "collocations": [
+      "soil degradation",
+      "environmental degradation",
+      "degradation of habitats",
+      "rapid degradation"
+    ],
+    "synonyms": [
+      "deterioration",
+      "decay"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a once‑pristine painting slowly fading – that's degradation.",
+    "writingTip": "The rapid <b>degradation</b> of coral reefs underscores the urgent need for protective legislation.",
+    "speakingTip": "pronounced deh-gra-DAY-shun; you might say, 'The <b>degradation</b> of our rivers is a direct result of unchecked industrialisation.'",
+    "commonMistake": "Avoid using 'degrade' as a noun; the correct noun form is 'degradation'.",
+    "slug": "degradation",
+    "topic": "environment"
+  },
+  {
+    "word": "Recalcitrant",
+    "pos": "adj.",
+    "definition": "Stubbornly resistant to authority or control.",
+    "example": "The <b>recalcitrant</b> polluters ignored the new emission standards.",
+    "exampleAlt": "Many governments find it difficult to manage <b>recalcitrant</b> waste that does not decompose easily.",
+    "difficulty": 3,
+    "collocations": [
+      "recalcitrant polluters",
+      "recalcitrant attitudes",
+      "recalcitrant species",
+      "recalcitrant behaviour"
+    ],
+    "synonyms": [
+      "uncooperative",
+      "obstinate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a mule that refuses to move – that's recalcitrant.",
+    "writingTip": "Addressing <b>recalcitrant</b> industries requires both incentives and stringent enforcement.",
+    "speakingTip": "pronounced re‑kuh-LIS-truhnt; you could say, 'Some <b>recalcitrant</b> corporations continue to emit greenhouse gases despite regulations.'",
+    "commonMistake": "Do not pair with 'to' – say 'recalcitrant against' or simply 'recalcitrant' without a preposition.",
+    "slug": "recalcitrant",
+    "topic": "environment"
   }
 ]

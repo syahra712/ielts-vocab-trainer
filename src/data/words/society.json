@@ -646,5 +646,155 @@
     "commonMistake": "Students often mix it up with 'disenfranchised' meaning simply 'unhappy'; remember it specifically refers to loss of rights or representation.",
     "slug": "disenfranchised",
     "topic": "society"
+  },
+  {
+    "word": "Alienate",
+    "pos": "v.",
+    "definition": "To cause someone to feel isolated or estranged from a group.",
+    "example": "Policies that <b>alienate</b> minority communities often backfire politically.",
+    "exampleAlt": "Heavy surveillance can <b>alienate</b> citizens who feel their privacy is being violated.",
+    "difficulty": 2,
+    "collocations": [
+      "alienate the youth",
+      "alienate voters",
+      "feel alienated",
+      "socially alienate"
+    ],
+    "synonyms": [
+      "estrange",
+      "isolate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a friend who moves away – the distance *alienates* you, just like bad policies push people apart.",
+    "writingTip": "Governments must avoid legislation that <b>alienates</b> large segments of society, as social cohesion suffers as a result.",
+    "speakingTip": "pronounced uh-LEE-uh-neyt – you can slip it into an answer: \"Some reforms risk <b>alienating</b> the working class, which could fuel unrest.\"",
+    "commonMistake": "Using *alienate* with *to* (e.g., *alienate to the public*) instead of the correct *from* or no preposition.",
+    "slug": "alienate",
+    "topic": "society"
+  },
+  {
+    "word": "Disparate",
+    "pos": "adj.",
+    "definition": "Fundamentally different or distinct in kind; not comparable.",
+    "example": "The <b>disparate</b> lifestyles of urban and rural dwellers shape their political priorities.",
+    "exampleAlt": "Economic data reveal <b>disparate</b> outcomes for men and women across the country.",
+    "difficulty": 3,
+    "collocations": [
+      "disparate groups",
+      "disparate impacts",
+      "disparate views",
+      "disparate experiences"
+    ],
+    "synonyms": [
+      "divergent",
+      "heterogeneous"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine mixing oranges and laptops – they’re so *disparate* you can’t compare them directly.",
+    "writingTip": "A robust essay will acknowledge the <b>disparate</b> needs of different social strata before proposing a unified solution.",
+    "speakingTip": "pronounced dis-PAIR-it – natural insertion: \"We must consider the <b>disparate</b> challenges faced by various demographic groups when discussing welfare reform.\"",
+    "commonMistake": "Confusing *disparate* with *disparate* (spelling) or using it to mean *inequitable* rather than merely different.",
+    "slug": "disparate",
+    "topic": "society"
+  },
+  {
+    "word": "Paternalistic",
+    "pos": "adj.",
+    "definition": "Relating to a governing style that treats people as if they are children, limiting their autonomy.",
+    "example": "A <b>paternalistic</b> approach to public health can undermine individual responsibility.",
+    "exampleAlt": "Critics argue that the welfare system has become overly <b>paternalistic</b>, dictating how beneficiaries should spend their aid.",
+    "difficulty": 2,
+    "collocations": [
+      "paternalistic attitude",
+      "paternalistic policies",
+      "paternalistic governance",
+      "paternalistic stance"
+    ],
+    "synonyms": [
+      "authoritarian",
+      "protective"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a parent who decides everything for a teenager – that’s the *paternalistic* mindset applied to a whole society.",
+    "writingTip": "While arguing for regulation, caution against a <b>paternalistic</b> framework that could erode personal freedoms.",
+    "speakingTip": "pronounced puh-TEHR-nuh-LIS-tik – you might say: \"Some argue that strict lockdowns were <b>paternalistic</b>, treating citizens like children rather than responsible adults.\"",
+    "commonMistake": "Mixing up *paternalistic* with *patriarchal*; the former concerns over‑protectiveness, the latter with male‑dominated authority.",
+    "slug": "paternalistic",
+    "topic": "society"
+  },
+  {
+    "word": "Populist",
+    "pos": "adj.",
+    "definition": "Appealing to the interests and emotions of ordinary people, often by contrasting them with an elite.",
+    "example": "The candidate’s <b>populist</b> rhetoric resonated with voters frustrated by economic inequality.",
+    "exampleAlt": "A <b>populist</b> movement can rapidly shift the political landscape, for better or worse.",
+    "difficulty": 2,
+    "collocations": [
+      "populist leader",
+      "populist sentiment",
+      "populist agenda",
+      "populist wave"
+    ],
+    "synonyms": [
+      "grassroots",
+      "majoritarian"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a street performer who shouts what the crowd wants to hear – that’s *populist* in politics.",
+    "writingTip": "When discussing democracy, you could note: \"While <b>populist</b> appeals can mobilise the electorate, they may also oversimplify complex policy issues.\"",
+    "speakingTip": "pronounced POP-yuh-list – a smooth way to use it: \"Many societies witness a rise in <b>populist</b> parties that claim to champion the 'common man.'\"",
+    "commonMistake": "Using *populist* to describe any popular idea; it specifically refers to political style, not mere popularity.",
+    "slug": "populist",
+    "topic": "society"
+  },
+  {
+    "word": "Elitist",
+    "pos": "adj.",
+    "definition": "Believing that a select group of people should have more influence or privilege than others.",
+    "example": "An <b>elitist</b> education system can widen social gaps between the privileged and the underprivileged.",
+    "exampleAlt": "Critics labelled the policy as <b>elitist</b> because it primarily benefits high‑income households.",
+    "difficulty": 2,
+    "collocations": [
+      "elitist attitude",
+      "elitist mindset",
+      "elitist circle",
+      "elitist perspective"
+    ],
+    "synonyms": [
+      "exclusive",
+      "aristocratic"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a club that only lets the ‘best‑looking’ in – that’s an *elitist* outlook applied to society.",
+    "writingTip": "A balanced essay might argue: \"Policies that appear <b>elitist</b> risk alienating the broader public and can trigger social unrest.\"",
+    "speakingTip": "pronounced ih-LEE-tist – you could say: \"Some argue that the tax code is <b>elitist</b>, favouring the wealthy over ordinary citizens.\"",
+    "commonMistake": "Confusing *elitist* with *elite* (noun) and using the adjective where a noun is required, e.g., \"the elitist\" instead of \"the elite\".",
+    "slug": "elitist",
+    "topic": "society"
+  },
+  {
+    "word": "Milieu",
+    "pos": "n.",
+    "definition": "The social or cultural environment in which people live or operate.",
+    "example": "The artistic <b>milieu</b> of 1960s Paris fostered groundbreaking innovations in music and literature.",
+    "exampleAlt": "Understanding the corporate <b>milieu</b> helps explain why certain management styles thrive.",
+    "difficulty": 3,
+    "collocations": [
+      "cultural milieu",
+      "intellectual milieu",
+      "social milieu",
+      "creative milieu"
+    ],
+    "synonyms": [
+      "environment",
+      "setting"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of the *milieu* as the backdrop of a stage – it shapes everything that happens in front of it.",
+    "writingTip": "When analysing societal change, note: \"The rapid digital transformation altered the traditional media <b>milieu</b>, reshaping public discourse.\"",
+    "speakingTip": "pronounced mee-LYOO – a natural insertion: \"In today’s global <b>milieu</b>, cultural exchange happens faster than ever before.\"",
+    "commonMistake": "Treating *milieu* as a verb or confusing it with *milieu*’s plural form; the word is singular and often paired with ‘the’.",
+    "slug": "milieu",
+    "topic": "society"
   }
 ]
