@@ -838,5 +838,130 @@
     "commonMistake": "Mixing up 'exemplary' with 'exemplified'; the former describes quality, the latter describes the act of giving an example.",
     "slug": "exemplary",
     "topic": "academic"
+  },
+  {
+    "word": "Scholarly",
+    "pos": "adj.",
+    "definition": "Relating to serious academic study or research.",
+    "example": "The journal requires a <b>scholarly</b> peer‑review process before publication.",
+    "exampleAlt": "Her thesis was praised for its <b>scholarly</b> depth and originality.",
+    "difficulty": 2,
+    "collocations": [
+      "scholarly article",
+      "scholarly research",
+      "scholarly reputation",
+      "scholarly pursuit"
+    ],
+    "synonyms": [
+      "academic",
+      "learned"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a scholar in a dusty library – anything 'scholarly' sounds like it belongs there.",
+    "writingTip": "The university's <b>scholarly</b> standards demand rigorous peer review of all submissions.",
+    "speakingTip": "pronounced SKOL-uh-ree; you can say, 'In my opinion, the debate reflects a very <b>scholarly</b> approach to the issue.'",
+    "commonMistake": "Using 'scholar' as an adjective (e.g., *scholar article*) instead of the correct form 'scholarly'.",
+    "slug": "scholarly",
+    "topic": "academic"
+  },
+  {
+    "word": "Lucid",
+    "pos": "adj.",
+    "definition": "Clear and easy to understand; expressed in a coherent manner.",
+    "example": "She gave a <b>lucid</b> explanation of the statistical results.",
+    "exampleAlt": "His <b>lucid</b> prose made a complex theory accessible to beginners.",
+    "difficulty": 2,
+    "collocations": [
+      "lucid explanation",
+      "lucid argument",
+      "lucid prose",
+      "lucid thinking"
+    ],
+    "synonyms": [
+      "clear",
+      "intelligible"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If a fog lifts and you see everything clearly, your writing is lucid.",
+    "writingTip": "A <b>lucid</b> thesis statement guides the reader through the essay's main points.",
+    "speakingTip": "pronounced LOO-sid; try, 'The speaker gave a <b>lucid</b> overview of the research findings.'",
+    "commonMistake": "Using 'lucid' only for dream states; it is also appropriate for clear academic language.",
+    "slug": "lucid",
+    "topic": "academic"
+  },
+  {
+    "word": "Meticulous",
+    "pos": "adj.",
+    "definition": "Showing great attention to detail; very careful and precise.",
+    "example": "The researcher performed a <b>meticulous</b> analysis of the survey data.",
+    "exampleAlt": "Her notes were <b>meticulous</b>, leaving no variable unrecorded.",
+    "difficulty": 2,
+    "collocations": [
+      "meticulous analysis",
+      "meticulous planning",
+      "meticulous detail",
+      "meticulous researcher"
+    ],
+    "synonyms": [
+      "painstaking",
+      "thorough"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like a watchmaker who checks every gear, a meticulous student checks every citation.",
+    "writingTip": "The researcher conducted a <b>meticulous</b> literature review, leaving no relevant study overlooked.",
+    "speakingTip": "pronounced muh-TIK-yuh-luhs; you could say, 'I approach my assignments with a <b>meticulous</b> mindset to avoid errors.'",
+    "commonMistake": "Using 'meticulous' to describe speed rather than carefulness; it conveys precision, not quickness.",
+    "slug": "meticulous",
+    "topic": "academic"
+  },
+  {
+    "word": "Exemplify",
+    "pos": "verb",
+    "definition": "To serve as a typical example of something.",
+    "example": "The case study <b>exemplifies</b> the impact of socioeconomic status on educational attainment.",
+    "exampleAlt": "This graph <b>exemplifies</b> the rapid rise in university enrolment over the last decade.",
+    "difficulty": 2,
+    "collocations": [
+      "exemplify a trend",
+      "exemplify the principle",
+      "exemplify the theory",
+      "exemplify best practice"
+    ],
+    "synonyms": [
+      "illustrate",
+      "demonstrate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If a picture paints a thousand words, that picture exemplifies the idea.",
+    "writingTip": "The statistic <b>exemplifies</b> the widening gap between urban and rural schools.",
+    "speakingTip": "pronounced ig-ZEM-pluh-fahy; you might say, 'This statistic <b>exemplifies</b> the widening gap between urban and rural schools.'",
+    "commonMistake": "Confusing the verb 'exemplify' with the noun 'example'; students often write '*example* the data' instead of '*exemplify* the data'.",
+    "slug": "exemplify",
+    "topic": "academic"
+  },
+  {
+    "word": "Synthetic",
+    "pos": "adj.",
+    "definition": "Created by combining elements, especially in a way that is not natural; artificially constructed.",
+    "example": "A <b>synthetic</b> approach merges qualitative interviews with quantitative surveys.",
+    "exampleAlt": "The paper relied on <b>synthetic</b> data generated by a computer model.",
+    "difficulty": 3,
+    "collocations": [
+      "synthetic approach",
+      "synthetic methodology",
+      "synthetic data",
+      "synthetic literature review"
+    ],
+    "synonyms": [
+      "artificial",
+      "constructed"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a chemist mixing elements to create something new – that's a synthetic method.",
+    "writingTip": "A <b>synthetic</b> analysis combines quantitative and qualitative findings to present a holistic view.",
+    "speakingTip": "pronounced sin-THET-ik; you could answer, 'Researchers often adopt a <b>synthetic</b> perspective to bridge gaps between disciplines.'",
+    "commonMistake": "Mixing up 'synthetic' (adjective) with 'synthesis' (noun); students sometimes say '*synthetic* the findings' instead of '*synthesize* the findings'.",
+    "slug": "synthetic",
+    "topic": "academic"
   }
 ]

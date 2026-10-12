@@ -760,5 +760,130 @@
     "commonMistake": "Confusing with ‘heterogeneous’; heterodox refers to ideas, not variety in composition.",
     "slug": "heterodox",
     "topic": "economy"
+  },
+  {
+    "word": "Reallocation",
+    "pos": "noun",
+    "definition": "The process of moving resources, capital, or labour from one sector to another.",
+    "example": "The government's policy of <b>reallocation</b> of subsidies from fossil fuels to renewable energy aims to curb emissions.",
+    "exampleAlt": "During the downturn, firms often pursue <b>reallocation</b> of staff to more profitable divisions.",
+    "difficulty": 2,
+    "collocations": [
+      "resource reallocation",
+      "capital reallocation",
+      "budget reallocation",
+      "sectoral reallocation"
+    ],
+    "synonyms": [
+      "redistribution",
+      "shifting"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it like moving chess pieces to a stronger side of the board.",
+    "writingTip": "Effective <b>reallocation</b> of public funds can stimulate growth in lagging industries.",
+    "speakingTip": "pronounced REE-uh-loh-KAY-shun – slip it into answers about government policy changes.",
+    "commonMistake": "Confusing with 'allocation' – the former implies moving existing resources, not just assigning new ones.",
+    "slug": "reallocation",
+    "topic": "economy"
+  },
+  {
+    "word": "Externality",
+    "pos": "noun",
+    "definition": "A cost or benefit incurred by a third party not directly involved in an economic transaction.",
+    "example": "Air pollution is a negative <b>externality</b> of industrial production.",
+    "exampleAlt": "Public parks generate positive <b>externalities</b> by improving community wellbeing.",
+    "difficulty": 2,
+    "collocations": [
+      "negative externality",
+      "positive externality",
+      "externality cost",
+      "externality effect"
+    ],
+    "synonyms": [
+      "spillover",
+      "side effect"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a neighbour’s loud music affecting you – that’s an externality.",
+    "writingTip": "Governments should internalise <b>externalities</b> through taxes or subsidies to correct market failures.",
+    "speakingTip": "pronounced eks-TER-nal-i-tee – use it when discussing environmental impacts of industry.",
+    "commonMistake": "Often paired with 'of' instead of 'on' – say 'externality of production', not 'externality on production'.",
+    "slug": "externality",
+    "topic": "economy"
+  },
+  {
+    "word": "Elasticity",
+    "pos": "noun",
+    "definition": "The degree to which the quantity demanded or supplied responds to changes in price or income.",
+    "example": "High price <b>elasticity</b> means consumers will sharply reduce purchases when prices rise.",
+    "exampleAlt": "The labour market's wage <b>elasticity</b> influences unemployment rates.",
+    "difficulty": 2,
+    "collocations": [
+      "price elasticity",
+      "income elasticity",
+      "elasticity of demand",
+      "elasticity coefficient"
+    ],
+    "synonyms": [
+      "responsiveness",
+      "sensitivity"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like a rubber band stretching more when pulled harder – that’s elasticity.",
+    "writingTip": "Understanding <b>elasticity</b> helps explain why tax hikes may not always raise revenue.",
+    "speakingTip": "pronounced ee-LAS-tuh-see – drop it when analysing how consumers react to price changes.",
+    "commonMistake": "Mixing up 'elasticity of demand' with 'elastic demand'; the former is a measure, the latter describes the condition.",
+    "slug": "elasticity",
+    "topic": "economy"
+  },
+  {
+    "word": "Parity",
+    "pos": "noun",
+    "definition": "Equality or equivalence in value, status, or purchasing power between two economic entities.",
+    "example": "Achieving wage <b>parity</b> between men and women remains a policy challenge.",
+    "exampleAlt": "Exchange <b>parity</b> stabilised after the central bank intervened.",
+    "difficulty": 2,
+    "collocations": [
+      "wage parity",
+      "price parity",
+      "exchange parity",
+      "gender parity"
+    ],
+    "synonyms": [
+      "equality",
+      "equivalence"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of two scales balanced – that’s parity.",
+    "writingTip": "Policies that promote income <b>parity</b> can reduce social tension.",
+    "speakingTip": "pronounced PAIR-uh-tee – handy when discussing fairness in the economy.",
+    "commonMistake": "Using 'parity' for any moral equality; it specifically refers to measurable equivalence.",
+    "slug": "parity",
+    "topic": "economy"
+  },
+  {
+    "word": "Crowding-out",
+    "pos": "noun",
+    "definition": "The reduction of private sector spending caused by increased government borrowing.",
+    "example": "Heavy public debt can lead to <b>crowding-out</b> of private investment.",
+    "exampleAlt": "When the state raises interest rates to fund deficits, it may trigger <b>crowding-out</b> of home buyers.",
+    "difficulty": 3,
+    "collocations": [
+      "fiscal crowding-out",
+      "investment crowding-out",
+      "government crowding-out",
+      "crowding-out effect"
+    ],
+    "synonyms": [
+      "displacement",
+      "suppression"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a crowded bus – the more government riders, the fewer seats left for private riders.",
+    "writingTip": "Excessive stimulus risks <b>crowding-out</b>, undermining its intended boost to the economy.",
+    "speakingTip": "pronounced KROW-ding-out – use it when debating the limits of fiscal policy.",
+    "commonMistake": "Often confused with 'crowding in', which describes the opposite effect where government spending stimulates private activity.",
+    "slug": "crowding-out",
+    "topic": "economy"
   }
 ]

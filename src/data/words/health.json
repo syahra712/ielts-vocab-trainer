@@ -710,5 +710,155 @@
     "commonMistake": "Students often use 'mortality' instead of 'morbidity', confusing death rates with disease rates.",
     "slug": "morbidity",
     "topic": "health"
+  },
+  {
+    "word": "Ameliorate",
+    "pos": "verb",
+    "definition": "To make something bad or unsatisfactory better.",
+    "example": "The new policy aims to <b>ameliorate</b> the chronic shortage of nurses in rural clinics.",
+    "exampleAlt": "Regular exercise can <b>ameliorate</b> symptoms of mild depression.",
+    "difficulty": 2,
+    "collocations": [
+      "ameliorate conditions",
+      "ameliorate symptoms",
+      "ameliorate the impact",
+      "ameliorate health disparities"
+    ],
+    "synonyms": [
+      "improve",
+      "alleviate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as ‘adding a Band‑9 polish’ to a rough draft of health outcomes.",
+    "writingTip": "Governments must implement comprehensive reforms to <b>ameliorate</b> the escalating burden of non‑communicable diseases.",
+    "speakingTip": "pronounced uh-MEE-lee-uh-reyt – you can slip it in by saying, “We need strategies that <b>ameliorate</b> the current health crisis.”",
+    "commonMistake": "Confusing with ‘amelioration’ as a noun; students often write ‘ameliorate the amelioration’ instead of simply ‘ameliorate the situation’.",
+    "slug": "ameliorate",
+    "topic": "health"
+  },
+  {
+    "word": "Exacerbate",
+    "pos": "verb",
+    "definition": "To make a problem, situation, or feeling worse.",
+    "example": "Poor air quality can <b>exacerbate</b> respiratory illnesses such as asthma.",
+    "exampleAlt": "Ignoring early signs of infection may <b>exacerbate</b> the disease’s progression.",
+    "difficulty": 2,
+    "collocations": [
+      "exacerbate symptoms",
+      "exacerbate the problem",
+      "exacerbate risks",
+      "exacerbate the situation"
+    ],
+    "synonyms": [
+      "worsen",
+      "aggravate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If a fire already burns, adding gasoline will <b>exacerbate</b> it—just like bad habits worsen health issues.",
+    "writingTip": "The lack of preventive care not only fails to curb disease but also <b>exacerbates</b> existing health inequalities.",
+    "speakingTip": "pronounced eks-uh-SAHR-beyt – a natural phrase: “Stress can <b>exacerbate</b> hypertension if left unmanaged.”",
+    "commonMistake": "Using ‘exacerbate’ with a positive meaning; it always carries a negative connotation.",
+    "slug": "exacerbate",
+    "topic": "health"
+  },
+  {
+    "word": "Antiseptic",
+    "pos": "adjective",
+    "definition": "Relating to or denoting substances that prevent the growth of disease‑causing microorganisms.",
+    "example": "Hospitals enforce strict <b>antiseptic</b> protocols to protect patients from infections.",
+    "exampleAlt": "She applied an <b>antiseptic</b> solution to the wound before dressing it.",
+    "difficulty": 1,
+    "collocations": [
+      "antiseptic measures",
+      "antiseptic practices",
+      "antiseptic environment",
+      "antiseptic properties"
+    ],
+    "synonyms": [
+      "germ‑free",
+      "sterile"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the ‘clean‑room’ label you stick on anything that must stay germ‑free.",
+    "writingTip": "Implementing rigorous <b>antiseptic</b> standards in clinics is essential for curbing hospital‑acquired infections.",
+    "speakingTip": "pronounced an‑tuh‑SEP‑tik – you could say, “Maintaining <b>antiseptic</b> conditions is crucial in any medical facility.”",
+    "commonMistake": "Confusing with ‘antiseptic’ as a noun; students sometimes write ‘an antiseptic’ when they mean the adjective form.",
+    "slug": "antiseptic",
+    "topic": "health"
+  },
+  {
+    "word": "Biomarker",
+    "pos": "noun",
+    "definition": "A measurable indicator of some biological state or condition, often used in medical diagnosis.",
+    "example": "Elevated C‑reactive protein serves as a <b>biomarker</b> for inflammation.",
+    "exampleAlt": "Researchers are searching for reliable <b>biomarker</b>s to detect early‑stage Alzheimer’s disease.",
+    "difficulty": 2,
+    "collocations": [
+      "diagnostic biomarker",
+      "predictive biomarker",
+      "biomarker research",
+      "clinical biomarker"
+    ],
+    "synonyms": [
+      "indicator",
+      "marker"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a health ‘traffic light’; a <b>biomarker</b> is the red or green signal that tells you what’s happening inside.",
+    "writingTip": "The discovery of a universal <b>biomarker</b> could revolutionise early detection of chronic illnesses.",
+    "speakingTip": "pronounced BY‑oh‑MAHR‑ker – a handy sentence: “Scientists hope that a simple blood test will reveal a <b>biomarker</b> for heart disease.”",
+    "commonMistake": "Using ‘biomarker’ as a verb; it is strictly a noun, so avoid phrases like ‘to biomarker’. ",
+    "slug": "biomarker",
+    "topic": "health"
+  },
+  {
+    "word": "Telemedicine",
+    "pos": "noun",
+    "definition": "The remote diagnosis and treatment of patients through telecommunications technology.",
+    "example": "During the pandemic, many rural clinics adopted <b>telemedicine</b> to reach underserved populations.",
+    "exampleAlt": "<b>Telemedicine</b> platforms allow doctors to monitor chronic conditions without face‑to‑face visits.",
+    "difficulty": 1,
+    "collocations": [
+      "telemedicine services",
+      "telemedicine platform",
+      "telemedicine adoption",
+      "telemedicine consultation"
+    ],
+    "synonyms": [
+      "e‑health",
+      "remote healthcare"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as a ‘doctor’s video call’ that brings care to your living room.",
+    "writingTip": "Governments should invest in robust <b>telemedicine</b> infrastructure to bridge the urban‑rural health gap.",
+    "speakingTip": "pronounced TEL‑uh‑MED‑i‑sin – you could answer, “I believe <b>telemedicine</b> will become a permanent fixture in post‑COVID healthcare.”",
+    "commonMistake": "Adding an unnecessary ‘s’ (telemedicines); the term is singular and uncountable.",
+    "slug": "telemedicine",
+    "topic": "health"
+  },
+  {
+    "word": "Epigenetic",
+    "pos": "adjective",
+    "definition": "Relating to changes in gene expression that do not involve alterations to the underlying DNA sequence.",
+    "example": "Stressful early life experiences can trigger <b>epigenetic</b> modifications that affect health later on.",
+    "exampleAlt": "Nutritionists are exploring how diet influences <b>epigenetic</b> patterns linked to obesity.",
+    "difficulty": 3,
+    "collocations": [
+      "epigenetic changes",
+      "epigenetic factors",
+      "epigenetic research",
+      "epigenetic mechanisms"
+    ],
+    "synonyms": [
+      "heritable beyond DNA",
+      "non‑genetic inheritance"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture DNA as a book; <b>epigenetic</b> marks are the sticky notes that tell the story how to read each page.",
+    "writingTip": "Understanding <b>epigenetic</b> influences could reshape public health policies aimed at disease prevention.",
+    "speakingTip": "pronounced ep‑i‑je‑NET‑ik – a natural insertion: “The rise of <b>epigenetic</b> studies shows how lifestyle can rewrite our health destiny.”",
+    "commonMistake": "Mixing up ‘epigenetic’ with ‘genetic’; students often say ‘genetic changes’ when they mean the reversible, environment‑driven epigenetic effects.",
+    "slug": "epigenetic",
+    "topic": "health"
   }
 ]
