@@ -796,5 +796,30 @@
     "commonMistake": "Treating *milieu* as a verb or confusing it with *milieu*’s plural form; the word is singular and often paired with ‘the’.",
     "slug": "milieu",
     "topic": "society"
+  },
+  {
+    "word": "communal",
+    "pos": "adj.",
+    "definition": "Relating to shared ownership or use by a community.",
+    "example": "The <b>communal</b> garden in the neighbourhood fosters interaction among residents.",
+    "exampleAlt": "Residents often gather for <b>communal</b> meals during festivals.",
+    "difficulty": 2,
+    "collocations": [
+      "communal spirit",
+      "communal facilities",
+      "communal living",
+      "communal responsibility"
+    ],
+    "synonyms": [
+      "shared",
+      "collective"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a big family where everything belongs to everyone – that’s communal.",
+    "writingTip": "Governments should invest in <b>communal</b> infrastructure to strengthen social bonds.",
+    "speakingTip": "pronounced ku-MYOO-nuhl – you can say, \"I value <b>communal</b> spaces because they bring people together\" in a Part 3 answer.",
+    "commonMistake": "Students often replace it with ‘community’ or misuse it as a noun, forgetting it’s an adjective.",
+    "slug": "communal",
+    "topic": "society"
   }
 ]

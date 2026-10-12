@@ -614,5 +614,80 @@
     "commonMistake": "Writing it as two words ‘ground breaking’; the correct adjective form is the single word ‘groundbreaking’.",
     "slug": "groundbreaking",
     "topic": "technology"
+  },
+  {
+    "word": "Interoperable",
+    "pos": "adj.",
+    "definition": "Able to exchange and make use of information with other systems or devices.",
+    "example": "The new health app is <b>interoperable</b> with major hospital databases, allowing real‑time patient monitoring.",
+    "exampleAlt": "Because it is <b>interoperable</b>, the smart thermostat can sync with various home‑automation platforms.",
+    "difficulty": 2,
+    "collocations": [
+      "interoperable standards",
+      "interoperable systems",
+      "interoperable devices",
+      "interoperable platform"
+    ],
+    "synonyms": [
+      "compatible",
+      "integrated"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it like puzzle pieces that fit together without forcing.",
+    "writingTip": "Governments should invest in <b>interoperable</b> digital infrastructures to streamline public services.",
+    "speakingTip": "pronounced in‑ter‑OP‑er‑a‑ble; you can say, 'Many countries are moving towards more <b>interoperable</b> communication networks.'",
+    "commonMistake": "Often confused with 'interdependent'; 'interoperable' refers to technical compatibility, not mutual reliance.",
+    "slug": "interoperable",
+    "topic": "technology"
+  },
+  {
+    "word": "Scalable",
+    "pos": "adj.",
+    "definition": "Capable of being expanded or upgraded efficiently to handle increased demand.",
+    "example": "Cloud computing offers a <b>scalable</b> solution for startups that anticipate rapid growth.",
+    "exampleAlt": "The city's transport system must be <b>scalable</b> to accommodate a rising population.",
+    "difficulty": 2,
+    "collocations": [
+      "scalable architecture",
+      "scalable solution",
+      "scalable model",
+      "scalable platform"
+    ],
+    "synonyms": [
+      "expandable",
+      "flexible"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like a stretchy rubber band that can grow without breaking.",
+    "writingTip": "Policymakers should design <b>scalable</b> digital education programmes that can serve both rural and urban learners.",
+    "speakingTip": "pronounced SKAY‑uh‑buhl; you might answer, 'A <b>scalable</b> AI framework is essential for future tech development.'",
+    "commonMistake": "Students sometimes use 'scalable' for abstract ideas; it is best reserved for systems that can be physically or technically enlarged.",
+    "slug": "scalable",
+    "topic": "technology"
+  },
+  {
+    "word": "Robust",
+    "pos": "adj.",
+    "definition": "Strong and reliable, able to perform well under varied conditions.",
+    "example": "The new encryption algorithm is <b>robust</b>, protecting user data even against sophisticated attacks.",
+    "exampleAlt": "A <b>robust</b> internet infrastructure can withstand natural disasters.",
+    "difficulty": 2,
+    "collocations": [
+      "robust security",
+      "robust system",
+      "robust performance",
+      "robust framework"
+    ],
+    "synonyms": [
+      "resilient",
+      "sturdy"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a sturdy bridge that doesn’t wobble no matter how many cars cross.",
+    "writingTip": "Implementing <b>robust</b> cybersecurity measures is crucial for maintaining public trust in digital services.",
+    "speakingTip": "pronounced roh‑BUHST; you could say, 'We need <b>robust</b> policies to regulate emerging technologies.'",
+    "commonMistake": "Often paired with 'strong' redundantly; avoid saying 'strong robust' – pick one.",
+    "slug": "robust",
+    "topic": "technology"
   }
 ]

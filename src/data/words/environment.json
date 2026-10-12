@@ -560,5 +560,30 @@
     "commonMistake": "Do not pair with 'to' – say 'recalcitrant against' or simply 'recalcitrant' without a preposition.",
     "slug": "recalcitrant",
     "topic": "environment"
+  },
+  {
+    "word": "Anthropocentric",
+    "pos": "adj.",
+    "definition": "Relating to a viewpoint that places humans at the centre of concern.",
+    "example": "Many policies remain <b>anthropocentric</b>, prioritising economic growth over environmental health.",
+    "exampleAlt": "An <b>anthropocentric</b> mindset often overlooks the intrinsic value of wildlife.",
+    "difficulty": 2,
+    "collocations": [
+      "Anthropocentric view",
+      "Anthropocentric bias",
+      "Anthropocentric approach",
+      "Anthropocentric perspective"
+    ],
+    "synonyms": [
+      "human‑centred",
+      "human‑centric"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as putting humans on the throne of the planet – everything revolves around us.",
+    "writingTip": "Governments should shift from an <b>anthropocentric</b> framework to one that balances human needs with ecological preservation.",
+    "speakingTip": "pronounced an‑THRO‑puh‑sen‑trik; you can say, 'From an <b>anthropocentric</b> standpoint, development is justified.'",
+    "commonMistake": "Students often pair it with 'for' (e.g., 'anthropocentric for') instead of using 'view' or 'approach'.",
+    "slug": "anthropocentric",
+    "topic": "environment"
   }
 ]
