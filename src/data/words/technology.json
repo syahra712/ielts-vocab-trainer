@@ -614,5 +614,83 @@
     "commonMistake": "Writing it as two words ‘ground breaking’; the correct adjective form is the single word ‘groundbreaking’.",
     "slug": "groundbreaking",
     "topic": "technology"
+  },
+  {
+    "word": "Pervasive",
+    "pos": "adj",
+    "definition": "Existing or spreading throughout something in a widespread manner.",
+    "example": "The <b>pervasive</b> use of smartphones has transformed social interaction.",
+    "exampleAlt": "Even rural areas now experience <b>pervasive</b> internet connectivity.",
+    "difficulty": 2,
+    "collocations": [
+      "pervasive influence",
+      "pervasive presence",
+      "pervasive technology",
+      "pervasive impact"
+    ],
+    "synonyms": [
+      "widespread",
+      "extensive",
+      "all‑encompassing"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a scent that fills the whole room – that's how pervasive tech feels.",
+    "writingTip": "Governments must address the <b>pervasive</b> reliance on digital devices in education.",
+    "speakingTip": "pronounced per-VEY-siv; you can say, 'The <b>pervasive</b> nature of AI raises ethical questions.'",
+    "commonMistake": "Often confused with 'prevalent'; 'pervasive' stresses being everywhere, not just common.",
+    "slug": "pervasive",
+    "topic": "technology"
+  },
+  {
+    "word": "Scalable",
+    "pos": "adj",
+    "definition": "Capable of being expanded or upgraded efficiently to handle increased demand.",
+    "example": "Cloud services are designed to be <b>scalable</b> as user numbers grow.",
+    "exampleAlt": "Start‑ups need <b>scalable</b> business models to survive rapid growth.",
+    "difficulty": 2,
+    "collocations": [
+      "scalable solution",
+      "scalable architecture",
+      "scalable system",
+      "scalable platform"
+    ],
+    "synonyms": [
+      "expandable",
+      "elastic",
+      "flexible"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a rubber band that stretches without breaking – that’s a scalable system.",
+    "writingTip": "Investing in <b>scalable</b> infrastructure ensures that future technological spikes can be accommodated without costly overhauls.",
+    "speakingTip": "pronounced SKAY‑luh-bul; you could answer, 'We should prioritize <b>scalable</b> technologies to future‑proof our economy.'",
+    "commonMistake": "Students often misuse it as a noun; remember it’s an adjective – say 'scalable solution', not just 'a scalable'.",
+    "slug": "scalable",
+    "topic": "technology"
+  },
+  {
+    "word": "Interoperable",
+    "pos": "adj",
+    "definition": "Able to exchange and make use of information across different systems or devices.",
+    "example": "Health records are most useful when they are <b>interoperable</b> between hospitals.",
+    "exampleAlt": "The success of the smart city project hinges on <b>interoperable</b> IoT platforms.",
+    "difficulty": 3,
+    "collocations": [
+      "interoperable standards",
+      "interoperable devices",
+      "interoperable systems",
+      "interoperable framework"
+    ],
+    "synonyms": [
+      "compatible",
+      "integrated",
+      "communicative"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of different puzzle pieces that fit together – that’s interoperability.",
+    "writingTip": "Policymakers should mandate <b>interoperable</b> protocols to avoid data silos in digital governance.",
+    "speakingTip": "pronounced in-ter-OP-er-uh-buhl; you might say, 'Ensuring <b>interoperable</b> technology reduces redundancy in public services.'",
+    "commonMistake": "Often paired with the wrong preposition; use 'interoperable with', not 'interoperable to'.",
+    "slug": "interoperable",
+    "topic": "technology"
   }
 ]

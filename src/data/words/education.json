@@ -809,5 +809,30 @@
     "commonMistake": "Confusing the verb 'disseminate' with the noun 'dissemination' and using the wrong form in a sentence.",
     "slug": "disseminate",
     "topic": "education"
+  },
+  {
+    "word": "Instructive",
+    "pos": "adj",
+    "definition": "Providing useful information or insight.",
+    "example": "The lecture was <b>instructive</b>, giving students a clear picture of quantum mechanics.",
+    "exampleAlt": "Her feedback was particularly <b>instructive</b> for improving the essay structure.",
+    "difficulty": 2,
+    "collocations": [
+      "instructive feedback",
+      "instructive lecture",
+      "instructive example",
+      "instructive approach"
+    ],
+    "synonyms": [
+      "educational",
+      "illuminating"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as a lesson that actually sticks – like a recipe that tells you exactly why each ingredient matters.",
+    "writingTip": "Governments should invest in <b>instructive</b> teacher‑training programmes to raise classroom standards.",
+    "speakingTip": "pronounced in-STRUK-tiv; you can say, \"I found the professor's comments very <b>instructive</b> when preparing for the exam.\"",
+    "commonMistake": "Using it with \"very\" (\"very instructive\") can sound redundant; the word already implies strong usefulness.",
+    "slug": "instructive",
+    "topic": "education"
   }
 ]

@@ -760,5 +760,30 @@
     "commonMistake": "Confusing with ‘heterogeneous’; heterodox refers to ideas, not variety in composition.",
     "slug": "heterodox",
     "topic": "economy"
+  },
+  {
+    "word": "Solvency",
+    "pos": "noun",
+    "definition": "The ability of an individual or organization to meet its long‑term financial obligations.",
+    "example": "The company's <b>solvency</b> improved after it reduced its debt load.",
+    "exampleAlt": "Investors closely monitor a bank's <b>solvency</b> to gauge its stability.",
+    "difficulty": 2,
+    "collocations": [
+      "financial solvency",
+      "maintain solvency",
+      "solvency ratio",
+      "enhance solvency"
+    ],
+    "synonyms": [
+      "creditworthiness",
+      "soundness"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of solvency as a ship's buoyancy – if it stays afloat, it's solvent.",
+    "writingTip": "A robust governmental policy can bolster national <b>solvency</b>, ensuring debt sustainability.",
+    "speakingTip": "pronounced SOLV‑ən-see; you can say, 'Many emerging markets struggle to maintain <b>solvency</b> when external shocks hit.'",
+    "commonMistake": "Confusing 'solvency' with 'liquidity'; solvency refers to long‑term ability, not short‑term cash flow.",
+    "slug": "solvency",
+    "topic": "economy"
   }
 ]
