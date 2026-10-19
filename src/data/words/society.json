@@ -796,5 +796,105 @@
     "commonMistake": "Treating *milieu* as a verb or confusing it with *milieu*’s plural form; the word is singular and often paired with ‘the’.",
     "slug": "milieu",
     "topic": "society"
+  },
+  {
+    "word": "Individualism",
+    "pos": "n.",
+    "definition": "A social theory favoring the moral worth of the individual over collective interests.",
+    "example": "The rise of <b>individualism</b> has reshaped consumer behaviour in many Western societies.",
+    "exampleAlt": "Critics argue that excessive <b>individualism</b> erodes community bonds.",
+    "difficulty": 2,
+    "collocations": [
+      "cultural individualism",
+      "political individualism",
+      "radical individualism",
+      "modern individualism"
+    ],
+    "synonyms": [
+      "self‑reliance",
+      "autonomy"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a solo musician versus an orchestra; individualism is the solo act.",
+    "writingTip": "While <b>individualism</b> fuels innovation, unchecked it can undermine collective welfare, a point often debated in essay conclusions.",
+    "speakingTip": "pronounced in-di-vi-du-AL-ism; try, \"In many societies, <b>individualism</b> coexists with a sense of communal responsibility.\"",
+    "commonMistake": "Using 'individualism' when 'individuality' is intended; the former describes a societal trend, the latter a personal trait.",
+    "slug": "individualism",
+    "topic": "society"
+  },
+  {
+    "word": "Normativity",
+    "pos": "n.",
+    "definition": "The quality of being based on norms or standards that dictate what is considered acceptable in a society.",
+    "example": "Legal reforms often challenge the existing <b>normativity</b> of criminal justice systems.",
+    "exampleAlt": "Media can both reflect and shape the <b>normativity</b> of gender roles.",
+    "difficulty": 3,
+    "collocations": [
+      "cultural normativity",
+      "ethical normativity",
+      "institutional normativity",
+      "social normativity"
+    ],
+    "synonyms": [
+      "standardization",
+      "conventionality"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a rulebook; normativity is the authority that says what the rules should be.",
+    "writingTip": "When discussing policy, you might write: \"The proposed law confronts the entrenched <b>normativity</b> that marginalises minority groups.\"",
+    "speakingTip": "pronounced nor-MA-ti-vi-ty; a natural insertion: \"Changing the <b>normativity</b> around work‑life balance is crucial for modern societies.\"",
+    "commonMistake": "Mixing up 'normativity' with 'normative'; the former is a noun, the latter an adjective.",
+    "slug": "normativity",
+    "topic": "society"
+  },
+  {
+    "word": "Camaraderie",
+    "pos": "n.",
+    "definition": "A spirit of friendly good‑will and mutual trust among members of a group.",
+    "example": "The neighbourhood's annual festivals foster a strong sense of <b>camaraderie</b> among residents.",
+    "exampleAlt": "In the workplace, <b>camaraderie</b> can boost morale and productivity.",
+    "difficulty": 2,
+    "collocations": [
+      "team camaraderie",
+      "community camaraderie",
+      "deep camaraderie",
+      "lasting camaraderie"
+    ],
+    "synonyms": [
+      "companionship",
+      "fellowship"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a close‑knit sports team; that bond is camaraderie.",
+    "writingTip": "An effective conclusion might note: \"By nurturing <b>camaraderie</b>, societies can better navigate social challenges together.\"",
+    "speakingTip": "pronounced ka‑ma‑RA‑die; you could say, \"In many cultures, <b>camaraderie</b> is the glue that holds extended families together.\"",
+    "commonMistake": "Using 'camaraderie' to describe formal relationships; it's best reserved for informal, friendly contexts.",
+    "slug": "camaraderie",
+    "topic": "society"
+  },
+  {
+    "word": "Cohesion",
+    "pos": "n.",
+    "definition": "The action or state of forming a united whole, especially within a social group.",
+    "example": "National holidays often promote <b>cohesion</b> by reminding citizens of shared heritage.",
+    "exampleAlt": "Social media can both enhance and undermine societal <b>cohesion</b>, depending on its use.",
+    "difficulty": 1,
+    "collocations": [
+      "social cohesion",
+      "national cohesion",
+      "community cohesion",
+      "cultural cohesion"
+    ],
+    "synonyms": [
+      "unity",
+      "solidarity"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine puzzle pieces fitting together; that's cohesion in a society.",
+    "writingTip": "A strong thesis might argue: \"Policies that address income inequality are vital for maintaining <b>cohesion</b> in diverse societies.\"",
+    "speakingTip": "pronounced ko‑HEE‑zhun; a handy phrase: \"Economic disparity can threaten <b>cohesion</b> if not addressed promptly.\"",
+    "commonMistake": "Confusing 'cohesion' with 'cohesive' (adjective) or using it with the wrong preposition, e.g., say 'cohesion of' not 'cohesion in' when referring to a group.",
+    "slug": "cohesion",
+    "topic": "society"
   }
 ]

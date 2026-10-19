@@ -710,5 +710,55 @@
     "commonMistake": "Students often use 'mortality' instead of 'morbidity', confusing death rates with disease rates.",
     "slug": "morbidity",
     "topic": "health"
+  },
+  {
+    "word": "Ameliorate",
+    "pos": "verb",
+    "definition": "To make something bad or unsatisfactory better.",
+    "example": "The new public health policy aims to <b>ameliorate</b> the living conditions of low‑income families.",
+    "exampleAlt": "Regular exercise can <b>ameliorate</b> chronic back pain over time.",
+    "difficulty": 2,
+    "collocations": [
+      "ameliorate conditions",
+      "ameliorate symptoms",
+      "ameliorate the impact",
+      "ameliorate health outcomes"
+    ],
+    "synonyms": [
+      "improve",
+      "alleviate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as turning a rough road smooth – you’re making the situation less harsh.",
+    "writingTip": "Governments should invest in preventive care to <b>ameliorate</b> the rising burden of lifestyle‑related diseases.",
+    "speakingTip": "pronounced uh-MEE-lee-uh-reyt; you can say, 'I believe community clinics could <b>ameliorate</b> health disparities.'",
+    "commonMistake": "Often confused with 'ameliorate' vs 'amelioration' – students use the noun form where the verb is required.",
+    "slug": "ameliorate",
+    "topic": "health"
+  },
+  {
+    "word": "Exacerbate",
+    "pos": "verb",
+    "definition": "To make a problem, situation, or feeling worse.",
+    "example": "Air pollution can <b>exacerbate</b> respiratory illnesses such as asthma.",
+    "exampleAlt": "Stress may <b>exacerbate</b> the symptoms of ulcerative colitis.",
+    "difficulty": 2,
+    "collocations": [
+      "exacerbate symptoms",
+      "exacerbate the problem",
+      "exacerbate the crisis",
+      "exacerbate health risks"
+    ],
+    "synonyms": [
+      "worsen",
+      "intensify"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine adding fuel to a fire; that’s what you do when you <b>exacerbate</b> something.",
+    "writingTip": "Poor dietary habits not only cause obesity but also <b>exacerbate</b> cardiovascular disease.",
+    "speakingTip": "pronounced ig-ZAS-er-bayt; you could answer, 'Smoking tends to <b>exacerbate</b> lung conditions.'",
+    "commonMistake": "Students sometimes use 'exacerbate' with a positive sense, but it is always negative.",
+    "slug": "exacerbate",
+    "topic": "health"
   }
 ]

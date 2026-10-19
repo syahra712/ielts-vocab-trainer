@@ -838,5 +838,80 @@
     "commonMistake": "Mixing up 'exemplary' with 'exemplified'; the former describes quality, the latter describes the act of giving an example.",
     "slug": "exemplary",
     "topic": "academic"
+  },
+  {
+    "word": "Multidisciplinary",
+    "pos": "adj.",
+    "definition": "Involving two or more academic disciplines.",
+    "example": "The <b>multidisciplinary</b> approach enabled researchers to tackle climate change from various angles.",
+    "exampleAlt": "Universities are encouraging <b>multidisciplinary</b> programmes to broaden students' skill sets.",
+    "difficulty": 2,
+    "collocations": [
+      "multidisciplinary research",
+      "multidisciplinary team",
+      "multidisciplinary study",
+      "multidisciplinary perspective"
+    ],
+    "synonyms": [
+      "cross-disciplinary",
+      "interdisciplinary"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a buffet where you pick dishes from different cuisines—that's a multidisciplinary project.",
+    "writingTip": "In recent years, <b>multidisciplinary</b> collaboration has become essential for solving complex societal problems.",
+    "speakingTip": "pronounced mul-tee-dis-uh-PLEN-uh-ree; you can say, 'I believe <b>multidisciplinary</b> research is key to innovation.'",
+    "commonMistake": "Often confused with 'interdisciplinary', but multidisciplinary implies parallel rather than integrated work.",
+    "slug": "multidisciplinary",
+    "topic": "academic"
+  },
+  {
+    "word": "Qualitative",
+    "pos": "adj.",
+    "definition": "Relating to non‑numerical data or observations.",
+    "example": "The study employed <b>qualitative</b> interviews to explore students' motivations.",
+    "exampleAlt": "<b>Qualitative</b> analysis revealed patterns that numbers alone could not capture.",
+    "difficulty": 1,
+    "collocations": [
+      "qualitative data",
+      "qualitative research",
+      "qualitative methods",
+      "qualitative findings"
+    ],
+    "synonyms": [
+      "descriptive",
+      "subjective"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It's like describing the flavor of a dish rather than measuring its calories.",
+    "writingTip": "When arguing about education policy, integrating <b>qualitative</b> evidence can strengthen your point.",
+    "speakingTip": "pronounced kwah-LIT-uh-tiv; you might say, 'While statistics are useful, <b>qualitative</b> insights provide depth.'",
+    "commonMistake": "Students sometimes use 'qualitative' to mean 'high quality'—the meaning is about data type, not value.",
+    "slug": "qualitative",
+    "topic": "academic"
+  },
+  {
+    "word": "Quantitative",
+    "pos": "adj.",
+    "definition": "Concerned with numbers and measurable data.",
+    "example": "The paper presented <b>quantitative</b> results from a survey of 2,000 participants.",
+    "exampleAlt": "<b>Quantitative</b> analysis showed a 15% increase in graduation rates.",
+    "difficulty": 1,
+    "collocations": [
+      "quantitative data",
+      "quantitative analysis",
+      "quantitative study",
+      "quantitative methods"
+    ],
+    "synonyms": [
+      "numerical",
+      "statistical"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine counting the beans on a plate; that's what quantitative work does.",
+    "writingTip": "A strong essay often balances <b>quantitative</b> evidence with qualitative anecdotes.",
+    "speakingTip": "pronounced kwon-tuh-TAY-tiv; you could say, 'Policy makers rely heavily on <b>quantitative</b> indicators.'",
+    "commonMistake": "Mixing up 'quantitative' with 'qualitative'—they describe opposite data types.",
+    "slug": "quantitative",
+    "topic": "academic"
   }
 ]
