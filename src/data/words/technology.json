@@ -614,5 +614,31 @@
     "commonMistake": "Writing it as two words ‘ground breaking’; the correct adjective form is the single word ‘groundbreaking’.",
     "slug": "groundbreaking",
     "topic": "technology"
+  },
+  {
+    "word": "Pervasive",
+    "pos": "adj.",
+    "definition": "Existing or spreading widely throughout an area or a group of people.",
+    "example": "The <b>pervasive</b> use of smartphones has reshaped social interactions.",
+    "exampleAlt": "In many classrooms, <b>pervasive</b> digital devices distract students from traditional learning.",
+    "difficulty": 2,
+    "collocations": [
+      "pervasive influence",
+      "pervasive presence",
+      "pervasive impact",
+      "pervasive technology"
+    ],
+    "synonyms": [
+      "widespread",
+      "extensive",
+      "common"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it like a scent that fills every corner of a room – you can’t escape it.",
+    "writingTip": "Governments must address the <b>pervasive</b> digital divide if they hope to ensure equal access to online education.",
+    "speakingTip": "pronounced per-VAY-siv – you can say, \"I think the <b>pervasive</b> nature of AI will affect every industry,\" in a Part 3 answer.",
+    "commonMistake": "Students often add an article, saying \"a pervasive\" instead of using it as a descriptive adjective.",
+    "slug": "pervasive",
+    "topic": "technology"
   }
 ]

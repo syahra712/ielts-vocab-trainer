@@ -710,5 +710,57 @@
     "commonMistake": "Students often use 'mortality' instead of 'morbidity', confusing death rates with disease rates.",
     "slug": "morbidity",
     "topic": "health"
+  },
+  {
+    "word": "convalescent",
+    "pos": "adj.",
+    "definition": "Recovering health and strength after an illness or medical treatment.",
+    "example": "After the surgery, the <b>convalescent</b> patient was monitored closely for any signs of infection.",
+    "exampleAlt": "The hospital provides specialised <b>convalescent</b> care for those emerging from intensive therapy.",
+    "difficulty": 2,
+    "collocations": [
+      "convalescent period",
+      "convalescent care",
+      "convalescent home",
+      "convalescent patient"
+    ],
+    "synonyms": [
+      "recovering",
+      "healing",
+      "restorative"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the 'recovery' stage after a marathon—your body is still catching its breath.",
+    "writingTip": "Implementing robust <b>convalescent</b> support systems can significantly reduce post‑operative complications.",
+    "speakingTip": "pronounced kən‑VAL‑əs‑ənt; you can say, 'Many countries need better <b>convalescent</b> facilities for pandemic survivors.'",
+    "commonMistake": "Often confused with 'convalescence' used as a noun; avoid saying 'convalescent the patient'—use the adjective before a noun.",
+    "slug": "convalescent",
+    "topic": "health"
+  },
+  {
+    "word": "nutraceutical",
+    "pos": "n.",
+    "definition": "A food product that provides health benefits beyond basic nutrition.",
+    "example": "Omega‑3 fish oil is a popular <b>nutraceutical</b> that may lower cardiovascular risk.",
+    "exampleAlt": "Regulators are debating whether certain <b>nutraceutical</b> claims should be treated like medicines.",
+    "difficulty": 3,
+    "collocations": [
+      "nutraceutical supplement",
+      "nutraceutical industry",
+      "nutraceutical benefits",
+      "nutraceutical market"
+    ],
+    "synonyms": [
+      "functional food",
+      "dietary supplement",
+      "health product"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a vitamin pill that does more than just fill a gap—it actually helps your body function better.",
+    "writingTip": "The rise of the <b>nutraceutical</b> market reflects consumers' growing demand for preventative health solutions.",
+    "speakingTip": "pronounced NOO‑truh‑SEE‑tuh‑kl; you could say, 'The government should regulate <b>nutraceutical</b> claims to protect consumers.'",
+    "commonMistake": "Students sometimes add an unnecessary article, saying 'a nutraceutical' when referring to the category; use 'the nutraceutical industry' or just 'nutraceuticals'.",
+    "slug": "nutraceutical",
+    "topic": "health"
   }
 ]

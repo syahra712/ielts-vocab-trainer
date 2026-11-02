@@ -760,5 +760,155 @@
     "commonMistake": "Confusing with ‘heterogeneous’; heterodox refers to ideas, not variety in composition.",
     "slug": "heterodox",
     "topic": "economy"
+  },
+  {
+    "word": "Exorbitant",
+    "pos": "adj.",
+    "definition": "Unreasonably high; exceeding what is considered normal or acceptable.",
+    "example": "The government imposed an <b>exorbitant</b> tax on luxury goods, deterring many potential buyers.",
+    "exampleAlt": "Consumers complained that the <b>exorbitant</b> fees made the service unaffordable.",
+    "difficulty": 2,
+    "collocations": [
+      "exorbitant price",
+      "exorbitant cost",
+      "exorbitant demand",
+      "exorbitant fee"
+    ],
+    "synonyms": [
+      "excessive",
+      "inflated"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a balloon stretched beyond its limit – that's how 'exorbitant' feels for prices.",
+    "writingTip": "The <b>exorbitant</b> rise in living expenses underscores the need for targeted budgetary reforms.",
+    "speakingTip": "pronounced ig-ZOR-buh-tuhnt; you can say, 'Many argue that the <b>exorbitant</b> cost of housing is unsustainable.'",
+    "commonMistake": "Treating it as a noun; it is an adjective and must modify a noun.",
+    "slug": "exorbitant",
+    "topic": "economy"
+  },
+  {
+    "word": "Exogenous",
+    "pos": "adj.",
+    "definition": "Originating from outside a system rather than from internal factors.",
+    "example": "An <b>exogenous</b> shock such as a sudden oil price surge can destabilise even robust economies.",
+    "exampleAlt": "Policymakers struggled to respond to the <b>exogenous</b> factor of a global pandemic.",
+    "difficulty": 2,
+    "collocations": [
+      "exogenous shock",
+      "exogenous factor",
+      "exogenous variable",
+      "exogenous influence"
+    ],
+    "synonyms": [
+      "external",
+      "outside"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a wind blowing into a closed room – the wind is 'exogenous' to the room's own air flow.",
+    "writingTip": "When an <b>exogenous</b> event like a natural disaster hits, governments must adapt quickly to mitigate economic fallout.",
+    "speakingTip": "pronounced eg-ZOH-juh-nuhs; try, 'The recent <b>exogenous</b> pressure on supply chains has raised prices worldwide.'",
+    "commonMistake": "Confusing with 'endogenous', which describes causes that arise from within the system.",
+    "slug": "exogenous",
+    "topic": "economy"
+  },
+  {
+    "word": "Leveraged",
+    "pos": "adj.",
+    "definition": "Using borrowed capital to increase the potential return of an investment, amplifying both gains and risks.",
+    "example": "Countries that adopt a highly <b>leveraged</b> budgetary stance may face heightened vulnerability during downturns.",
+    "exampleAlt": "The firm’s <b>leveraged</b> expansion strategy boosted profits but also raised its debt exposure.",
+    "difficulty": 3,
+    "collocations": [
+      "leveraged buyout",
+      "leveraged position",
+      "leveraged debt",
+      "leveraged strategy"
+    ],
+    "synonyms": [
+      "geared",
+      "using debt"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a seesaw: adding weight on one side (debt) makes the whole system move more dramatically – that’s ‘leveraged’.",
+    "writingTip": "A <b>leveraged</b> approach to infrastructure development can accelerate growth but may also increase fiscal risk.",
+    "speakingTip": "pronounced LEV-uh-rijd; you might say, 'Many emerging markets are becoming increasingly <b>leveraged</b> to fund rapid development.'",
+    "commonMistake": "Using it as a verb; the correct adjective form for describing a situation is 'leveraged', not 'leverage'.",
+    "slug": "leveraged",
+    "topic": "economy"
+  },
+  {
+    "word": "Heterogeneous",
+    "pos": "adj.",
+    "definition": "Made up of parts or elements that are different in kind; diverse.",
+    "example": "A <b>heterogeneous</b> economy, with sectors ranging from agriculture to high‑tech, is less prone to sector‑specific shocks.",
+    "exampleAlt": "The labour market has become more <b>heterogeneous</b> as gig work joins traditional employment.",
+    "difficulty": 2,
+    "collocations": [
+      "heterogeneous market",
+      "heterogeneous economy",
+      "heterogeneous group",
+      "heterogeneous distribution"
+    ],
+    "synonyms": [
+      "diverse",
+      "varied"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a fruit salad – each piece is different, yet together they make a whole; that’s a ‘heterogeneous’ mix.",
+    "writingTip": "Policy measures must account for the <b>heterogeneous</b> nature of regional development across the country.",
+    "speakingTip": "pronounced hee-tuh-ROH-ji-nee-uhs; try, 'The <b>heterogeneous</b> character of modern workforces challenges one‑size‑fits‑all policies.'",
+    "commonMistake": "Pairing it with ‘uniform’; the two are opposites, so avoid saying ‘heterogeneous uniformity’.",
+    "slug": "heterogeneous",
+    "topic": "economy"
+  },
+  {
+    "word": "Elasticity",
+    "pos": "n.",
+    "definition": "The degree to which the quantity demanded or supplied responds to changes in price or income.",
+    "example": "High <b>price elasticity</b> means consumers will significantly cut back on purchases when prices rise.",
+    "exampleAlt": "The government's tax reform had limited impact because the <b>elasticity of demand</b> for the taxed goods was low.",
+    "difficulty": 3,
+    "collocations": [
+      "price elasticity",
+      "elasticity of demand",
+      "elasticity coefficient",
+      "income elasticity"
+    ],
+    "synonyms": [
+      "responsiveness",
+      "sensitivity"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a rubber band: stretch it and it snaps back – that stretchiness is ‘elasticity’ in economics.",
+    "writingTip": "Understanding <b>elasticity</b> helps policymakers predict how tax changes will affect consumer behaviour.",
+    "speakingTip": "pronounced i‑LAS‑ti-si-tee; you could say, 'The <b>elasticity</b> of housing demand varies dramatically between cities.'",
+    "commonMistake": "Mixing up ‘elasticity of supply’ with ‘elasticity of demand’; they measure different reactions and are not interchangeable.",
+    "slug": "elasticity",
+    "topic": "economy"
+  },
+  {
+    "word": "Cumulative",
+    "pos": "adj.",
+    "definition": "Increasing or growing by successive addition; built up over time.",
+    "example": "The <b>cumulative</b> impact of successive policy missteps can erode public confidence over time.",
+    "exampleAlt": "Investors consider the <b>cumulative</b> return of a portfolio rather than just yearly gains.",
+    "difficulty": 2,
+    "collocations": [
+      "cumulative effect",
+      "cumulative impact",
+      "cumulative growth",
+      "cumulative advantage"
+    ],
+    "synonyms": [
+      "aggregate",
+      "accumulative"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of stacking books one on top of another; the total height is the ‘cumulative’ result of each added book.",
+    "writingTip": "Long‑term planning must weigh the <b>cumulative</b> benefits of education against immediate costs.",
+    "speakingTip": "pronounced KYOO‑myuh‑luh-tiv; a natural line is, 'The <b>cumulative</b> rise in debt levels worries many economists.'",
+    "commonMistake": "Using it as a noun; the correct form is the adjective ‘cumulative’, while the noun form is ‘cumulativeness’.",
+    "slug": "cumulative",
+    "topic": "economy"
   }
 ]

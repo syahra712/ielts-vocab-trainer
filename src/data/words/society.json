@@ -796,5 +796,55 @@
     "commonMistake": "Treating *milieu* as a verb or confusing it with *milieu*’s plural form; the word is singular and often paired with ‘the’.",
     "slug": "milieu",
     "topic": "society"
+  },
+  {
+    "word": "Patriarchal",
+    "pos": "adj.",
+    "definition": "Relating to a social system in which men hold primary power and dominate roles.",
+    "example": "The <b>patriarchal</b> structure of the village limited women's access to education.",
+    "exampleAlt": "Many ancient myths reinforce <b>patriarchal</b> norms that persist today.",
+    "difficulty": 2,
+    "collocations": [
+      "patriarchal values",
+      "patriarchal society",
+      "patriarchal norms",
+      "patriarchal system"
+    ],
+    "synonyms": [
+      "male-dominated",
+      "chauvinistic"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it like a family where dad makes all the rules – that's a patriarchal set‑up.",
+    "writingTip": "In societies where <b>patriarchal</b> attitudes prevail, gender inequality often intensifies.",
+    "speakingTip": "pronounced PAY-tree-AR-kuh-l; you can say, 'Many cultures still retain <b>patriarchal</b> attitudes towards leadership.'",
+    "commonMistake": "Confusing 'patriarchal' with 'patriotic' – they are unrelated; ensure you use it to describe gender power structures, not national pride.",
+    "slug": "patriarchal",
+    "topic": "society"
+  },
+  {
+    "word": "Anomie",
+    "pos": "n.",
+    "definition": "A condition of social instability resulting from a breakdown of standards and values.",
+    "example": "Rapid urbanisation can lead to a sense of <b>anomie</b> among young adults.",
+    "exampleAlt": "The rise in crime was attributed to widespread <b>anomie</b> after the economic collapse.",
+    "difficulty": 3,
+    "collocations": [
+      "social anomie",
+      "cultural anomie",
+      "feelings of anomie",
+      "state of anomie"
+    ],
+    "synonyms": [
+      "normlessness",
+      "disorientation"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a playground with no rules – kids feel lost; that's anomie in society.",
+    "writingTip": "When traditional institutions weaken, many experience <b>anomie</b>, undermining social cohesion.",
+    "speakingTip": "pronounced a-NOH-mee; you could answer, 'Modern technology sometimes creates <b>anomie</b> by eroding community bonds.'",
+    "commonMistake": "Using 'anomaly' instead of 'anomie' – they sound similar but 'anomaly' means something unusual, not societal breakdown.",
+    "slug": "anomie",
+    "topic": "society"
   }
 ]
