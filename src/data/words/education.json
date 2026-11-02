@@ -809,5 +809,155 @@
     "commonMistake": "Confusing the verb 'disseminate' with the noun 'dissemination' and using the wrong form in a sentence.",
     "slug": "disseminate",
     "topic": "education"
+  },
+  {
+    "word": "Ameliorate",
+    "pos": "v.",
+    "definition": "To make a situation or condition better or less severe.",
+    "example": "The new policy aims to <b>ameliorate</b> the disparities in rural education.",
+    "exampleAlt": "Teachers sought innovative methods to <b>ameliorate</b> student engagement during online lessons.",
+    "difficulty": 2,
+    "collocations": [
+      "ameliorate conditions",
+      "ameliorate the situation",
+      "ameliorate shortcomings",
+      "ameliorate impact"
+    ],
+    "synonyms": [
+      "improve",
+      "alleviate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as polishing a rough stone until it shines brighter.",
+    "writingTip": "In your essay you could write: \"Government funding should be allocated to programmes that <b>ameliorate</b> the learning gap between affluent and disadvantaged schools.\"",
+    "speakingTip": "pronounced uh-MEE-lee-uh-rayt – you can slip it into a answer like: \"We must adopt strategies that <b>ameliorate</b> educational inequality.\"",
+    "commonMistake": "Students often mix up ‘ameliorate’ with ‘exacerbate’, using the wrong word to describe improvement.",
+    "slug": "ameliorate",
+    "topic": "education"
+  },
+  {
+    "word": "Exacerbate",
+    "pos": "v.",
+    "definition": "To make a problem, situation, or feeling more severe.",
+    "example": "Rising tuition fees only <b>exacerbate</b> the financial strain on families.",
+    "exampleAlt": "The lack of teacher training can <b>exacerbate</b> classroom management challenges.",
+    "difficulty": 2,
+    "collocations": [
+      "exacerbate tensions",
+      "exacerbate problems",
+      "exacerbate the issue",
+      "exacerbate difficulties"
+    ],
+    "synonyms": [
+      "worsen",
+      "aggravate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If a small spark makes a fire bigger, that’s what ‘exacerbate’ does to problems.",
+    "writingTip": "A strong thesis could state: \"Standardized testing, rather than assessing ability, often <b>exacerbates</b> student anxiety and narrows curricula.\"",
+    "speakingTip": "pronounced ig-ZAS-er-bayt – natural phrase: \"Policy changes may unintentionally <b>exacerbate</b> existing educational gaps.\"",
+    "commonMistake": "Confusing it with ‘ameliorate’; remember ‘exacerbate’ = make worse, not better.",
+    "slug": "exacerbate",
+    "topic": "education"
+  },
+  {
+    "word": "Propensity",
+    "pos": "n.",
+    "definition": "A natural tendency to behave in a particular way.",
+    "example": "There is a growing <b>propensity</b> among students to rely on digital resources for research.",
+    "exampleAlt": "Many educators have a <b>propensity</b> to favor lecture‑based methods over collaborative learning.",
+    "difficulty": 2,
+    "collocations": [
+      "propensity for",
+      "propensity to",
+      "propensity towards",
+      "propensity to engage"
+    ],
+    "synonyms": [
+      "inclination",
+      "tendency"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a river that naturally flows toward the sea—that flow is its ‘propensity’.",
+    "writingTip": "You might argue: \"A noticeable <b>propensity</b> for rote memorisation hampers critical thinking in traditional classrooms.\"",
+    "speakingTip": "pronounced pruh-PEN-suh-tee – use it like: \"I’ve noticed a strong <b>propensity</b> among teenagers to multitask while studying.\"",
+    "commonMistake": "Using ‘propensity’ with the wrong preposition; it collocates with ‘for’, ‘to’, or ‘towards’, not ‘of’.",
+    "slug": "propensity",
+    "topic": "education"
+  },
+  {
+    "word": "Obfuscate",
+    "pos": "v.",
+    "definition": "To render something unclear or difficult to understand.",
+    "example": "Overly technical jargon can <b>obfuscate</b> the core message of an educational policy.",
+    "exampleAlt": "Teachers should avoid <b>obfuscating</b> concepts with unnecessary complexity.",
+    "difficulty": 3,
+    "collocations": [
+      "obfuscate meaning",
+      "obfuscate the issue",
+      "obfuscate facts",
+      "obfuscate details"
+    ],
+    "synonyms": [
+      "confuse",
+      "muddle"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like throwing fog over a road – you can’t see the path clearly anymore.",
+    "writingTip": "A compelling argument: \"When curricula are overloaded with buzzwords, they <b>obfuscate</b> rather than illuminate the learning objectives.\"",
+    "speakingTip": "pronounced OB-fuh-skayt – natural insertion: \"Sometimes, political rhetoric tends to <b>obfuscate</b> the real challenges facing education systems.\"",
+    "commonMistake": "Mixing up ‘obfuscate’ with ‘obscure’; ‘obfuscate’ implies intentional clouding, while ‘obscure’ can be accidental.",
+    "slug": "obfuscate",
+    "topic": "education"
+  },
+  {
+    "word": "Imperative",
+    "pos": "adj.",
+    "definition": "Absolutely necessary or of vital importance.",
+    "example": "It is <b>imperative</b> for schools to incorporate digital literacy into their curricula.",
+    "exampleAlt": "Ensuring equal access to education is an <b>imperative</b> for social cohesion.",
+    "difficulty": 2,
+    "collocations": [
+      "imperative to",
+      "imperative that",
+      "imperative need",
+      "imperative requirement"
+    ],
+    "synonyms": [
+      "essential",
+      "crucial"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a traffic light turning red – you must stop; that urgency is ‘imperative’.",
+    "writingTip": "Effective phrasing: \"Given the rapid technological shift, it is <b>imperative</b> that educators receive continuous professional development.\"",
+    "speakingTip": "pronounced im-PEHR-uh-tiv – you can say: \"It is <b>imperative</b> to address teacher burnout if we want quality education.\"",
+    "commonMistake": "Using ‘imperative’ as a noun (it can be a noun, but many learners misuse it as an adjective in the wrong place).",
+    "slug": "imperative",
+    "topic": "education"
+  },
+  {
+    "word": "Cogitate",
+    "pos": "v.",
+    "definition": "To think deeply about something; to contemplate.",
+    "example": "Before proposing reforms, policymakers should <b>cogitate</b> on their long‑term impact on learners.",
+    "exampleAlt": "Students often need time to <b>cogitate</b> over complex theoretical concepts.",
+    "difficulty": 3,
+    "collocations": [
+      "cogitate on",
+      "cogitate over",
+      "cogitate about",
+      "cogitate before"
+    ],
+    "synonyms": [
+      "ponder",
+      "reflect"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine sitting by a campfire, letting thoughts simmer – that’s ‘cogitate’.",
+    "writingTip": "Use it to show depth: \"Educators must <b>cogitate</b> on how assessment methods influence student motivation rather than merely measuring performance.\"",
+    "speakingTip": "pronounced KOG-ih-tayt – natural phrase: \"I often <b>cogitate</b> on how technology reshapes classroom interaction.\"",
+    "commonMistake": "Confusing ‘cogitate’ with ‘cogent’; ‘cogitate’ is about thinking, while ‘cogent’ describes an argument’s clarity.",
+    "slug": "cogitate",
+    "topic": "education"
   }
 ]

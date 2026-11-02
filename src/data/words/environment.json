@@ -560,5 +560,80 @@
     "commonMistake": "Do not pair with 'to' – say 'recalcitrant against' or simply 'recalcitrant' without a preposition.",
     "slug": "recalcitrant",
     "topic": "environment"
+  },
+  {
+    "word": "Deforestation",
+    "pos": "noun",
+    "definition": "The clearing or thinning of forests on a large scale.",
+    "example": "The rapid <b>deforestation</b> in the Amazon has alarmed scientists worldwide.",
+    "exampleAlt": "Policies aimed at curbing <b>deforestation</b> often face resistance from logging industries.",
+    "difficulty": 2,
+    "collocations": [
+      "deforestation rates",
+      "deforestation policies",
+      "deforestation impact",
+      "deforestation hotspot"
+    ],
+    "synonyms": [
+      "clear‑cutting",
+      "forest loss"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a forest as a library; deforestation is like tearing out whole shelves.",
+    "writingTip": "Governments must implement stricter regulations to stem the accelerating <b>deforestation</b> that threatens biodiversity.",
+    "speakingTip": "pronounced DEE‑faw‑reh‑SHUN; you can say, 'Deforestation is a major driver of climate change.'",
+    "commonMistake": "Confusing 'deforestation' with 'reforestation'; the former means tree loss, the latter means tree planting.",
+    "slug": "deforestation",
+    "topic": "environment"
+  },
+  {
+    "word": "Biomagnification",
+    "pos": "noun",
+    "definition": "The increase in concentration of toxins as they move up the food chain.",
+    "example": "Top predators suffer from <b>biomagnification</b> of mercury, leading to severe health issues.",
+    "exampleAlt": "<b>Biomagnification</b> explains why humans can be exposed to higher toxin levels than the water they drink.",
+    "difficulty": 3,
+    "collocations": [
+      "biomagnification effect",
+      "biomagnification of pollutants",
+      "biomagnification process",
+      "biomagnification risk"
+    ],
+    "synonyms": [
+      "bioaccumulation",
+      "trophic amplification"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a snowball rolling downhill, gathering more snow; biomagnification gathers more toxins.",
+    "writingTip": "The phenomenon of <b>biomagnification</b> underscores the urgency of regulating industrial waste discharge.",
+    "speakingTip": "pronounced BY‑oh‑mag‑nih‑fi‑KAY‑shun; use it like, 'Biomagnification makes seafood safety a concern.'",
+    "commonMistake": "Mixing up 'biomagnification' with 'bioaccumulation'; the former refers to increase across trophic levels, the latter within a single organism.",
+    "slug": "biomagnification",
+    "topic": "environment"
+  },
+  {
+    "word": "Ecological Footprint",
+    "pos": "noun",
+    "definition": "A measure of the amount of natural resources an individual or population consumes.",
+    "example": "Reducing one's <b>ecological footprint</b> can involve simple actions like using public transport.",
+    "exampleAlt": "Countries with large <b>ecological footprint</b> often import resources from poorer nations.",
+    "difficulty": 2,
+    "collocations": [
+      "reduce ecological footprint",
+      "national ecological footprint",
+      "personal ecological footprint",
+      "ecological footprint analysis"
+    ],
+    "synonyms": [
+      "resource consumption",
+      "environmental impact"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of the Earth as a bank account; your ecological footprint is how much you withdraw.",
+    "writingTip": "By adopting renewable energy, societies can significantly shrink their <b>ecological footprint</b>.",
+    "speakingTip": "pronounced ee‑koh‑LOJ‑i‑kəl FOOT‑print; you can say, 'My ecological footprint has dropped since I started biking.'",
+    "commonMistake": "Using 'footprint' alone without 'ecological' can lead to ambiguity; always pair them for this concept.",
+    "slug": "ecological-footprint",
+    "topic": "environment"
   }
 ]
