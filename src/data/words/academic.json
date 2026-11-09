@@ -838,5 +838,30 @@
     "commonMistake": "Mixing up 'exemplary' with 'exemplified'; the former describes quality, the latter describes the act of giving an example.",
     "slug": "exemplary",
     "topic": "academic"
+  },
+  {
+    "word": "Scholarly",
+    "pos": "adj.",
+    "definition": "Relating to serious academic study or research.",
+    "example": "The journal published a <b>scholarly</b> review of recent climate‑change studies.",
+    "exampleAlt": "Her thesis was praised for its <b>scholarly</b> depth and rigorous methodology.",
+    "difficulty": 2,
+    "collocations": [
+      "scholarly article",
+      "scholarly research",
+      "scholarly reputation",
+      "scholarly standards"
+    ],
+    "synonyms": [
+      "academic",
+      "learned"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of 'scholarly' as the 'schooled' version of a word – it’s the dressy suit you wear to a university party.",
+    "writingTip": "In recent debates about funding, many experts argue that a more <b>scholarly</b> approach to policy evaluation would ensure evidence‑based decisions.",
+    "speakingTip": "pronounced SKOL-uh-ree; you can say, 'I believe a more <b>scholarly</b> perspective is needed when discussing educational reforms.'",
+    "commonMistake": "Students often confuse 'scholarly' with 'schooly', using it for informal school activities instead of serious research.",
+    "slug": "scholarly",
+    "topic": "academic"
   }
 ]

@@ -796,5 +796,130 @@
     "commonMistake": "Treating *milieu* as a verb or confusing it with *milieu*’s plural form; the word is singular and often paired with ‘the’.",
     "slug": "milieu",
     "topic": "society"
+  },
+  {
+    "word": "Cohesion",
+    "pos": "n.",
+    "definition": "The act or state of forming a united whole.",
+    "example": "The <b>cohesion</b> of the neighbourhood was evident when residents organised a flood‑relief effort.",
+    "exampleAlt": "Strong <b>cohesion</b> among team members helped the charity meet its fundraising target.",
+    "difficulty": 2,
+    "collocations": [
+      "social cohesion",
+      "national cohesion",
+      "community cohesion",
+      "cohesion policy"
+    ],
+    "synonyms": [
+      "unity",
+      "solidarity"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a jigsaw puzzle – when the pieces fit snugly, that’s cohesion.",
+    "writingTip": "Governments must invest in education and public services to strengthen social <b>cohesion</b> across diverse communities.",
+    "speakingTip": "pronounced koh-HEE-zhun; you can say, “I believe social <b>cohesion</b> is essential for a stable society.”",
+    "commonMistake": "Using ‘cohesion of’ instead of the usual ‘social cohesion’ or confusing it with the adjective ‘cohesive’.",
+    "slug": "cohesion",
+    "topic": "society"
+  },
+  {
+    "word": "Elitism",
+    "pos": "n.",
+    "definition": "The belief that a society should be led by a privileged minority.",
+    "example": "Critics argue that the university’s admission criteria reflect <b>elitism</b> rather than merit.",
+    "exampleAlt": "Public distrust grew after policies were perceived as an expression of <b>elitism</b>.",
+    "difficulty": 2,
+    "collocations": [
+      "cultural elitism",
+      "political elitism",
+      "perceived elitism",
+      "combat elitism"
+    ],
+    "synonyms": [
+      "snobbery",
+      "aristocracy"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a VIP lounge that only a few can enter – that exclusivity is elitism.",
+    "writingTip": "If policies are driven by <b>elitism</b>, they risk alienating the majority of citizens.",
+    "speakingTip": "pronounced ih-LEE-tiz-əm; natural phrase: “Many feel that <b>elitism</b> hampers social mobility.”",
+    "commonMistake": "Mixing up ‘elitism’ with the noun ‘elite’; remember ‘elitism’ describes the attitude, not the group.",
+    "slug": "elitism",
+    "topic": "society"
+  },
+  {
+    "word": "Disenfranchisement",
+    "pos": "n.",
+    "definition": "The denial of the right to vote or other civil privileges.",
+    "example": "Historical policies of voter suppression led to the <b>disenfranchisement</b> of minority groups.",
+    "exampleAlt": "Economic <b>disenfranchisement</b> can trap families in cycles of poverty.",
+    "difficulty": 3,
+    "collocations": [
+      "political disenfranchisement",
+      "systemic disenfranchisement",
+      "voter disenfranchisement",
+      "economic disenfranchisement"
+    ],
+    "synonyms": [
+      "marginalisation",
+      "exclusion"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture being locked out of a club you belong to – that’s disenfranchisement.",
+    "writingTip": "Legislative reforms are needed to eradicate the <b>disenfranchisement</b> of under‑represented communities.",
+    "speakingTip": "pronounced dis‑en‑fran‑CHIZ‑ment; use it like, “Addressing <b>disenfranchisement</b> is key to a fair democracy.”",
+    "commonMistake": "Using ‘disenfranchise’ as a noun; the correct noun form is ‘disenfranchisement’.",
+    "slug": "disenfranchisement",
+    "topic": "society"
+  },
+  {
+    "word": "Heterogeneity",
+    "pos": "n.",
+    "definition": "The quality of being diverse in character or content.",
+    "example": "The city’s <b>heterogeneity</b> is reflected in its multilingual street signs.",
+    "exampleAlt": "Researchers must account for the <b>heterogeneity</b> of cultural practices when designing policies.",
+    "difficulty": 2,
+    "collocations": [
+      "cultural heterogeneity",
+      "population heterogeneity",
+      "regional heterogeneity",
+      "high heterogeneity"
+    ],
+    "synonyms": [
+      "diversity",
+      "variety"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a fruit salad with many different pieces – that mix is heterogeneity.",
+    "writingTip": "Urban planners should consider the <b>heterogeneity</b> of residents when allocating public resources.",
+    "speakingTip": "pronounced he‑ter‑oh‑JEN‑i‑tee; you could say, “The <b>heterogeneity</b> of modern societies presents both challenges and opportunities.”",
+    "commonMistake": "Confusing the noun ‘heterogeneity’ with the adjective ‘heterogeneous’; use the correct form for each context.",
+    "slug": "heterogeneity",
+    "topic": "society"
+  },
+  {
+    "word": "Hierarchy",
+    "pos": "n.",
+    "definition": "A system in which members are ranked according to status or authority.",
+    "example": "Corporate <b>hierarchy</b> often dictates who gets promoted first.",
+    "exampleAlt": "Traditional <b>hierarchy</b> in some cultures places elders at the top of decision‑making.",
+    "difficulty": 2,
+    "collocations": [
+      "social hierarchy",
+      "corporate hierarchy",
+      "rigid hierarchy",
+      "flattened hierarchy"
+    ],
+    "synonyms": [
+      "ranking",
+      "pecking order"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a ladder – each rung represents a level in a hierarchy.",
+    "writingTip": "Efforts to flatten organisational <b>hierarchy</b> can boost employee morale and innovation.",
+    "speakingTip": "pronounced HI‑er‑ar‑kee; try, “Many societies maintain a clear <b>hierarchy</b> of authority.”",
+    "commonMistake": "Using ‘hierarchy’ with the wrong preposition; say ‘hierarchy of’ or ‘hierarchy in’, not ‘hierarchy on’.",
+    "slug": "hierarchy",
+    "topic": "society"
   }
 ]

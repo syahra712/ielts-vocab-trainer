@@ -809,5 +809,83 @@
     "commonMistake": "Confusing the verb 'disseminate' with the noun 'dissemination' and using the wrong form in a sentence.",
     "slug": "disseminate",
     "topic": "education"
+  },
+  {
+    "word": "Conducive",
+    "pos": "adj.",
+    "definition": "Making a particular outcome more likely or possible.",
+    "example": "A quiet environment is <b>conducive</b> to deep learning.",
+    "exampleAlt": "Modern technology can be <b>conducive</b> to collaborative projects.",
+    "difficulty": 2,
+    "collocations": [
+      "conducive to learning",
+      "conducive environment",
+      "conducive atmosphere",
+      "conducive conditions"
+    ],
+    "synonyms": [
+      "favourable",
+      "helpful",
+      "propitious"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the weather that helps a plant grow – it’s the setting that helps something happen.",
+    "writingTip": "Implementing smaller class sizes is <b>conducive</b> to individualized instruction, thereby raising academic standards.",
+    "speakingTip": "pronounced kun-DOO-siv – you can say, 'I believe that a supportive school culture is highly <b>conducive</b> to student motivation.'",
+    "commonMistake": "Often confused with 'consecutive'; remember it pairs with 'to' not 'for'.",
+    "slug": "conducive",
+    "topic": "education"
+  },
+  {
+    "word": "Multidisciplinary",
+    "pos": "adj.",
+    "definition": "Involving several academic disciplines or fields of study.",
+    "example": "A <b>multidisciplinary</b> approach integrates science, art, and technology in curriculum design.",
+    "exampleAlt": "Research on climate change requires <b>multidisciplinary</b> collaboration.",
+    "difficulty": 3,
+    "collocations": [
+      "multidisciplinary team",
+      "multidisciplinary research",
+      "multidisciplinary curriculum",
+      "multidisciplinary perspective"
+    ],
+    "synonyms": [
+      "interdisciplinary",
+      "cross‑disciplinary",
+      "integrated"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a potluck where everyone brings a different dish – that’s a multidisciplinary feast of ideas.",
+    "writingTip": "<b>Multidisciplinary</b> programmes equip students with versatile skills, preparing them for the complexities of the modern workforce.",
+    "speakingTip": "pronounced mul-tee-DIS-uh-pluh-nuh-ree – try, 'Many universities now offer <b>multidisciplinary</b> degrees to broaden career prospects.'",
+    "commonMistake": "Do not mix up with 'multidimensional', which refers to different aspects of a single concept, not multiple subjects.",
+    "slug": "multidisciplinary",
+    "topic": "education"
+  },
+  {
+    "word": "Empowering",
+    "pos": "adj.",
+    "definition": "Giving someone the authority or confidence to do something.",
+    "example": "Project‑based learning is <b>empowering</b> because it lets students take charge of their investigations.",
+    "exampleAlt": "Access to digital resources can be <b>empowering</b> for learners in remote areas.",
+    "difficulty": 2,
+    "collocations": [
+      "empowering students",
+      "empowering education",
+      "empowering experience",
+      "empowering environment"
+    ],
+    "synonyms": [
+      "enabling",
+      "uplifting",
+      "authoritative"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a superhero cape – it gives the wearer confidence to act; that’s what empowering does.",
+    "writingTip": "Policies that provide scholarships are <b>empowering</b> for disadvantaged youths, fostering social mobility.",
+    "speakingTip": "pronounced em-POW-er-ing – you could say, 'I find that mentorship is particularly <b>empowering</b> for first‑generation students.'",
+    "commonMistake": "Avoid using it as a noun; the correct noun form is 'empowerment'.",
+    "slug": "empowering",
+    "topic": "education"
   }
 ]

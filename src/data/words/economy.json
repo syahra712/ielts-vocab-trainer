@@ -760,5 +760,105 @@
     "commonMistake": "Confusing with ‘heterogeneous’; heterodox refers to ideas, not variety in composition.",
     "slug": "heterodox",
     "topic": "economy"
+  },
+  {
+    "word": "PECUNIARY",
+    "pos": "adj.",
+    "definition": "Relating to money or financial matters.",
+    "example": "The <b>pecuniary</b> benefits of the new tax cut were evident in household spending.",
+    "exampleAlt": "Investors were drawn by the <b>pecuniary</b> incentives offered by the government.",
+    "difficulty": 2,
+    "collocations": [
+      "pecuniary loss",
+      "pecuniary interest",
+      "pecuniary considerations",
+      "pecuniary advantage"
+    ],
+    "synonyms": [
+      "financial",
+      "monetary"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of 'pecuniary' as the fancy tuxedo you dress up cash in.",
+    "writingTip": "The government's <b>pecuniary</b> policies have spurred both growth and inequality, a point that can be debated in Task 2.",
+    "speakingTip": "pronounced puh-KYOO-nee-air; you can slip it into a speaking answer: 'From a <b>pecuniary</b> standpoint, the policy seems beneficial.'",
+    "commonMistake": "Often confused with 'penurious', which means poor, not money‑related.",
+    "slug": "pecuniary",
+    "topic": "economy"
+  },
+  {
+    "word": "EXORBITANT",
+    "pos": "adj.",
+    "definition": "Unreasonably high or excessive.",
+    "example": "The <b>exorbitant</b> price of housing is driving many families out of city centres.",
+    "exampleAlt": "Critics argued that the <b>exorbitant</b> subsidies were unsustainable.",
+    "difficulty": 2,
+    "collocations": [
+      "exorbitant cost",
+      "exorbitant price",
+      "exorbitant fees",
+      "exorbitant demand"
+    ],
+    "synonyms": [
+      "excessive",
+      "outrageous"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a bill so big it looks like a mountain – that's 'exorbitant'.",
+    "writingTip": "The <b>exorbitant</b> cost of importing luxury goods has a ripple effect on the national balance of payments.",
+    "speakingTip": "pronounced eg-ZOR-bih-tuhnt; natural drop: 'The <b>exorbitant</b> wages in the tech sector skew income distribution.'",
+    "commonMistake": "Using it with 'low' (e.g., 'exorbitant low price') creates a contradictory phrase.",
+    "slug": "exorbitant",
+    "topic": "economy"
+  },
+  {
+    "word": "REALLOCATION",
+    "pos": "n.",
+    "definition": "The process of moving resources or assets from one area to another.",
+    "example": "The government's <b>reallocation</b> of funds from defence to education aims to boost human capital.",
+    "exampleAlt": "A strategic <b>reallocation</b> of labour towards renewable energy can stimulate green jobs.",
+    "difficulty": 3,
+    "collocations": [
+      "capital reallocation",
+      "resource reallocation",
+      "budget reallocation",
+      "sectoral reallocation"
+    ],
+    "synonyms": [
+      "redistribution",
+      "shifting"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a chess player moving pieces to a better spot – that's a reallocation.",
+    "writingTip": "Effective <b>reallocation</b> of fiscal resources can mitigate the impact of an economic downturn.",
+    "speakingTip": "pronounced ree‑al‑uh‑KAY‑shun; you might say: 'One solution could be the <b>reallocation</b> of subsidies towards sustainable industries.'",
+    "commonMistake": "Often misspelled as 're-allocaton' missing the second 'i'.",
+    "slug": "reallocation",
+    "topic": "economy"
+  },
+  {
+    "word": "INTERTEMPORAL",
+    "pos": "adj.",
+    "definition": "Relating to different points in time, especially in economic decision‑making.",
+    "example": "Intertemporal choices, such as saving versus spending, shape long‑term economic stability.",
+    "exampleAlt": "Policymakers must consider intertemporal effects when designing pension reforms.",
+    "difficulty": 3,
+    "collocations": [
+      "intertemporal trade‑off",
+      "intertemporal analysis",
+      "intertemporal discounting",
+      "intertemporal preferences"
+    ],
+    "synonyms": [
+      "chronological",
+      "time‑based"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a conversation between your present self and future self – that's intertemporal.",
+    "writingTip": "An <b>intertemporal</b> perspective reveals how short‑term stimulus may crowd out future investment.",
+    "speakingTip": "pronounced in‑ter‑TEM‑puh‑rul; you could say: 'From an <b>intertemporal</b> viewpoint, the policy sacrifices future growth for present gains.'",
+    "commonMistake": "Students sometimes pair it with 'spatial', creating the unrelated term 'intertemporal‑spatial'.",
+    "slug": "intertemporal",
+    "topic": "economy"
   }
 ]

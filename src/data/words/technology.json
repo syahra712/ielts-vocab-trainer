@@ -614,5 +614,155 @@
     "commonMistake": "Writing it as two words ‘ground breaking’; the correct adjective form is the single word ‘groundbreaking’.",
     "slug": "groundbreaking",
     "topic": "technology"
+  },
+  {
+    "word": "Robust",
+    "pos": "adj.",
+    "definition": "Strong and able to withstand pressure or adverse conditions.",
+    "example": "The <b>robust</b> encryption protocol kept users' data safe even during massive cyber‑attacks.",
+    "exampleAlt": "Governments favour <b>robust</b> infrastructure that can endure natural disasters.",
+    "difficulty": 2,
+    "collocations": [
+      "robust security",
+      "robust system",
+      "robust performance",
+      "robust framework"
+    ],
+    "synonyms": [
+      "sturdy",
+      "resilient"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a robust phone like a tank – it keeps going no matter how many times you drop it.",
+    "writingTip": "A <b>robust</b> regulatory framework is essential for governing emerging digital currencies.",
+    "speakingTip": "pronounced ROH-buhst – you can drop it into a Speaking answer by saying, ‘The government needs a <b>robust</b> data‑protection law.’",
+    "commonMistake": "Students often pair <b>robust</b> with abstract nouns like ‘idea’; use it for concrete systems or structures instead.",
+    "slug": "robust",
+    "topic": "technology"
+  },
+  {
+    "word": "Scalable",
+    "pos": "adj.",
+    "definition": "Capable of being expanded or upgraded efficiently to handle increased demand.",
+    "example": "Cloud services offer <b>scalable</b> storage that grows as a company’s data needs rise.",
+    "exampleAlt": "Start‑ups prefer <b>scalable</b> business models that can adapt to rapid market changes.",
+    "difficulty": 3,
+    "collocations": [
+      "scalable solution",
+      "scalable architecture",
+      "scalable network",
+      "scalable business model"
+    ],
+    "synonyms": [
+      "expandable",
+      "flexible"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a LEGO set you can keep adding pieces to without it wobbling – that’s a scalable design.",
+    "writingTip": "Implementing a <b>scalable</b> digital platform ensures that future user growth won’t cripple performance.",
+    "speakingTip": "pronounced SKAY‑uh‑buhl – say, ‘Many tech firms need <b>scalable</b> infrastructure to meet global demand.’",
+    "commonMistake": "Confusing <b>Scalable</b> with ‘scalable’ as a noun; it is an adjective and should modify a noun, not stand alone.",
+    "slug": "scalable",
+    "topic": "technology"
+  },
+  {
+    "word": "Interoperable",
+    "pos": "adj.",
+    "definition": "Able to work together with other systems or devices without special effort.",
+    "example": "The new health‑app is <b>interoperable</b> with hospital databases, allowing seamless patient record transfers.",
+    "exampleAlt": "Governments push for <b>interoperable</b> standards so that different smart‑city sensors can share data.",
+    "difficulty": 2,
+    "collocations": [
+      "interoperable platforms",
+      "interoperable standards",
+      "interoperable devices",
+      "interoperable framework"
+    ],
+    "synonyms": [
+      "compatible",
+      "integrated"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of interoperable toys that snap together no matter the brand – they just fit.",
+    "writingTip": "A national policy that mandates <b>interoperable</b> communication protocols will reduce redundancy in public services.",
+    "speakingTip": "pronounced in-ter‑aw‑PUR‑uh‑buhl – you might say, ‘For a smart city to succeed, its systems must be <b>interoperable</b>.’",
+    "commonMistake": "Mixing up <b>Interoperable</b> with ‘interoperability’; the former is the adjective, the latter the noun.",
+    "slug": "interoperable",
+    "topic": "technology"
+  },
+  {
+    "word": "Nascent",
+    "pos": "adj.",
+    "definition": "Just beginning to exist or develop.",
+    "example": "Artificial‑intelligence research is still in its <b>nascent</b> stage, offering huge untapped potential.",
+    "exampleAlt": "The <b>nascent</b> market for quantum computing devices is attracting major investors.",
+    "difficulty": 2,
+    "collocations": [
+      "nascent technology",
+      "nascent industry",
+      "nascent market",
+      "nascent field"
+    ],
+    "synonyms": [
+      "emerging",
+      "incipient"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Picture a seed just sprouting – that’s the nascent phase of growth.",
+    "writingTip": "Policymakers should support <b>nascent</b> technologies before they become mainstream to stay competitive.",
+    "speakingTip": "pronounced NAY‑suhnt – you could answer, ‘We must nurture <b>nascent</b> tech sectors to drive future growth.’",
+    "commonMistake": "Using <b>Nascent</b> for something well‑established; it only describes early‑stage phenomena.",
+    "slug": "nascent",
+    "topic": "technology"
+  },
+  {
+    "word": "Pervasive",
+    "pos": "adj.",
+    "definition": "Spread throughout and present everywhere.",
+    "example": "The <b>pervasive</b> use of smartphones has reshaped how we access information daily.",
+    "exampleAlt": "A <b>pervasive</b> digital culture means even remote villages now have internet connectivity.",
+    "difficulty": 2,
+    "collocations": [
+      "pervasive influence",
+      "pervasive connectivity",
+      "pervasive use",
+      "pervasive presence"
+    ],
+    "synonyms": [
+      "widespread",
+      "ubiquitous"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a scent that fills an entire room – that’s a pervasive effect.",
+    "writingTip": "The <b>pervasive</b> integration of AI into education raises both opportunities and ethical concerns.",
+    "speakingTip": "pronounced per‑VAY‑siv – you might say, ‘There is a <b>pervasive</b> reliance on cloud services in modern business.’",
+    "commonMistake": "Pairing <b>Pervasive</b> with a countable noun like ‘pervasive apps’; it should modify uncountable or collective concepts.",
+    "slug": "pervasive",
+    "topic": "technology"
+  },
+  {
+    "word": "Fragmented",
+    "pos": "adj.",
+    "definition": "Divided into many small, disconnected parts.",
+    "example": "The <b>fragmented</b> regulatory landscape hampers the rollout of unified digital health records.",
+    "exampleAlt": "A <b>fragmented</b> market makes it hard for any single company to achieve dominance.",
+    "difficulty": 2,
+    "collocations": [
+      "fragmented market",
+      "fragmented ecosystem",
+      "fragmented approach",
+      "fragmented data"
+    ],
+    "synonyms": [
+      "disjointed",
+      "splintered"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a puzzle scattered on the floor – it’s fragmented until you piece it together.",
+    "writingTip": "Governments must address the <b>fragmented</b> nature of tech standards to foster smoother international collaboration.",
+    "speakingTip": "pronounced FRAG‑muhn‑tuhd – you could comment, ‘The <b>fragmented</b> nature of internet regulations creates confusion.’",
+    "commonMistake": "Using <b>Fragmented</b> with positive connotations; it usually implies a lack of cohesion.",
+    "slug": "fragmented",
+    "topic": "technology"
   }
 ]
