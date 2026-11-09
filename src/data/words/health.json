@@ -710,5 +710,80 @@
     "commonMistake": "Students often use 'mortality' instead of 'morbidity', confusing death rates with disease rates.",
     "slug": "morbidity",
     "topic": "health"
+  },
+  {
+    "word": "Ameliorate",
+    "pos": "verb",
+    "definition": "To make a situation or condition better or more tolerable.",
+    "example": "The new public‑health policy aims to <b>ameliorate</b> the spread of infectious diseases in rural areas.",
+    "exampleAlt": "Regular exercise can <b>ameliorate</b> symptoms of mild depression.",
+    "difficulty": 2,
+    "collocations": [
+      "ameliorate symptoms",
+      "ameliorate conditions",
+      "ameliorate the impact",
+      "ameliorate disparities"
+    ],
+    "synonyms": [
+      "improve",
+      "alleviate"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as putting a band‑aid on a wound – it doesn’t cure, but it makes things less painful.",
+    "writingTip": "Governments should implement comprehensive vaccination programmes to <b>ameliorate</b> public‑health crises.",
+    "speakingTip": "pronounced uh-MEE-lee-uh-rayt; you can say, 'I believe education can <b>ameliorate</b> health inequalities.'",
+    "commonMistake": "Often confused with 'exacerbate'; students sometimes use 'ameliorate' when they mean 'worsen'.",
+    "slug": "ameliorate",
+    "topic": "health"
+  },
+  {
+    "word": "Exacerbate",
+    "pos": "verb",
+    "definition": "To make a problem, situation, or feeling more severe.",
+    "example": "Air pollution can <b>exacerbate</b> respiratory illnesses such as asthma.",
+    "exampleAlt": "The lack of sleep <b>exacerbated</b> his already high blood pressure.",
+    "difficulty": 2,
+    "collocations": [
+      "exacerbate symptoms",
+      "exacerbate the problem",
+      "exacerbate tension",
+      "exacerbate conditions"
+    ],
+    "synonyms": [
+      "worsen",
+      "intensify"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If a small spark ignites a fire, that spark is like something that 'exacerbates' the blaze.",
+    "writingTip": "Introducing sugary drinks in schools may <b>exacerbate</b> the rising obesity rates among children.",
+    "speakingTip": "pronounced eg-ZAS-uh-bate; try, 'Policy delays often <b>exacerbate</b> health disparities.'",
+    "commonMistake": "Students sometimes add ‘to’ after exacerbate (e.g., 'exacerbate to'), which is incorrect; it takes a direct object.",
+    "slug": "exacerbate",
+    "topic": "health"
+  },
+  {
+    "word": "Nutraceutical",
+    "pos": "noun",
+    "definition": "A food product that provides health benefits beyond basic nutrition.",
+    "example": "Omega‑3 fish oil is considered a popular <b>nutraceutical</b> for heart health.",
+    "exampleAlt": "Many consumers turn to <b>nutraceutical</b> supplements to boost immunity during flu season.",
+    "difficulty": 3,
+    "collocations": [
+      "nutraceutical industry",
+      "nutraceutical product",
+      "nutraceutical supplement",
+      "nutraceutical benefits"
+    ],
+    "synonyms": [
+      "functional food",
+      "dietary supplement"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a vitamin pill that does more than just feed you – that's a nutraceutical.",
+    "writingTip": "The rapid growth of the <b>nutraceutical</b> market raises questions about regulation and consumer safety.",
+    "speakingTip": "pronounced NOO-truh-SEE-tuh-fuhl; you could say, 'Do you think <b>nutraceutical</b> products are a reliable way to stay healthy?'",
+    "commonMistake": "Often misspelled as ‘nutraceuticals’ when referring to the singular; remember the singular ends with –al.",
+    "slug": "nutraceutical",
+    "topic": "health"
   }
 ]

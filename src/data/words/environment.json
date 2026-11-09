@@ -560,5 +560,57 @@
     "commonMistake": "Do not pair with 'to' – say 'recalcitrant against' or simply 'recalcitrant' without a preposition.",
     "slug": "recalcitrant",
     "topic": "environment"
+  },
+  {
+    "word": "Anthropocentric",
+    "pos": "adj.",
+    "definition": "Viewing the world primarily from a human perspective, ignoring non‑human interests.",
+    "example": "Many urban planning schemes remain <b>anthropocentric</b>, prioritising traffic flow over wildlife corridors.",
+    "exampleAlt": "Critics argue that a purely <b>anthropocentric</b> mindset hampers long‑term climate solutions.",
+    "difficulty": 2,
+    "collocations": [
+      "Anthropocentric view",
+      "Anthropocentric bias",
+      "Anthropocentric approach",
+      "Anthropocentric policy"
+    ],
+    "synonyms": [
+      "human‑centric",
+      "human‑oriented",
+      "person‑focused"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as wearing human‑shaped glasses that filter everything else out.",
+    "writingTip": "Governments should shift from an <b>anthropocentric</b> framework to one that recognises ecological interdependence when drafting environmental legislation.",
+    "speakingTip": "pronounced an‑THRO‑poh‑sen‑tric – you can drop it into a Part 3 answer like: “Many policies are still <b>anthropocentric</b>, which limits their effectiveness.”",
+    "commonMistake": "Often confused with ‘anthropogenic’, which describes human‑caused emissions rather than a human‑centred worldview.",
+    "slug": "anthropocentric",
+    "topic": "environment"
+  },
+  {
+    "word": "Biophilic",
+    "pos": "adj.",
+    "definition": "Describing a natural affinity of humans for living systems and nature.",
+    "example": "The architect incorporated <b>biophilic</b> elements such as indoor gardens to improve occupants' wellbeing.",
+    "exampleAlt": "A <b>biophilic</b> design can reduce stress by connecting people with natural light and greenery.",
+    "difficulty": 2,
+    "collocations": [
+      "Biophilic design",
+      "Biophilic architecture",
+      "Biophilic principle",
+      "Biophilic environment"
+    ],
+    "synonyms": [
+      "nature‑loving",
+      "eco‑affine",
+      "green‑oriented"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like a magnet that pulls you toward trees and streams.",
+    "writingTip": "Integrating <b>biophilic</b> features into office spaces not only enhances aesthetic appeal but also promotes mental health among workers.",
+    "speakingTip": "pronounced by‑OH‑fi‑lik – you might say, “I prefer <b>biophilic</b> spaces because they make me feel more relaxed.”",
+    "commonMistake": "Students sometimes use it as a noun (“a biophilic”) instead of keeping it as an adjective.",
+    "slug": "biophilic",
+    "topic": "environment"
   }
 ]
