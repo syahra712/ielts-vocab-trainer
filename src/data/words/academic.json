@@ -838,5 +838,155 @@
     "commonMistake": "Mixing up 'exemplary' with 'exemplified'; the former describes quality, the latter describes the act of giving an example.",
     "slug": "exemplary",
     "topic": "academic"
+  },
+  {
+    "word": "Coherent",
+    "pos": "adj.",
+    "definition": "Logically connected and consistent throughout.",
+    "example": "The essay presented a <b>coherent</b> argument that linked each paragraph to the thesis.",
+    "exampleAlt": "Researchers praised the study for its <b>coherent</b> structure and clear methodology.",
+    "difficulty": 2,
+    "collocations": [
+      "coherent argument",
+      "coherent structure",
+      "coherent narrative",
+      "coherent policy"
+    ],
+    "synonyms": [
+      "logical",
+      "consistent"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a train on a straight track – if every carriage follows the same line, the journey is <b>Coherent</b>.",
+    "writingTip": "A <b>coherent</b> essay not only states a point but also weaves supporting evidence seamlessly throughout the text.",
+    "speakingTip": "pronounced koh-HEER-ent; you can say, \"I find the <b>coherent</b> explanation of climate models convincing when discussing scientific research.\"",
+    "commonMistake": "Students often confuse <b>Coherent</b> with <b>Cohesive</b>, using the wrong word for logical flow instead of textual unity.",
+    "slug": "coherent",
+    "topic": "academic"
+  },
+  {
+    "word": "Synthesis",
+    "pos": "n.",
+    "definition": "The combination of separate ideas or findings into a unified whole.",
+    "example": "Her literature review demonstrated an impressive <b>synthesis</b> of conflicting theories.",
+    "exampleAlt": "The final chapter offered a <b>synthesis</b> of quantitative and qualitative data.",
+    "difficulty": 2,
+    "collocations": [
+      "theoretical synthesis",
+      "literature synthesis",
+      "synthesis of findings",
+      "synthesis approach"
+    ],
+    "synonyms": [
+      "integration",
+      "combination"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine mixing colors on a palette; the new hue is a <b>Synthesis</b> of the original shades.",
+    "writingTip": "A strong conclusion should provide a <b>synthesis</b> of the main arguments, showing how they interrelate.",
+    "speakingTip": "pronounced sin-THUH-sis; try, \"In academic research, a thorough <b>synthesis</b> of previous work strengthens your argument.\"",
+    "commonMistake": "Learners sometimes use \"synthesis\" as a verb; the correct noun form is needed unless you say \"to synthesize.\"",
+    "slug": "synthesis",
+    "topic": "academic"
+  },
+  {
+    "word": "Robust",
+    "pos": "adj.",
+    "definition": "Strong, reliable, and able to withstand criticism or variation.",
+    "example": "The study employed a <b>robust</b> methodology that accounted for multiple variables.",
+    "exampleAlt": "Even after peer review, the results remained <b>robust</b> and convincing.",
+    "difficulty": 2,
+    "collocations": [
+      "robust methodology",
+      "robust data",
+      "robust results",
+      "robust framework"
+    ],
+    "synonyms": [
+      "strong",
+      "sturdy"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a well‑built bridge; it stays firm under heavy traffic – that’s a <b>Robust</b> design.",
+    "writingTip": "When arguing a point, cite <b>robust</b> evidence that cannot be easily dismissed by the examiner.",
+    "speakingTip": "pronounced ROH-buhst; you could say, \"I prefer a <b>robust</b> argument that considers both sides of the issue.\"",
+    "commonMistake": "Students often pair <b>Robust</b> with uncountable nouns like \"information\" incorrectly; use it with countable nouns such as \"data\" or \"methodology.\"",
+    "slug": "robust",
+    "topic": "academic"
+  },
+  {
+    "word": "Epistemological",
+    "pos": "adj.",
+    "definition": "Pertaining to the theory of knowledge and its validation.",
+    "example": "The debate centered on the <b>epistemological</b> assumptions underlying social science research.",
+    "exampleAlt": "Her paper challenged the traditional <b>epistemological</b> framework of economics.",
+    "difficulty": 3,
+    "collocations": [
+      "epistemological debate",
+      "epistemological stance",
+      "epistemological inquiry",
+      "epistemological framework"
+    ],
+    "synonyms": [
+      "theoretical",
+      "philosophical"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If knowledge were a map, the <b>Epistemological</b> layer shows how we draw the borders.",
+    "writingTip": "A nuanced essay may critique the <b>epistemological</b> basis of the sources you cite, demonstrating depth of thought.",
+    "speakingTip": "pronounced eh-puh-suh-MAH-tuh-kul; you might say, \"From an <b>epistemological</b> perspective, we must question how data is interpreted.\"",
+    "commonMistake": "Learners sometimes misuse it for everyday knowledge; remember it refers specifically to the philosophy of knowledge, not general facts.",
+    "slug": "epistemological",
+    "topic": "academic"
+  },
+  {
+    "word": "Hermeneutic",
+    "pos": "adj.",
+    "definition": "Relating to the interpretation and understanding of texts, especially literary or philosophical works.",
+    "example": "The course introduced a <b>hermeneutic</b> approach to analyzing historical documents.",
+    "exampleAlt": "A <b>hermeneutic</b> reading can reveal hidden biases in classic literature.",
+    "difficulty": 3,
+    "collocations": [
+      "hermeneutic analysis",
+      "hermeneutic method",
+      "hermeneutic tradition",
+      "hermeneutic approach"
+    ],
+    "synonyms": [
+      "interpretive",
+      "explanatory"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a detective decoding clues; that detective work is a <b>Hermeneutic</b> process.",
+    "writingTip": "In a compare‑and‑contrast essay, you could employ a <b>hermeneutic</b> lens to unpack the underlying meanings of each text.",
+    "speakingTip": "pronounced hur-muh-NEW-tik; you could say, \"A <b>hermeneutic</b> perspective helps us understand why certain theories persist over time.\"",
+    "commonMistake": "Students often confuse <b>Hermeneutic</b> with \"hermetic\" (sealed); ensure the spelling includes \"-neu-\" for interpretation.",
+    "slug": "hermeneutic",
+    "topic": "academic"
+  },
+  {
+    "word": "Substantive",
+    "pos": "adj.",
+    "definition": "Having real substance; significant and meaningful in content.",
+    "example": "The committee requested a more <b>substantive</b> discussion of the policy's impacts.",
+    "exampleAlt": "Her research contributed <b>substantive</b> evidence to the field of renewable energy.",
+    "difficulty": 2,
+    "collocations": [
+      "substantive evidence",
+      "substantive change",
+      "substantive discussion",
+      "substantive contribution"
+    ],
+    "synonyms": [
+      "meaningful",
+      "significant"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If an idea were a sandwich, the <b>Substantive</b> part is the filling, not just the bread.",
+    "writingTip": "Avoid vague statements; provide <b>substantive</b> examples that directly support your thesis.",
+    "speakingTip": "pronounced SUB-stan-tiv; you might say, \"I think the government should make <b>substantive</b> reforms rather than symbolic gestures.\"",
+    "commonMistake": "Learners sometimes use <b>Substantive</b> as a noun; it is an adjective, so pair it with a noun like \"evidence\" or \"change.\"",
+    "slug": "substantive",
+    "topic": "academic"
   }
 ]

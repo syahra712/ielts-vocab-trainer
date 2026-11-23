@@ -809,5 +809,105 @@
     "commonMistake": "Confusing the verb 'disseminate' with the noun 'dissemination' and using the wrong form in a sentence.",
     "slug": "disseminate",
     "topic": "education"
+  },
+  {
+    "word": "Formative",
+    "pos": "adj",
+    "definition": "Relating to the development or shaping of abilities, attitudes, or character, especially during early stages.",
+    "example": "The <b>formative</b> years of primary school are crucial for establishing basic literacy skills.",
+    "exampleAlt": "Teachers use <b>formative</b> feedback to help students identify their strengths and weaknesses.",
+    "difficulty": 2,
+    "collocations": [
+      "formative years",
+      "formative assessment",
+      "formative experience",
+      "formative influence"
+    ],
+    "synonyms": [
+      "developmental",
+      "shaping"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a potter moulding clay – the early shaping is the formative stage.",
+    "writingTip": "In discussing education policy, you might write: \"Investing in high‑quality early childhood programmes provides a <b>formative</b> foundation that reduces inequality later in life.\"",
+    "speakingTip": "pronounced FOR-muh-tiv – you can say, \"I believe the <b>formative</b> stage of schooling determines a child's future confidence.\"",
+    "commonMistake": "Confusing \"formative\" with \"formal\"; remember it refers to development, not ceremony.",
+    "slug": "formative",
+    "topic": "education"
+  },
+  {
+    "word": "Constructivist",
+    "pos": "adj",
+    "definition": "Pertaining to a learning theory that holds learners actively construct knowledge rather than receive it passively.",
+    "example": "A <b>constructivist</b> classroom encourages students to solve real‑world problems collaboratively.",
+    "exampleAlt": "Many universities now adopt a <b>constructivist</b> approach to science labs, letting students design experiments themselves.",
+    "difficulty": 3,
+    "collocations": [
+      "constructivist approach",
+      "constructivist teaching",
+      "constructivist classroom",
+      "constructivist theory"
+    ],
+    "synonyms": [
+      "student‑centered",
+      "inquiry‑based"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine building a LEGO model yourself – that active building is what constructivist learning feels like.",
+    "writingTip": "When arguing about teaching methods, you could write: \"A <b>constructivist</b> approach better equips learners for the uncertainties of the modern workforce than rote memorisation.\"",
+    "speakingTip": "pronounced kun‑STRUHK‑tuh‑vist – try, \"In my view, a <b>constructivist</b> model fosters critical thinking in higher education.\"",
+    "commonMistake": "Using \"constructivist\" to describe any modern technique; it specifically refers to the learner‑centred knowledge‑construction theory.",
+    "slug": "constructivist",
+    "topic": "education"
+  },
+  {
+    "word": "Scholarly",
+    "pos": "adj",
+    "definition": "Characterised by serious academic study, research, or learning.",
+    "example": "The professor published a <b>scholarly</b> article on the history of mathematics.",
+    "exampleAlt": "Her dissertation was praised for its <b>scholarly</b> depth and rigorous methodology.",
+    "difficulty": 2,
+    "collocations": [
+      "scholarly article",
+      "scholarly work",
+      "scholarly reputation",
+      "scholarly pursuits"
+    ],
+    "synonyms": [
+      "academic",
+      "learned"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If knowledge were a library, a <b>scholarly</b> book would be the one with the most thorough research.",
+    "writingTip": "To impress the examiner, write: \"A truly <b>scholarly</b> education system must balance theoretical insight with practical application.\"",
+    "speakingTip": "pronounced SKOL-er-lee – you could say, \"I enjoy reading <b>scholarly</b> journals to stay updated on educational trends.\"",
+    "commonMistake": "Mixing up \"scholarly\" with \"school‑related\"; it implies a high level of academic rigor, not just anything taught in school.",
+    "slug": "scholarly",
+    "topic": "education"
+  },
+  {
+    "word": "Cognizant",
+    "pos": "adj",
+    "definition": "Having knowledge or awareness of something.",
+    "example": "Policy makers must be <b>cognizant</b> of the diverse needs of rural learners.",
+    "exampleAlt": "She was fully <b>cognizant</b> that language barriers could affect classroom participation.",
+    "difficulty": 2,
+    "collocations": [
+      "cognizant of",
+      "cognizant that",
+      "cognizant about",
+      "cognizant regarding"
+    ],
+    "synonyms": [
+      "aware",
+      "mindful"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a driver who constantly checks mirrors – that driver is <b>cognizant</b> of the surroundings.",
+    "writingTip": "In an essay you might argue: \"Governments should remain <b>cognizant</b> of socioeconomic disparities when allocating educational funding.\"",
+    "speakingTip": "pronounced KOG-ni-zuhnt – a natural insertion: \"I am <b>cognizant</b> of the challenges faced by adult learners returning to study.\"",
+    "commonMistake": "Using \"cognizant\" with the wrong preposition; it is followed by \"of\" (e.g., \"cognizant of the issue\").",
+    "slug": "cognizant",
+    "topic": "education"
   }
 ]

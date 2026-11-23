@@ -796,5 +796,55 @@
     "commonMistake": "Treating *milieu* as a verb or confusing it with *milieu*’s plural form; the word is singular and often paired with ‘the’.",
     "slug": "milieu",
     "topic": "society"
+  },
+  {
+    "word": "Patriarchal",
+    "pos": "adj.",
+    "definition": "Relating to a social system in which men hold primary power.",
+    "example": "In many <b>patriarchal</b> societies, women are underrepresented in leadership roles.",
+    "exampleAlt": "The <b>patriarchal</b> norms often dictate family decision‑making.",
+    "difficulty": 2,
+    "collocations": [
+      "patriarchal system",
+      "patriarchal norms",
+      "patriarchal society",
+      "patriarchal values"
+    ],
+    "synonyms": [
+      "male‑dominated",
+      "traditional"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as the ‘dad‑run’ version of a community.",
+    "writingTip": "Governments should challenge entrenched <b>patriarchal</b> attitudes to promote gender equality.",
+    "speakingTip": "pronounced pa-TRI‑ar‑kuh‑l; you can say, 'I believe many policies stem from <b>patriarchal</b> traditions.'",
+    "commonMistake": "Often confused with ‘patriotic’; remember it refers to gender power structures, not national pride.",
+    "slug": "patriarchal",
+    "topic": "society"
+  },
+  {
+    "word": "Secularisation",
+    "pos": "n.",
+    "definition": "The process of making institutions less influenced by religion.",
+    "example": "The rapid <b>secularisation</b> of schools has sparked debate across the nation.",
+    "exampleAlt": "Some argue that <b>secularisation</b> weakens communal bonds.",
+    "difficulty": 2,
+    "collocations": [
+      "secularisation trend",
+      "secularisation of education",
+      "secularisation policies",
+      "secularisation movement"
+    ],
+    "synonyms": [
+      "dechristianisation",
+      "secularization"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Like turning down the volume on religion in public life.",
+    "writingTip": "While discussing cultural change, note that <b>secularisation</b> can reshape societal values.",
+    "speakingTip": "pronounced se‑ku‑la‑ri‑ZAY‑shun; you might say, 'In many Western countries, <b>secularisation</b> is evident in public institutions.'",
+    "commonMistake": "Students often misspell it as ‘secularization’; both are correct, but use the British ‘‑isation’ for IELTS.",
+    "slug": "secularisation",
+    "topic": "society"
   }
 ]

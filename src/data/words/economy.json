@@ -760,5 +760,155 @@
     "commonMistake": "Confusing with ‘heterogeneous’; heterodox refers to ideas, not variety in composition.",
     "slug": "heterodox",
     "topic": "economy"
+  },
+  {
+    "word": "Arbitrage",
+    "pos": "n.",
+    "definition": "The simultaneous purchase and sale of an asset to profit from price differences in different markets.",
+    "example": "Investors engage in <b>arbitrage</b> when they buy gold in one country and sell it where it trades higher.",
+    "exampleAlt": "The hedge fund's success hinged on swift <b>arbitrage</b> across currency pairs.",
+    "difficulty": 2,
+    "collocations": [
+      "arbitrage opportunity",
+      "risk arbitrage",
+      "arbitrage strategy",
+      "price arbitrage"
+    ],
+    "synonyms": [
+      "speculation",
+      "trading"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of arbitrage as a shopper who buys a shirt on sale and immediately resells it at full price to make a quick profit.",
+    "writingTip": "The government's lax regulation created ample <b>arbitrage</b> opportunities, inflating market volatility.",
+    "speakingTip": "pronounced ar-bi-TRAJ; you can say, \"Many developing economies rely on <b>arbitrage</b> to balance trade deficits.\"",
+    "commonMistake": "Confusing arbitrage with \"arbitrary\" – the former is a strategic trade, the latter means random or capricious.",
+    "slug": "arbitrage",
+    "topic": "economy"
+  },
+  {
+    "word": "Exogenous",
+    "pos": "adj.",
+    "definition": "Originating from outside a system, especially an external factor influencing the economy.",
+    "example": "The sudden surge in oil prices was an <b>exogenous</b> shock to the nation's inflation rate.",
+    "exampleAlt": "Policy analysts often struggle to separate <b>exogenous</b> variables from endogenous trends in growth models.",
+    "difficulty": 2,
+    "collocations": [
+      "exogenous factor",
+      "exogenous shock",
+      "exogenous variable",
+      "exogenous influence"
+    ],
+    "synonyms": [
+      "external",
+      "outside"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine the economy as a house; exogenous factors are like a storm hitting it from outside.",
+    "writingTip": "The pandemic acted as an <b>exogenous</b> catalyst, reshaping global supply chains overnight.",
+    "speakingTip": "pronounced eg-ZO‑den‑us; try, \"An <b>exogenous</b> event such as a natural disaster can derail even the strongest economies.\"",
+    "commonMistake": "Using \"endogenous\" instead of \"exogenous\" when referring to outside influences.",
+    "slug": "exogenous",
+    "topic": "economy"
+  },
+  {
+    "word": "Endogenous",
+    "pos": "adj.",
+    "definition": "Arising from within a system; internal causes that affect economic performance.",
+    "example": "<b>Endogenous</b> growth models attribute long‑term expansion to technological innovation within the economy.",
+    "exampleAlt": "The researcher argued that consumer confidence is an <b>endogenous</b> driver of spending patterns.",
+    "difficulty": 2,
+    "collocations": [
+      "endogenous factor",
+      "endogenous growth",
+      "endogenous variable",
+      "endogenous response"
+    ],
+    "synonyms": [
+      "internal",
+      "intrinsic"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If the economy were a plant, endogenous factors are the nutrients it creates itself, not the soil it’s planted in.",
+    "writingTip": "Policies that nurture <b>endogenous</b> innovation can sustain economic growth without relying on foreign aid.",
+    "speakingTip": "pronounced en‑do‑GEN‑us; you might say, \"Many scholars emphasize the role of <b>endogenous</b> technology in shaping future markets.\"",
+    "commonMistake": "Mixing up \"exogenous\" and \"endogenous\" – the former is outside, the latter inside the system.",
+    "slug": "endogenous",
+    "topic": "economy"
+  },
+  {
+    "word": "Heterogeneous",
+    "pos": "adj.",
+    "definition": "Composed of parts or elements that are different in kind; diverse.",
+    "example": "The labour market has become increasingly <b>heterogeneous</b>, with freelancers, gig workers and full‑time staff co‑existing.",
+    "exampleAlt": "A <b>heterogeneous</b> portfolio can reduce risk by spreading investments across varied sectors.",
+    "difficulty": 3,
+    "collocations": [
+      "heterogeneous economy",
+      "heterogeneous workforce",
+      "heterogeneous market",
+      "heterogeneous sample"
+    ],
+    "synonyms": [
+      "diverse",
+      "varied"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a fruit salad: each piece is different, yet together they make a tasty whole – that’s heterogeneous.",
+    "writingTip": "Governments must design policies that accommodate a <b>heterogeneous</b> citizenry, ensuring equitable access to resources.",
+    "speakingTip": "pronounced he‑te‑roh‑JE‑nee‑us; you could say, \"A <b>heterogeneous</b> economy challenges one‑size‑fits‑all fiscal policies.\"",
+    "commonMistake": "Using \"homogeneous\" when you mean the opposite; \"heterogeneous\" signals variety, not uniformity.",
+    "slug": "heterogeneous",
+    "topic": "economy"
+  },
+  {
+    "word": "Disinflation",
+    "pos": "n.",
+    "definition": "A slowdown in the rate of inflation, not a reversal to negative inflation.",
+    "example": "The central bank's tighter monetary stance led to a period of <b>disinflation</b> after years of high price growth.",
+    "exampleAlt": "Analysts warned that prolonged <b>disinflation</b> could signal weakening consumer demand.",
+    "difficulty": 3,
+    "collocations": [
+      "disinflation trend",
+      "moderate disinflation",
+      "disinflationary pressure",
+      "persistent disinflation"
+    ],
+    "synonyms": [
+      "slowdown of inflation",
+      "price deceleration"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "If inflation is a car accelerating, disinflation is simply easing off the gas, not hitting the brakes.",
+    "writingTip": "While <b>disinflation</b> eases cost‑of‑living concerns, policymakers must guard against slipping into deflation.",
+    "speakingTip": "pronounced dis‑in‑FLAY‑shun; you might answer, \"Recent <b>disinflation</b> suggests the economy is stabilising after a boom.\"",
+    "commonMistake": "Confusing disinflation with deflation; the former is a slower rise, the latter is a fall in prices.",
+    "slug": "disinflation",
+    "topic": "economy"
+  },
+  {
+    "word": "Reallocation",
+    "pos": "n.",
+    "definition": "The process of moving resources, capital, or labour from one use or sector to another.",
+    "example": "The government's stimulus package encouraged the <b>reallocation</b> of funds from fossil‑fuel projects to renewable energy.",
+    "exampleAlt": "Technological change often triggers a massive <b>reallocation</b> of skilled workers across industries.",
+    "difficulty": 2,
+    "collocations": [
+      "capital reallocation",
+      "resource reallocation",
+      "labour reallocation",
+      "sectoral reallocation"
+    ],
+    "synonyms": [
+      "redistribution",
+      "shifting"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine a chess board: reallocation is moving pieces from one part of the board to a more strategic spot.",
+    "writingTip": "Effective <b>reallocation</b> of capital can boost productivity while reducing waste in stagnant sectors.",
+    "speakingTip": "pronounced ree‑al‑uh‑KAY‑shun; you can say, \"Rapid <b>reallocation</b> of talent is a hallmark of modern economies.\"",
+    "commonMistake": "Using \"allocation\" alone, which refers to the initial distribution, instead of \"reallocation\" which implies movement after the fact.",
+    "slug": "reallocation",
+    "topic": "economy"
   }
 ]

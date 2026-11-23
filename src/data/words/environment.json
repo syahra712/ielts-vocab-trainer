@@ -560,5 +560,133 @@
     "commonMistake": "Do not pair with 'to' – say 'recalcitrant against' or simply 'recalcitrant' without a preposition.",
     "slug": "recalcitrant",
     "topic": "environment"
+  },
+  {
+    "word": "Anthropocentric",
+    "pos": "adj",
+    "definition": "Viewing the world in terms of human interests and values.",
+    "example": "Many critics argue that an <b>anthropocentric</b> approach to policy neglects the intrinsic worth of nature.",
+    "exampleAlt": "An <b>anthropocentric</b> mindset often leads to short‑term gains at the expense of long‑term ecological health.",
+    "difficulty": 2,
+    "collocations": [
+      "anthropocentric view",
+      "anthropocentric bias",
+      "anthropocentric mindset",
+      "anthropocentric perspective"
+    ],
+    "synonyms": [
+      "human‑centred",
+      "human‑oriented"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of it as wearing human‑size glasses that colour everything you see.",
+    "writingTip": "Governments should move away from an <b>anthropocentric</b> framework and adopt policies that recognise the intrinsic value of ecosystems.",
+    "speakingTip": "pronounced an‑thro‑po‑CEN‑tric – you can slip it into a Speaking answer like, “From an <b>anthropocentric</b> angle, many people prioritize economic growth over environmental protection.”",
+    "commonMistake": "Students often confuse anthropocentric with anthropogenic, using the wrong term when discussing human‑caused emissions.",
+    "slug": "anthropocentric",
+    "topic": "environment"
+  },
+  {
+    "word": "Biophilic",
+    "pos": "adj",
+    "definition": "Relating to an innate human affinity for nature.",
+    "example": "Office spaces that incorporate <b>biophilic</b> elements, such as indoor plants, improve employee well‑being.",
+    "exampleAlt": "The architect’s <b>biophilic</b> design connects occupants with natural light and greenery.",
+    "difficulty": 2,
+    "collocations": [
+      "biophilic design",
+      "biophilic architecture",
+      "biophilic elements",
+      "biophilic environment"
+    ],
+    "synonyms": [
+      "nature‑loving",
+      "eco‑friendly"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like having a built‑in magnet that pulls you toward trees, rivers, and open skies.",
+    "writingTip": "Incorporating <b>biophilic</b> principles into urban planning can mitigate the mental health impacts of dense city living.",
+    "speakingTip": "pronounced by‑O‑fil‑ic – try, “I find <b>biophilic</b> spaces especially calming because they remind me of the outdoors.”",
+    "commonMistake": "Learners sometimes use biophilic as a noun (e.g., “a biophilic”) instead of the adjective form.",
+    "slug": "biophilic",
+    "topic": "environment"
+  },
+  {
+    "word": "Sequestration",
+    "pos": "n",
+    "definition": "The process of capturing and storing a substance, especially carbon, to keep it out of the atmosphere.",
+    "example": "Large‑scale <b>sequestration</b> projects in forests can offset a country's carbon emissions.",
+    "exampleAlt": "Geological <b>sequestration</b> involves injecting CO₂ deep underground for long‑term storage.",
+    "difficulty": 2,
+    "collocations": [
+      "carbon sequestration",
+      "sequestration projects",
+      "soil sequestration",
+      "sequestration capacity"
+    ],
+    "synonyms": [
+      "capture",
+      "storage",
+      "immobilisation"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Imagine plugging a leak in a pipe – that’s what sequestration does to carbon leaks.",
+    "writingTip": "Investing in <b>sequestration</b> technologies is essential if we are to meet the Paris Agreement targets.",
+    "speakingTip": "pronounced se‑kwes‑TRA‑tion – you could say, “<b>sequestration</b> of carbon in mangroves offers a natural solution to climate change.”",
+    "commonMistake": "Students often add an unnecessary preposition, saying “sequestration of of CO₂” instead of simply “sequestration of CO₂.”",
+    "slug": "sequestration",
+    "topic": "environment"
+  },
+  {
+    "word": "Overexploitation",
+    "pos": "n",
+    "definition": "Unsustainable use of natural resources that leads to their depletion.",
+    "example": "The <b>overexploitation</b> of marine stocks has caused many fish species to become endangered.",
+    "exampleAlt": "Policies must curb the <b>overexploitation</b> of groundwater to prevent future shortages.",
+    "difficulty": 2,
+    "collocations": [
+      "overexploitation of fisheries",
+      "overexploitation risks",
+      "overexploitation concerns",
+      "prevent overexploitation"
+    ],
+    "synonyms": [
+      "overuse",
+      "depletion",
+      "exhaustion"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "It’s like binge‑eating a buffet until the kitchen runs out of food.",
+    "writingTip": "Strict regulations are needed to stop the <b>overexploitation</b> of rainforests for timber and agriculture.",
+    "speakingTip": "pronounced o‑ver‑ex‑plo‑i‑TA‑tion – try, “Many developing nations face the challenge of curbing <b>overexploitation</b> of their natural assets.”",
+    "commonMistake": "Learners sometimes treat it as a verb, saying “we overexploit” instead of using the noun form “overexploitation.”",
+    "slug": "overexploitation",
+    "topic": "environment"
+  },
+  {
+    "word": "Resilience",
+    "pos": "n",
+    "definition": "The capacity of an ecosystem or community to recover from disturbances.",
+    "example": "High <b>resilience</b> allows coastal wetlands to bounce back after storm surges.",
+    "exampleAlt": "Building <b>resilience</b> in urban infrastructure is crucial for adapting to climate change.",
+    "difficulty": 2,
+    "collocations": [
+      "ecosystem resilience",
+      "community resilience",
+      "climate resilience",
+      "enhance resilience"
+    ],
+    "synonyms": [
+      "hardiness",
+      "robustness",
+      "elasticity"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of nature as a rubber ball that snaps back after being squeezed.",
+    "writingTip": "Policies that protect biodiversity also strengthen <b>resilience</b> against extreme weather events.",
+    "speakingTip": "pronounced re‑sil‑YENCE – you might say, “Investing in green infrastructure boosts a city’s <b>resilience</b> to flooding.”",
+    "commonMistake": "Students sometimes confuse the noun ‘resilience’ with the adjective ‘resilient’, which was excluded from the allowed list.",
+    "slug": "resilience",
+    "topic": "environment"
   }
 ]
