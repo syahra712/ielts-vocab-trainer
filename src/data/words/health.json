@@ -710,5 +710,56 @@
     "commonMistake": "Students often use 'mortality' instead of 'morbidity', confusing death rates with disease rates.",
     "slug": "morbidity",
     "topic": "health"
+  },
+  {
+    "word": "Virulent",
+    "pos": "adj.",
+    "definition": "Extremely severe or harmful in its effects.",
+    "example": "The outbreak was caused by a <b>virulent</b> strain of influenza that spread rapidly across continents.",
+    "exampleAlt": "Doctors warned that the <b>virulent</b> bacteria could resist standard antibiotics.",
+    "difficulty": 2,
+    "collocations": [
+      "virulent strain",
+      "virulent outbreak",
+      "virulent virus",
+      "virulent infection"
+    ],
+    "synonyms": [
+      "deadly",
+      "aggressive",
+      "lethal"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of a virus that attacks like a fierce tiger – that's virulent.",
+    "writingTip": "A <b>virulent</b> epidemic can overwhelm healthcare systems, underscoring the need for swift policy action.",
+    "speakingTip": "pronounced VY-ruh-luhnt; you can say, 'The <b>virulent</b> nature of the disease raises serious concerns.'",
+    "commonMistake": "Often confused with 'virtuous'; remember it describes harmful intensity, not moral goodness.",
+    "slug": "virulent",
+    "topic": "health"
+  },
+  {
+    "word": "Convalescence",
+    "pos": "n.",
+    "definition": "The gradual recovery of health after illness.",
+    "example": "After the surgery, she spent three weeks in <b>convalescence</b> before returning to work.",
+    "exampleAlt": "Effective nutrition can shorten the period of <b>convalescence</b> following a severe infection.",
+    "difficulty": 3,
+    "collocations": [
+      "period of convalescence",
+      "during convalescence",
+      "speed up convalescence",
+      "convalescence phase"
+    ],
+    "synonyms": [
+      "recovery",
+      "recuperation"
+    ],
+    "ieltsRelevance": "Writing Task 2, Speaking Part 3",
+    "tutorExplanation": "Think of 'convalescence' as the calm after the storm of sickness.",
+    "writingTip": "Governments should provide adequate support to individuals in <b>convalescence</b> to reduce long‑term disability.",
+    "speakingTip": "pronounced KON‑vuh‑les‑uns; you might say, 'During <b>convalescence</b>, patients need both rest and proper care.'",
+    "commonMistake": "Students often misuse it as a verb; it is a noun, not 'to convalesce'.",
+    "slug": "convalescence",
+    "topic": "health"
   }
 ]
